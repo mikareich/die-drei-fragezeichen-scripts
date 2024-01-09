@@ -18,7 +18,7 @@ jobs:
       - name: build
         run: npm run build
       - name: Version
-        run: npm version patch
+        run: npm version minor
       - name: publish
         run: npm publish --access public
         env:
