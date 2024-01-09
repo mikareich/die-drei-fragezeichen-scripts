@@ -1,6 +1,6 @@
 {
   "name": "@mikareich/die-drei-fragezeichen-scripts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CLI tool to analyze the number of tokens used in the Die Drei Fragezeichen Hörspiel-Skript's",
   "scripts": {
     "build": "tsc",
