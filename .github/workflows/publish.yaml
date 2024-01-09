@@ -18,10 +18,9 @@ jobs:
       - name: build
         run: npm run build
       - name: version
-        run:
-          - git stash
-          - npm version patch
-          - git stash pop
+        run: git stash
+        run: npm version patch
+        run: git stash pop
       - name: publish
         run: npm publish --access public
         env:
