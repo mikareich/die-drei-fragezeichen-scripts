@@ -1,0 +1,80 @@
+{
+  "script": [
+    {
+      "content": "Unsere Aufgabe ist es Fragen zu beantworten, Rätsel zu lösen und Geheimnisse jeglicher Art zu lüften.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Daher sind die drei Fragezeichen das Markenzeichen unserer Detektivfirma.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Schon richtig, ich verstehe.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ihr seid also hier, weil ihr das Geheimnis um meinen verschwunden Papagei erklären wollt?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ja, Sir.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, wenn ich das bloß glauben könnte. Tja, was mache ich nur mit euch, was mache ich nur Moment mal. Ich will mir eine Zigarette anstecken. Ja.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Hmm.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich bin mich leider gezwungen euch.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Bitte, Sir. Nein, nicht schießen, bitte.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nicht, Sir.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die Pistole ist ein Gasfeuerzeug.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "So ist es.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Sie wollten uns also einer Nervenprobe unterziehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, so ist es. Mr. Hitchcock, hatte mir euren Besuch telefonisch angekündigt, ja, warum ich euch ein wenig mal auf den Zahn zu fühlen.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Es tut mir leid, dass ich euch keinen Fall bieten kann.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ja, dann ist der Papagei gar nicht weg, aber Mr. Hitchcock sagte, Sie nehmen es sich so zu Herzen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Oder ja schon, aber jetzt ist der Lucky wieder da.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Lucky?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Lucky, ja, so heißt der Papagei.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "script": [
+    {
+      "content": "Eine Polizeiaktion nach einem entflogenen Papagei würde natürlich Aufmerksamkeit erregen. Die Polizei fürchtet, dass sie nur auf Schlagzeilen aus sind.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Genau. So ist es. Also keine Polizei.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Einverstanden. Geben Sie uns bitte ein paar Informationen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Über den Papagei? Gern. Ich hänge sehr an ihm, an Lucky. Sein voller Name ist Lukullus. Richtiger Lucius Leginius Lukullus. Ihr wisst, wer das war?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ein berühmter Feldherr aus dem alten Rom. Er hatte eine besondere Vorliebe für üppige Gastmäler. Lukullische Genüsse sagt man heute noch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Über Lukullus habe ich erst kürzlich ein Theaterstück geschrieben. Daher war ich entzückt, als man mir einen Papagei mit diesem Namen anbot. Und der darüber hinaus auch noch lateinisch sprach.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Lateinisch? Das muss ein besonders gelehriger Vogel gewesen sein.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, das ist richtig und seltsam dazu. Er sagte so schön seinen Namen. Lucius et Leginius et Lukullus, und dann Kopf oder Zahl, Errare humanum est.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Sonderbar, nicht wahr?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Hast du das gehört, Peter? Errare humanum est, Irren ist menschlich. Ich habe das Gefühl, dass wir mitten in einem ungewöhnlichen Fall stecken.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das habe ich schon lange.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sir, von wem haben Sie den Papagei?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Von einem mexikanischen Hausierer.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    }
+  ]
+}

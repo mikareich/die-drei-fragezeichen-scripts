@@ -1,0 +1,344 @@
+{
+  "script": [
+    {
+      "content": "Äschlin zündete auf der Veranda die Windlichter an, während Bob sich sofort an den Tisch setzte und den Brief inspizierte.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Seine Großtante Rosi war gleich nach der Rückkehr ihrer Gäste ins Bett gegangen.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Sie hatte ihnen allerdings noch einen großen Krug Kakao gemacht.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Davon schenkte sich nicht nur Justus großzügig ein.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Ja, also, dann wollen wir mal. Ja, das ist bestimmt ein Liebes-",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das wäre doch total langweilig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, wenn ihr mich lasst. Oh, wir sind ja schon leise.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Nothing, 24. Juli 1957. Liebe Loretta, bitte entschuldige, dass ich so lange nicht geschrieben habe. Die Arbeit hier in Nothing ist hart, aber die Leute vom Steinbruch zahlen gut. Ich bin einer großen Sache auf der Spur, bei der es anscheinend um ziemlich viel Geld oder Diamanten geht. Wenn es mir gelingt, diesen Schatz zu finden, kaufen wir uns nach meiner Rückkehr das Traumhaus mit dem Springbrunnen. Werde dir bald ausführlich berichten, aber schon mal so viel: Laut Tagebuch hat ein gewisser Thomas Greenhaw im Jahr 1865 hier in Nothing einen Schatz versteckt. Doch der Weg zum Schatz ist derart verschlüsselt, dass er nicht so leicht zu finden ist.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Habe das Buch gut im Spülkasten der Toilette versteckt. Für dich aber Greenhaus seltsame Hinweise abgeschrieben. Ziemlich knifflig, aber vielleicht weißt du, was er meint. Warst doch schon in der Schule cleverer als die anderen. Falls ja, gib mir bitte schnellstens Bescheid. Denk bitte daran, dies ist streng geheim. Ich gehe nun zu Bett und wünsche dir viel Erfolg beim Knobeln. Liebe dich von ganzem Herzen, dein Jim.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Also doch ein Liebesbrief.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hast du Tomaten auf den Ohren, Schwesterherz? Das ist doch kein Liebesbrief.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, und ob. Warten mal. Hier gibt's noch eine zweite Seite.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, darauf hat Jim einige Sätze notiert. Das sind garantiert die Hinweise auf den Schatz.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah, lasst mich doch jetzt mal lesen. Da steht alles- Oh, das ist aber seltsam. Alles begann im Nichts. Folge dem Vieh. Es führt dich zu dem Ort, an dem Hamlets Geliebte nicht sterben kann. Dort schaue der Ankunft von C4 entgegen. Ein beschwerlicher Pfad bringt dich auf neue Ebenen. Halte inne und gedenke all jener, die im Jenseits warten. Lang lebe die Königin. Grüß den Hüter ihres fleißigen Volkes, aber lasse ihn zurück. Die Geschwister Pinos und Ponderosa bilden das Tor zum krummen Pfad. Folge ihm und suche Schutz. Ein Feuer in der Dunkelheit führt dich zu außerordentlichem Reichtum. Das war's.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Geht's noch komplizierter? Kein Wunder, dass dieser Jim Brett vor dem Kopf hatte.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wobei, vielleicht ist es gar nicht so kompliziert. Ich glaube, ich habe den ersten Teil des Rätsels schon gelöst. Wirklich?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, es ist relativ einfach. Der erste Satz",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Geht's noch?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was? Ja, du kannst meinetwegen den ganzen Rest auflösen, aber zuerst bin ich dran, ja? Also, alles beginnt im Nichts. Das heißt natürlich, dass man in Nothing losgehen muss.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also, das hätte ich auch gewusst.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und der Satz danach, ja? Der hat sicher etwas mit Kühen zu tun.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mit Kühen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mit Kühen? Ach ja, natürlich, klar.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, mit Kühen, das könnte sein. Folge dem Vieh. Ja, ja, die Siedler haben vielleicht ihr Vieh auf einem bestimmten Weg auf die Weiden oder zum zum",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "zum Wasserloch gebracht.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, woher sollen wir wissen, wo das Vieh früher langgetrieben wurde? Ich meine, inzwischen gibt es ja doch ganz andere Straßen und Landwirtschaftswege.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und was hat es mit dem Hamlet-Ort und der Geliebten auf sich?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Hamlet ist ein Theaterstück von Shakespeare, aber das ist schon uralt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, er lebte von 1564 bis 1616 in England. Sein Drama Hamlet spielt allerdings in Dänemark. Sehr wichtiger Klugscheißer.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also dieser dieser Thomas Greenhaw war anscheinend ein gebildeter Mann.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, wir sollten versuchen, mehr über ihn herauszufinden, so erfahren wir möglicherweise auch etwas über seinen Schatz.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Vielleicht, vielleicht war dieser Greenhaw ein gesuchter Bankräuber oder oder ein Juwelendieb oder einer Presse.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oder einfach sehr reich.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er könnte irgendwo Gold gefunden haben, dass er, dass er anschließend hier versteckt hat. Vielleicht in Kalifornien. Da war das ja häufig der Fall.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, das würde mit dem letzten Satz zusammenpassen, aber was irgendwie komisch ist, dieser Thomas Greenhaw, der macht eigentlich sonst keine Rechtschreibfehler, beginnt aber das, das äh Adjektiv außerordentlich hier mit einem großen A und setzt dann noch ein großes U hinterher. Komisch. Also, deswegen gehe ich davon aus, dass diese diese beiden Buchstaben irgendwas bedeuten müssen. A u, a u, a u.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, was hat das mit einem Goldsucher in Kalifornien zu tun? Auf Kalifornien verweist es nicht, aber denkt an den Chemieunterricht und das Periodensystem der Elemente. Der Ordnungszahl 79 ist das Symbol A zugeordnet. Das ist die Abkürzung für Aurum. Aurum, ja, Aurum heißt Gold.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, aber natürlich. Ja, Mensch, dann, dann geht's vermutlich doch um einen Goldschatz.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir sollten morgen früh zum Motel fahren und das Tagebuch sicherstellen. Es ist anzunehmen, dass es sich noch immer im Spülkasten der Toilette befindet.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bob, deine Aufgabe wird es sein, alles zu den hiesigen Bauern um 1865 herauszufinden.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sehr wohl.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Über welche Wege trieben sie ihr Vieh, wo lagen die Weiden, wo waren die Wasserstellen? Außerdem möchte ich wissen, ob es Informationen über diesen Greenhaw gibt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber, aber was ist mit Hamlet?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ich denke, das kann ich euch erklären, wenn wir an Ort und Stelle sind.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Typisch Justus. Bevor er sich nicht zu 100 % sicher ist, behält er alles für sich.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber, er kann's nicht lassen, Andeutungen zu machen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Als Brian am nächsten Morgen gemeinsam mit Äschlin die drei Detektive in ihrem Zimmer aufsuchte, hatte er interessante Neuigkeiten zu berichten.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Morgen, Jungs.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Morgen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wartet mal, wo mein Bruder gerade gewesen ist.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Oh, es ist ein bisschen früh für solche Art von Denksportfragen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na schön, dann will ich mal nicht so sein. Ich bin bereits vor zwei Stunden aufgestanden und zum Limestone Motel gefahren.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Und?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich habe das Tagebuch gefunden. Ah, ist nicht wahr. Es lag tatsächlich noch im Spülkasten der Toilette.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Dieser Jim war allerdings nicht die hellste Kerze auf der Torte.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Wieso?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er hat es in eine, ja, undichte Tüte gewickelt, bevor er es im Wasser verstaut hat, oder besser gesagt, ja, versaut hat. Tatsächlich eine ziemlich dumme Idee, um ein Buch zu verwahren. Ist der Schaden schlimm?",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Schlimm, ist weit untertrieben. Hier, seht es euch an.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Oh nein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Tja, dieses Buch kann tatsächlich keine Geschichten mehr erzählen. Zwischen dem vergammelten Ledereinband befinden sich nur noch aufgequollene Überreste von Papier.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "So viel zu den Möglichkeiten, mehr über den Schatz zu erfahren. Und Bob, den Ausflug in die Bibliothek, um dort etwas über Greenhaw und die Viehwege herauszufinden, kannst du dir zumindest heute getrost schenken.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wieso?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Von unserer Oma habe ich nämlich gerade erfahren, dass sie mittwochs immer geschlossen hat.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ach nein, na toll, wie und wo setzen wir denn jetzt an?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich würde sagen",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier drin. Hier, hä?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "In diesem Buch äh eurer Großmutter, ja, bin ich gestern Abend auf einer kleine Landkarte von Nothing gestoßen und dieser kleine gelb markierte Weg, der hier, der führt aus dem Ort hinaus.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Zeig mal, hier. Siehst du? Da.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Alter Ochsensteig. Mhm. Alter Ochsensteig. Das klingt doch nach einem Weg, auf dem früher Vieh getrieben wurde.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Vollkommen richtig. In dem Rätseltext hieß es Folge dem Vieh. Es führt dich zu dem Ort, an dem Hamlets Geliebte nicht sterben kann.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Genau. Apropos Rätseltext, ich habe davon noch gestern Abend für jeden von uns eine Kopie angefertigt. So ganz nach dem Motto: Klubmitglied ist Klubmitglied.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Hier für euch.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Was ist das mit den Zetteln?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja. Aber damit ist nun jeder von uns gleichberechtigt und kann zu jeder Zeit am Rätsel herumnobeln.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Okay.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Also, an welchem Ort könnte Hamlets Geliebte nicht sterben?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das ist die Frage.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "War auf einer Weide vielleicht?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na, die Kenntnis von Shakespeare Drama ist an dieser Stelle hilfreich. In dem Theaterstück gibt es eine junge Frau namens Ophelia, der denen Prinz Hamlet macht ihr den Hof, scheint aber plötzlich nicht mehr in sie verliebt zu sein. Sie verfällt daraufhin dem Wahnsinn und ertrinkt in einem Bach.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, aber dann kann das hier auf der Karte aber nicht der gemeinte Ort sein. Wieso nicht? Hier, guck mal der der der Kuhpfad, der führt direkt zu einem Bach. Ja, aber in dem kann man nicht ertrinken. Der Shallow Water River führt im Sommer so gut wie gar kein Wasser, das sammelt sich auf der anderen Seite von Nothing im Blue Springs Creek, und dem Steinbruch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber dann passt es doch erst recht. Richtig. Reife Leistung, dritter. Ein Bach ohne Wasser ist ein Ort, an dem Hamlets Geliebte nicht ertrinken kann. So. Das Rätsel ist",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich würde sagen, wir haben ein erstes Ziel, Kollegen. Auf zum Ochsensteig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Prima, Kollege.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kollege.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

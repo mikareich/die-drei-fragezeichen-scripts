@@ -1,0 +1,588 @@
+{
+  "script": [
+    {
+      "content": "Bob's Großtante, Mrs. Rosie Renwick, entpuppte sich als eine herzliche Frau mit dichtem weißem Haar und tiefen Lachfalten um die Augen.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Als die drei Detektive mit Brian und Ashlyn auf ihrem Hof eintrafen, wurden die Gäste nicht nur von ihr freudig begrüßt.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Wau, ja, Bernadina, beißt der?",
+      "role": "character:Priscilla Sicktree"
+    },
+    {
+      "content": "Ach, das ist Old Buck, er ist schon sehr alt, aber ein guter Wachhund, wenn er euch erst einmal richtig kennengelernt hat, ist er ungefährlich.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Oh, Buck ist so lieb und er leistet mir seit vielen Jahren Gesellschaft. Er ist ein richtiges Familienmitglied und zugleich ein Andenken an meinen verstorbenen Mann.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Bewirtschaften sie die Farm denn ganz allein, Mrs. Renwick?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, nennt mich bitte Rosie.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Und nein, ich bekomme Hilfe von meinem Sohn Walter. Er lebt mit seiner Frau und seinem Sohn in einem kleinen Haus in Nothing, aber sein Arbeitsplatz ist hier, er ist Landwirt.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Ah ja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und manchmal hilft auch Jonathan mit, das ist unser Cousin. Jonathan hat letztes Jahr die Polizei-Akademie abgeschlossen. Er arbeitet jetzt für den Sheriff, aber die Sheriff-Station in Nothing soll wohl geschlossen werden, weil immer mehr Einwohner diese Gegend verlassen.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Doch genug geredet, ihr wollt euch das sicher umschauen, kommt erstmal mit ins Haus.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Hier lang, ja, ja.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Ist denn nicht der pure Luxus hier, aber es ist Platz für alle da.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Schön.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also Leute, in diesem Zimmer schlaft ihr, ja? Ich bin im Zimmer nebenan und Ashlyn hat eine Kammer unter dem Dach.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Also wir schlafen hier, ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Okay.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Ja, ist doch ganz schön hier.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, sehr schön.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ähm, stimmt es eigentlich, dass ihr Detektive seid?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ja, durchaus, Ashlyn.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ähm, hier, darf ich dir unsere Karte geben?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ähm, die drei Detektive, wir übernehmen jeden Fall. Drei Fragezeichen, erster Detektiv Justus Jonas, zweiter Detektiv Peter Shaw, Recherchen und Archiv Bob Andrews.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das bin ich.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Oh, sehr cool und ihr habt schon so richtig echte Kriminalfälle gelöst?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Wir sind auf Geheimnisse, Rätsel und mysteriöse Erscheinungen aller Art spezialisiert und unsere Erfolgsquote spricht für unsere Arbeit, aber nun seid ihr hier, weil eure Eltern und dein Onkel und deine Tante Justus entschieden haben, euch einmal in einem Ort Urlaub machen zu lassen, in dem es garantiert nichts aufzuklären gibt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Genau.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und da seid ihr in Nothing Gold, richtig?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh ja.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Wir schließen hier doch nicht einmal die Haustüren ab und haben es höchstens mal mit einem aufssässigen Waschbären zu tun.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ja, und vor ein paar Jahren ist ein Althebi nackt auf seinem Fahrrad durch den Ort gefahren, das stand sogar in der Zeitung.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Dabei war Nothing früher ein gefährlicher Ort, vor 150 Jahren ging es hier wegen der Goldsuche hoch her.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ach.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, wir haben hier doch gar nichts gefunden. In Nothing gibt es weder Gold, noch Silber, noch sonst etwas Wertvolles, selbst unser Steinbruch wurde schon vor vielen Jahren stillgelegt.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Ja, aber es gibt dort einen See, indem ihr nicht schwimmen dürft, das ist zu gefährlich.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ach ja, leider.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Also, und nun werde ich mich um das Abendessen kümmern. Ihr Jungs seid doch richtig hungrig, oder?",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Wir bestätigen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir sehen uns dann gleich.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Hamback.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "So, Rosie ist beschäftigt, Zeit über die wichtigen Dinge zu reden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Seid ihr mutig?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wollt ihr etwa trotz des Verbots in dem Steinbruch schwimmen gehen?",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Viel besser.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir besuchen ein verlassenes Motel hier ganz in der Nähe.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie jetzt?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das Limestone Motel, es wurde Ende der 50er Jahre geschlossen, genau wie der Steinbruch.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ach.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Es war eine Absteige mit billigen Zimmern für Saisonarbeiter und ein paar besseren Räumen für Handelsvertreter.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, und warum muss man mutig sein, wenn man das Motel besichtigen will?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Da spukt es da etwa?",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Kann sein. Es ist jedenfalls ein seltsamer Ort. Die Gebäude wurden nie wieder genutzt, aber in manchen Zimmern findet man noch Gegenstände von den Besuchern damals, na ja, Sachen, die zurückgelassen wurden.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Interessant. Wollen wir heute nach dem Abendessen hinfahren?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es ist nicht weit und in der Scheune stehen genug Fahrräder für uns alle.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Da brauchst du uns nicht lange zu bitten, Brian. Ich bin jetzt schon mehr als neugierig darauf. Und wie sieht es mit euch aus, Kollegen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ich auch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, wir sind dabei.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Sehr gut.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nach dem Abendbrot radelten die drei Detektive mit Brian und Ashlyn über einen Feldweg in Richtung Steinbruch.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Dabei erzählte Brian ununterbrochen von all den Dingen, die er über das Motel wusste.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "1957 hat es hier in der Gegend ein ungewöhnlich starkes Erdbeben gegeben.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Ach.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, mitten in der Nacht sind alle Stollen eingesagt, die man in den Steinbruch gehauen hatte. In der Grube entstand ein großes Sinkloch. Außerdem brach ein Teil des Motels zusammen, aber wie durch ein Wunder wurde niemand verletzt.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Lange Zeit galt das Motel als einsturzgefährdet, deshalb sind auch all die persönlichen Gegenstände auf den Zimmern liegen geblieben.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Sehr interessant. Und die hat nie jemand eingesammelt?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Nur die wertvollen Dinge. Der Steinbruch wurde geschlossen, die Arbeiter zogen weiter und niemand interessierte sich später noch für ein paar Fotos, Zeitungen, Socken oder halbleere Zigarettenschachteln.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Ihr jetzt aber schon.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Wie gesagt, es ist ein seltsamer Ort, das werdet ihr gleich sehen.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ich bin gespannt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da hinten ist es schon.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Oh je, Mann, das Motel sieht aber nicht gerade einladend aus.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Eher wie die Kulisse für einen Horrorfilm.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Meisten Fensterscheiben, die scheinen ja zerbrochen zu sein und elektrisches Licht gibt es wohl auch nicht, oder? Sonst würde es hier eine Straßenbeleuchtung geben.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Wartet ihr schon oft hier?",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Früher haben wir uns es nicht getraut, aber diesen Sommer wollten wir uns endlich mal umsehen. Im Anbau waren wir schon, da haben die Jugendlichen aus Nothing jahrelang heimlich Partys gefeiert. Die Räume in den Bungalows sind noch recht gut erhalten, die wollen wir noch genauer untersuchen.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Wenn ihr meint, dann wollen wir mal.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "An dieser Stelle kann man das Absperrgitter zur Seite drücken und hindurch schlüpfen.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ach, okay.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Kommt Leute.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh, was ist denn hängen geblieben hier?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ich auch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die Türen zu den Apartments sind im Laufe der Zeit alle aufgebrochen worden, so können wir ohne Probleme in jedes Zimmer rein.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Praktisch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ist das dunkel hier? Gut, dass wir unsere Taschenlampen mitgebracht haben, oder?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich schau mal ins Bad.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ich inspiziere in der Zwischenzeit mal den Nachtschrank.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ashlyn!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was war denn? Was, was, was ist passiert? Bist du verletzt?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Du blutest, da am Arm.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es ist nicht so schlimm. Ich wollte den Badezimmerschrank öffnen und bin irgendwo an einem vorstehenden Nagel hängen geblieben, dabei ist der komplette Schrank runtergeknallt.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Du solltest die Wunde besser schnell desinfizieren, nicht, dass sie sich entzündet.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es geht mir gut, ich brauche nur ein Pflaster.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Da sind auch Blutstropfen an den Wandfliesen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Hier hast du ein Taschentuch. Das muss reichen, die Wunde hat ja sogar schon aufgehört zu bluten.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Danke.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ashlyn, das, das alles ist...",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es geht mir wirklich gut.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Nein, das ist es nicht, die Prophezeiung, ein Knall, der die Stille teilt, Blutstropfen auf weißem Stein, es passiert tatsächlich.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie meinst du das? Was passiert tatsächlich?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Diese, diese Priscilla Sicktree, ja, aus dem Eiskaffee, die hat das alles vorhergesagt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, Peter, das ist doch bestimmt nur ein Zufall.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ein Zufall, oder sie kann wirklich in die Zukunft sehen und wir finden eine Botschaft aus der Vergangenheit.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Priscilla wurde in der Nacht geboren, als das Erdbeben kam. Sie hat einen besonderen Draht zu diesem Motel und dem Steinbruch.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Also Ashlyn, die Leute aus dem Dorf glauben vielleicht an solche Dinge, aber ich halte es dann doch lieber wie Bob und glaube an Zufälle.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na ja, ich bin trotzdem dafür, das Zimmer gründlich zu untersuchen, deswegen sind wir doch überhaupt hergekommen.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Also schön, ja, ich beuge mich dem Willen meiner kleinen Schwester, dann kommt Leute.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schon merkwürdig.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Brian und Ashlyn waren voll in ihrem Element. Die Suche machte ihnen offensichtlich viel Spaß. Für die drei Detektive hingegen war die Inspektion von verlassenen, aber ansonsten unverdächtigen Häusern wenig herausfordernd.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Justus ließ sich auf einen Stuhl fallen, der neben einem schmalen Tisch stand.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Äh, erstmal setzen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Oh nein, nein.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Das ich das mal erleben darf. Der Stuhl ist unter deinem Gewicht zusammengebrochen.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Haha, ich finde das überhaupt nicht witzig zweiter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es sah aber witzig aus. Komm wir meine Hand, ich helf dir hoch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Danke Ashlyn.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Der schöne Stuhl.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Zum Glück müssen wir den nicht ersetzen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Warte mal. Was ist denn Bob?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Seht doch mal da. Da liegt was.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wo?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hier, ein Stück Papier. Das, das ist ein Brief.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, der muss, der muss unter dem, unter dem Stuhlpulster eingeklemmt gewesen sein.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Gib mal her.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Okay, hier.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ein Brief.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das, das ist eine Botschaft.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Natürlich.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die Botschaft aus der Vergangenheit.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Peter, hörst du jetzt endlich mal auf?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Vergangenheit trifft auf jeden Fall zu. Der Brief ist von 1957.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was, red keinen Quatsch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ist da draußen jemand?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Es gibt hier Waschbären.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Es könnten auch Ratten sein.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Oder Geister. Wir sollten besser nach Hause fahren. Den Brief können wir ja einfach mitnehmen. Oma wartet bestimmt schon auf uns. Es ist gleich 10 Uhr.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Aber Ashlyn, wir haben doch gerade erst angefangen. Brian, bitte, ich will hier weg.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also gut, ja, den Brief stecke ich ein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier, danke dir, spricht ja nichts dagegen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Dann raus hier, mir reicht's jetzt wirklich.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Schön, also, gehen wir.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Okay, kommt Kollegen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

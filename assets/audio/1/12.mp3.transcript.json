@@ -1,0 +1,68 @@
+{
+  "script": [
+    {
+      "content": "Wie war das mit Schneewittchen?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ja, also, ich war zum Einkaufen und als ich zurückkam, war Schneewittchen weg. Der Käfig war offen.",
+      "role": "character:Miss Waggoner"
+    },
+    {
+      "content": "Also gestohlen?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ist Ihnen etwas Besonderes aufgefallen?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Nein, eigentlich nicht. Nur, dass ich beinahe überfahren worden wäre, als ich nach Haus kam, von einem schwarzen Sportwagen. Ein dicker Mann saß am Steuer.",
+      "role": "character:Miss Waggoner"
+    },
+    {
+      "content": "Ihr glaubt, ihr hat Schneewittchen gestohlen?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich fürchte ja.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Warum? Warum? Warum kauft er sich denn nicht selbst einen?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Das werden wir herausfinden, Madam.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Konnte Schneewittchen sprechen?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Aber ja doch. Sehr schön sogar. Sie sagte, weiß wie Schnee, rot wie Blut und braun wie Zedernholz. Ist Sherlock Holmes zu Hause?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Die Märchen der Brüder Grimm scheinen in Kalifornien nicht besonders gut bekannt zu sein.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Wie steht's denn mit euch?",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Nun, die drei Fragezeichen bemühten sich in den nächsten Tagen, mehr über die verschwundenen Papageien herauszufinden, jedoch vergeblich. Die sprechenden Vögel blieben spurlos verschwunden.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Justus rief Peter und Bob zur Besprechung in die Zentrale, dem Wohnwagen auf dem Schrottplatz.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "T",
+      "role": "ambient"
+    }
+  ]
+}

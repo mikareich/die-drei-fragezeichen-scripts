@@ -1,0 +1,28 @@
+{
+  "script": [
+    {
+      "content": "Du irrst dich nicht, Kollege, es geht um 1000 Dollar.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Um 1000 Dollar? Mann, was machen wir denn damit?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich denke, wir sorgen dafür, dass Carlos und sein kranker Onkel Ramos sie bekommen. Sie sind arm und brauchen dringend Hilfe. Seid ihr einverstanden, Kollegen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, prima Idee, Just. Ich bin einverstanden. Und du, Bob?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich natürlich auch. Mensch, dem Carlos fallen vor Freude die Augen aus dem Kopf, wenn er das Geld sieht, wetten?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das habt ihr gut gemacht. Gut gemacht.",
+      "role": "character:Unknown"
+    }
+  ]
+}

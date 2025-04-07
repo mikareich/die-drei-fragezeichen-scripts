@@ -1,0 +1,512 @@
+{
+  "script": [
+    {
+      "content": "Nichts.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Klingel nochmal.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er ist nicht da.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber ich weiß, wo sich der Zweitschlüssel befindet.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Voilà!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ah! Ein Versteck im Vogelhäuschen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nicht schlecht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Gespannt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Alles normal.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "War der Opa gerade nur kurz aus dem Haus gegangen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Irrtum zweiter. Es sieht eben nicht danach aus, als wäre er nur mal kurz weg.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bietz!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich habe deinen Opa als einen Menschen kennengelernt, der sich nicht gerade durch große Ordnungsliebe auszeichnet.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es ist ja auch nicht ordentlich hier.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, das nicht, aber es befindet sich keinerlei dreckiges Geschirr oder Besteck in der Spüle.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach so.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Bis auf zwei Flaschen Wasser ist der Kühlschrank komplett leer.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Keine verderblichen Lebensmittel.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hä?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das Bett?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das ist auch frisch bezogen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ben Peck ist nicht kurz aus dem Haus gegangen. Er hat es für längere Zeit verlassen. Geplant, als würde er eine Reise machen. Und nach der Staubschicht hier auf dem Schreibtisch zu urteilen, ist das mindestens zwei Wochen her.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, du hast recht, Justus.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, hatte nicht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Meine Mutter hat nämlich mit ihm telefoniert und ... und das ist erst eine Woche her.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, vielleicht hat sie auf dem Handy mit ihm telefoniert.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er hat gar keins.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich begreife das alles nicht. Warum sollte er verschwinden, ohne jemanden etwas zu sagen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und wieso überfällt er eine Tankstelle?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Moment mal.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was liegt denn da für ein Buch auf dem Nachttisch?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Altersdemenz, Ursachen, Diagnostik, Therapie.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was soll das denn zu bedeuten?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Als Demenz bezeichnet man eine Erkrankung des Gehirns, die hauptsächlich alte Menschen betrifft. Das Gehirn arbeitet nicht mehr richtig. Die Symptome sind Vergesslichkeit, Verwirrung und mitunter ausgeprägte Persönlichkeitsveränderungen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das weiß ich selbst alles, Justus.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mann, aber warum sollte Opa so etwas lesen, doch nicht",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Doch nicht etwa weil er ... Moment, weil er selbst?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hey!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier ist ein Lesezeichen im Buch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da hat jemand was drauf notiert. Zeig mal, hier.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das ist Opas Handschrift.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da steht Sunny Island, Neil Haus 3, 2.14. Maria da Silva, James Swift, Martha Longendale.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sunny Island? So heißt doch die Seniorenresidenz, die angerufen hat.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was hat das alles?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das jemand an der Haustür.",
+      "role": "ambient"
+    },
+    {
+      "content": "Vielleicht ein Einbrecher.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Still, Kollegen, kein Mucks.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mr. Mr. Castro!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was? Beruhigen Sie sich. Ich bin's, Peter Shaw.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh ja, wer?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Peter Shaw.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was, was treibst du denn hier?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ich hätte fast einen Herzinfarkt bekommen.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ja, das tut mir leid, ehrlich. Ich dachte, Sie wären ein Einbrecher.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Erinnern Sie sich an meine Freunde Justus und Bob?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, wer?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Justus Jonas und Bob Andrews.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach nein, nein, danke, nicht nötig.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ach so, na wir kennen uns doch, dass Justus, Justus und Bob, oder was?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ja, ja, richtig, hallo, Mister Castro, Hallo!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hallo.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Sie müssen lauter sprechen, Mr. Castro ist schwerhörig.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hallo, Mr. Castro, hallo, schön Sie zu sehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hallo, hallo.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Und sie sind Mr. Pecks Nachbar?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Tut uns wirklich leid, dass wir Sie so erschreckt haben.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ja, ja.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Wie wie seid ihr denn hier reingekommen? Ben ist doch gar nicht da.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ja, Zweitschlüssel, Mr. Castro.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sagen Sie, wissen Sie, wo Opa ist?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was was von?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Nein, mein Opa, Mr. Peck, wissen Sie, wo der ist?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja ja ja, nein, nein, ich hab keine Ahnung.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Sind Sie sicher?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir vermuten nämlich, dass er auf Reisen ist und da sie gerade ohne zu klingeln mit einem Schlüssel sein Haus betreten haben, nehme ich an, dass sie hier sind, um nach dem Rechten zu sehen und vielleicht die Pflanzen zu gießen, habe ich recht?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ja. Wher weißt du das?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ich habe nur Rückschlüsse aus meinen Beobachtungen gezogen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sie wissen also doch, wo Mr. Peck sich aufhält?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Peck? Nein, nein, nein, das weiß ich nicht. Er hat es mir nicht gesagt, er hat mich nur gebeten, alle paar Tage seine Post durchzusehen und seinen Anrufbeantworter abzuhören.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Wozu das?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Bitte?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Wozu das?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, wozu?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Wozu, um ihm Bescheid zu geben, wenn wenn es was Wichtiges gibt.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ja, also dann dann dann wissen sie doch, wo man ihn erreichen kann.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nein, nein, leider nicht. Er meldet sich alle paar Tage bei mir, wo er steckt, ja, weiß ich nicht.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Mr. Castro, wir wir wir müssen ihn dringend sprechen. Haben Sie denn gar keinen Anhaltspunkt, wo er sein könnte?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was für ein Punkt? Einen Anhaltspunkt. Wissen Sie nicht vielleicht, wo er sein könnte? Er muss doch irgendwas gesagt haben.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach ja, ja, das hat er, hat er Castro hat er gesagt, ich werde den Teufel tun und dir sagen, was ich vorhabe. Du posaunst es ja doch bloß in der Gegend herum.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Aha. Aha und wann war das?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie bitte?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Wann das war?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah ja, ja, das war ein, ach so, ja, das ist jetzt drei Wochen her.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Drei Wochen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja. Ja, aber meine Mutter hat doch neulich erst mit ihm telefoniert.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ja, deine Mutter, die die die hatte mal auf den Anrufbeantworter gesprochen und dann rief mich Ben einen Tag später an, dann habe ich ihm den Anruf ausgerichtet und na ja, ich nehme an, er hat bei ihr zurückgerufen.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Na ja, und verschwiegen, dass er gar nicht zu Hause war. Die die die Frage ist, wo war er, Justus?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich denke, wir kennen die Antwort.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mr. Castro, sagt Ihnen das Sunny Island Retirement Center etwas?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, schlechtes Wetter, schlecht.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Nein nein, das Sunny Island Retirement Center, sagt Ihnen das was?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ja natürlich. Warum warum sagst du es denn nicht? Das Seniorenheim in Ochsenhart, aber ja, natürlich. Seit ein paar Jahren lebt Neil Hooper dort. Der hat früher auch hier in der Straße gewohnt und mit uns gepokert, aber der Typ, ja, war nicht, aber dann ging's bergab mit ihm und er ist nach Sunny Island gezogen. Eine kostspielige Sache, aber, das kann er sich wohl leisten. Wieso fragst du danach?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Es gibt Hinweise darauf, dass Mr. Peck sich dort aufhalten könnte.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sagen Ihnen die Namen Maria da Silva, James Swift oder Martha Longendale etwas?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, nein, nein, noch nie gehört. Aber ihr sagt mir Bescheid, wenn ihr etwas über Ben da rausgefunden habt, ja? Vielleicht solltet ihr auch mal mit Harry sprechen.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Äh, wer ist das?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Harry Jacobson?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Harry Jacobson?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aha. Ja. Wer ist das?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was ist mit Harry Jacobson?",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ach, der gehört zu unserer Pokerrunde, vielleicht hat Ben ihm ja was erzählt.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Ja, das ist, das ist eine sehr gute Idee, Mr. Castro. Ich weiß auch, wo er wohnt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Schön. Mr. Castro, wir gehen dann jetzt und melden uns, wenn wir etwas herausgefunden haben.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ja, einverstanden.",
+      "role": "character:Mr. Castro"
+    },
+    {
+      "content": "Dann gehen wir jetzt, Wiedersehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wiedersehen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schönen Tag.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also, Kollegen, wir sollten dreierlei tun.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Zum einen möchte ich der Senioren Residenz in Ochsenhart einen Besuch abstatten.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da will ich auf jeden Fall mit.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gut, dann bleiben für dich Bob, die beiden anderen Ermittlungsoptionen übrig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Okay, die Tankstelle in Ventura und einen Besuch bei diesem Harry Jacobson, richtig?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Und wir sollten die drei Namen nicht vergessen, die dein Großvater auf seinem Lesezeichen notiert hat, Peter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber die recherchieren wir am besten am Computer in der Zentrale.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir treffen uns dort am späten Nachmittag zur Lagebesprechung.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Alles klar, gut, bis dann.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

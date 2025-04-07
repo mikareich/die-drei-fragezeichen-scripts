@@ -1,0 +1,96 @@
+{
+  "script": [
+    {
+      "content": "Von Senior Silva. Er hat gewohnt bei uns.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "John Silva.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was war mit diesem Mr. Silva?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er hatte wenige Kleider in Seesack und eine Karton wie Sack, eine Kasten aus Metall. Der war lang, breit und ganz flach.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Weiter, das interessiert uns sehr.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Jeden Abend Silva hat Kasten aufgemacht und gesehen hinein.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Dann war er sehr glücklich, sie sehr glücklich.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Was war in dem Kasten, Carlos?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Silva hat gesagt: In Kasten steckt Stück von Ende von Regenbogen mit Schüssel voll Gold runter.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Äußerst rätselhaft.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann Silva wurde krank. Aber er hatte kein Geld für Arzt und er hat gesagt: Verkaufen kann er Kasse nicht.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Er konnte nicht verkaufen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vielleicht, weil es zu gefährlich gewesen wäre? Vielleicht.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Eines Tages er ging weg. Er kam ohne Kasten wieder, aber mit Papageien. Er hat viel gesprochen mit Papageien.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Und sonst?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er hat geschrieben langes Brief.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Wohin ging dieser Brief?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich nicht weiß, aber ich glaube nach Europa.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Silva hat gesagt hat ein dickes Mann wird kommen und geben $1000 für sprechende Vögel.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Er lachte, er sagte, dass sein großer Spaß.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Am nächsten Morgen war er tot.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Der dicke Mann, damit kann nur Mr. Claudius gemeint sein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wieso habt ihr ihm die Vögel nicht gegeben?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

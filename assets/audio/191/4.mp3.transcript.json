@@ -1,0 +1,444 @@
+{
+  "script": [
+    {
+      "content": "Der alte Ochsensteig verlief unweit von Rosie Renwicks Farm.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Links und rechts dösten Rinder in der drückenden Nachmittagssonne.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Es war zu heiß, um sich beim Fahrradfahren auch noch zu unterhalten, und so war Justus froh, als die fünf endlich eine Wegbiegung erreichten, von der aus man das trockene Flussbett des Shallow Water River erspähen konnte.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Zwischen Geröll und größeren Findlingen gab es kleine Kuhlen, die mit bräunlichem Wasser gefüllt waren.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ah!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da werden wir.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also hier hätte Ophelia tatsächlich nicht ertrinken können.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es sei denn sie wäre eine Ameise gewesen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gehen wir mal davon aus, dass wir hier richtig sind.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, also im im Rätseltext heißt es, wir sollen der Ankunft von C4 entgegenschauen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "C4.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das ist eigentlich ganz einfach.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich habe gestern Abend nämlich noch ein bisschen im Internet recherchiert, als ihr alle schon geschlafen habt.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, immerhin gibt es auf Rosies Hof WLAN.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann hättest du ja auch gleich nachforschen können, wer dieser Thomas Greenhow war.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, das habe ich ja versucht, aber ich habe nichts über ihn finden können.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na damit war zu rechnen. Das Internet mag eine unerschöpfliche Quelle von Informationen darstellen, aber in so einem regionalhistorischen Fall kann ein lokales Archiv deutlich hilfreicher sein.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ganz genau. Aber wollt ihr denn nicht endlich wissen, wer oder was dieser C4 ist?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Eine Windgottheit in der griechischen Mythologie?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ja, ja und ist das alles?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich schätze, dass es ein Hinweis auf eine Windrichtung ist. Woher kommt, sollen wir hinschauen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah, okay, gut. Also C4 gehört tatsächlich zu den Anemoi, also den Göttern des Windes.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Symbolisiert den Westwind und zudem trägt er auch die Bezeichnung der vom Berg kommende.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, beides könnte hier wahnsinnig gut passen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber das lässt sich ja sogar überprüfen. Ich habe einen Kompass dabei, wartet mal.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah, sehr gut.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, sehr gut.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da ist Westen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ah!",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da, das ist Broken Nose Jump.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Vor ein paar tausend Jahren haben die Indianer bei der Jagd die Bisons über den Abgrund getrieben. Letztes Jahr hat Onkel Walter hier mit Jonathan und mir nach alten Büffelnochen gesucht.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oben bilden die Felsen übrigens eine Hochebene. Ich frage mich, ob wir darauf sollen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Thomas Greenhouse schreibt, dass der Schatzsucher einen beschwerlichen Pfad einschlagen soll, der ihn auf neue Ebenen bringen soll.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, das stimmt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ah, das klingt nach Klettern.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kommt man da überhaupt hoch?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Klar.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gut, es ist nicht ganz leicht, aber Ashlyn und ich sind im letzten Jahr mal raufgekraxelt, ne?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Weißt du noch?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das ist wahrscheinlich ein Problem, aber da müssen wir hoch. Worauf warten wir noch?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Los geht's!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Auf geht's!",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Oben angekommen, drehten sich die drei Detektive langsam einmal um die eigene Achse.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Die Hochebene bestand zum Großteil aus trockenem Grasland.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Nur im Norden gab es dichtes Buschwerk, Geröll und kleine Felsentürme.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Von hier oben hat man ja einen großartigen Ausblick.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, man kann sogar, man kann sogar den Steinbruch sehen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das müsste ähm im Osten sein, glaube ich.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das glaube ich jetzt nicht. Moment mal. Äh, mein Kompass sagt Nordosten.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Okay, Nordosten.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, den gab es aber zu Greenhous Zeit noch nicht.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wen, den Kompass?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Quatsch. Den Steinbruch natürlich. Also, wir haben Zeit bis zum Abendessen. Ich würde vorschlagen, dass wir uns aufteilen und die Ebene absuchen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Och, davon steht aber nichts im Rätsel.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Greenhouse schrieb doch etwas von Innehalten.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Richtig Ashlyn. Halte inne und gedenke all jener, die im Jenseits warten.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, genau.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, damit sind bestimmt Verstorbene gemeint. Man sagt doch, dass jemand, der nicht mehr lebt im Jenseits ist.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Fragt sich nur, deswegen wir ihrer gedenken sollen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das könnte da einen direkten Bezug zum Leben von Thomas Greenhouse geben. z.B. dass man von hier aus einen Ort sehen kann, an dem jemand aus seiner Familie gestorben ist.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, oder er bezieht sich auf ein Schlachtfeld.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schlachtfeld.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, Schlachtfeld. Brian, gab es hier in der Gegend Kämpfe mit mit Indianern oder vielleicht eine Schießerei mit Viehdieben oder sowas?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, kann schon sein, aber wir wissen leider auch nicht mehr als ihr.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Seht mal!",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Da unten kommt ein Auto!",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Das ist der Wagen von Sheriff Stone.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Was will er denn hier?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir sollten besser von hier verschwinden.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da hinten ist ein Trampelpfad, der zwischen den Felsen hinab führt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ein Trampelpfad? Warum hast du das nicht gleich gesagt, Brian?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Dann hätte ich mir die elende Kletterei ja erspart.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach ja, im Rätseltext hieß es nun mal, dass wir den beschwerlichen Pfad einschlagen sollten. In dem Punkt hätte man ein Auge zudrücken können.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kommt schon!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was jetzt los?",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Oh Mist! Jetzt hat uns der Sheriff doch gesehen.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Hallo Sheriff, ist alles in Ordnung? Ah, das sind übrigens unsere Gäste aus Rocky Beach, Justus Jonas, Peter Shaw und Bob Andrews. Sie wohnen für einige Tage auf unserem Hof.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ah ja.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Suchen Sie hier jemanden?",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Nicht ganz. Ein Farmer aus Brownley hat gemeldet, dass ihm vier Jungbullen entwischt sind.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Okay.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es ist möglich, dass die Tiere über die Felder bis hierher gekommen sind. Davon habe ich auch schon eure Großmutter unterrichtet.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Ich war schon heute früh auf eurem Hof.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Aha, äh diese diese diese Jungbullen, ja, sind die gefährlich?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na ja, man sollte auf jeden Fall vorsichtig sein. Mit ausgebrochenen Rindern ist nicht zu spaßen.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Von der oben haben wir aber keine gesehen, Sheriff.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Trotzdem ist es besser, wenn ihr auf direktem Weg zum Hof zurückgeht.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Ja, aber wir haben Fahrräder dabei.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na, dann holt sie bitte jetzt gleich. Sobald wir die Viecher haben, könnt ihr wieder so viele Ausflüge machen, wie ihr wollt.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Verstanden, Sheriff.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Viel Erfolg.",
+      "role": "Sheriff Stone"
+    },
+    {
+      "content": "Beeilen wir uns, Leute, ja? Ich will diesen wild gewordenen Viechern nicht begegnen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber es ist doch gar nicht gesagt, dass die Tiere überhaupt hier lang gelaufen sind. Brownleaf liegt fast eine Stunde entfernt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir sollten uns trotzdem beeilen. Wenn es nach mir ginge, ja, dann könnten wir es uns für den Rest des Tages auf dem Hof gemütlich machen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hauptsache diese diese Viecher bleiben mir vom Leib.",
+      "role": "Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

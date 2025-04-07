@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "content": "Blackbeard, wobei ihnen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Sie hatten ihn für 5 Dollar gekauft.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Also wir wissen, dass Claudius Lackin Schneewittchen und wenigstens noch zwei weitere Papageien hat.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also ist er der Lösung des Rätsels näher als wir. Davon müssen wir ausgehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Eines macht die Sache kompliziert, Kollegen. Es scheint so, als hätte dieser rätselhafte John Silver gewollt, dass Claudius die Papageien bekommt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mag sein. Das gibt Claudius aber noch lange nicht das Recht, sie einfach zu stehlen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Blackbeard, der Pirat! Mein Schatz vergrub ich in finsterer Nacht, wo die Toten halten ewig wacht. Ich habe noch jeden reingelegt.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ich möchte wissen, welche Rolle Blackbeard in dem Spiel hat.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vielleicht sollten wir Ich finde Peter, bevor wir neue Pläne schmieden, sollten wir Ordnung in die bekannten Fakten bringen, damit wir klarer sehen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also, ich glaube, alles fängt bei John Silver an.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nach allem, was uns Carlos mittlerweile noch erzählt hat, wissen wir, dass er illegal eingewandert ist.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Um seiner Verhaftung in England zu entgehen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er war sterbenskrank, deshalb versteckte er den Kasten und hinterließ sieben Papageien, Blackbeard eingerechnet.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Unter die Steine jenseits der Beine.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Er gab Ramos den Auftrag einen Brief abzuschicken, worauf ein dicker Mann kommen und ihm 1000 Dollar für die Vögel bezahlen würde.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    }
+  ]
+}

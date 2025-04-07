@@ -1,0 +1,88 @@
+{
+  "script": [
+    {
+      "content": "Das war meine Mutter. Sie sagt Mr. Claudius und eine Frau sind am Tor. Sie wollen mit uns reden. ",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Unmöglich. ",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es geht wirklich nicht. Los, kommt. ",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das war die Sensation des Falles, Super-Papagei. Damit hatte niemand gerechnet. ",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Die drei Fragezeichen hasteten hinaus. ",
+      "role": "ambient"
+    },
+    {
+      "content": "Am Tor des Schrottplatzes warteten tatsächlich Mr. Claudius und eine Frau. ",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Hallo Mr. Claudius. ",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hallo, das ist hier meine Frau, ja. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Tag. ",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Wir müssen miteinander reden. ",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Gern, wir hören. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich habe schon fünf von den sieben Papageien, die schon Silva sprechen gelernt hat, die übrigen bekomme ich auch schon noch, bin da ganz sicher. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Aber im Augenblick interessiert mich wirklich mehr, wieso ihr für Eugène arbeitet und wie viel er davon weiß. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Eugène? Moment mal, wer ist das denn? ",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Tut doch nicht so. Ich weiß, dass ihr ihn kennt. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Bedauere, wir kennen ihn nicht. ",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Eugène ist ein Franzose, der ist einer der größten Kunsthändler Europas und ich weiß, dass er hinter mir hinterher ist und dass er vor mir ans Ziel kommen will. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Wir wissen wirklich nichts von einem Monsieur Eugène. ",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und wieso interessiert ihr euch dann für die Papageien, hä? ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ganz einfach, Mr. Fentus glaubte ihm seine Papageien flogen. Wir erhielten den Auftrag diesen einen Papagei wieder herbeizuschaffen. ",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja. ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "script": [
+    {
+      "content": "Als die drei Detektive am Abend in ihren Betten lagen, startete Justus nachdenklich an die Zimmerdecke.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Kollegen, dieser Fall ist doch sehr merkwürdig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Findest du, Erster?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Na, bisher ist es doch eine recht normale Schatzsuche.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Man könnte sogar fast sagen, dass wir uns streng an die Anweisung meiner Mutter halten.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na ja, wir radeln durch die Wiesen, lassen uns von Großtante Rosie bekochen, halten uns von Verbrechern fern und klettern ein wenig auf Felsen rum und nehmen uns vor Rindern in Acht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, das meine ich nicht. Mir kommt es so vor, als würden wir alle auf einen Puzzle blicken, bei dem nicht alle Teile passen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Etwas ist falsch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hast du denn Erklärungen für die Vorhersagen von Mrs. Sicktree aus dem Eiscafé?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Darüber muss ich auch noch nachdenken.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na ja, wir haben ein paar geheimnisvolle Prophezeiungen einer Kellnerin. Die stehen in einem bisher nicht geklärten Zusammenhang mit einem Brief eines Steinbrucharbeiters aus dem Jahr 1957.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, und dieser Brief bezieht sich aber ein Rätsel aus dem Jahr 1865.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das wiederum etwas mit einem sehr wertvollen Goldschatz aus der Gegend zu tun hat.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, das Priscilla Sicktree entweder eine echte Hellseherin oder, oder sie weiß von dem Schatz.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es ist ganz schön heiß hier drinnen, oder? Ich öffne mal das Fenster.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber lass keine Mücken rein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Schon besser.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es wird Zeit, dass es regnet.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, der Regen wird mit dem Gewitter kommen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So hat es der Wetterdienst jedenfalls gemeldet.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wenn es schon morgen ein Unwetter gibt, können wir das für einen Recherche-Tag nutzen. Wir fahren mit dem Auto nach Nothing, gehen in die Bibliothek und überprüfen dann im Eiscafé, ob Mrs. Sicktree",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da ist was!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was denn?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wo denn? Zweiter?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Hey, da ist jemand im Schuppen!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vielleicht hat Brian etwas vergessen, oder es ist Ashlyn.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wenn hier im Haus jemand die Treppe runter gegangen wäre, ja? Dann hätten wir es doch knarren gehört.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Stimmt. Außerdem hätten die beiden bestimmt das Licht im Schuppen angemacht.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wer immer dort herumgeistert, der benutzt eine Taschenlampe.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Kommt, Kollegen, wir schlüpfen in unsere Klamotten und überraschen den Unbekannten.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Okay.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber leise.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So, fertig.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, nein, meine Socke ist...",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Doch, ich find das.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So, dann barfuß. So. Dann los, wir steigen aus dem Fenster.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Der Schatten dort.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was ist das?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das, das ist der Hund, meinst du?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Bucky, Bucky, wir sind es doch nur.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja komm mal her.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Sei bloß vorsichtig, Zweiter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir haben schon im Schuppen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das Licht der Taschenlampe ist jetzt aus.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Komm Bucky, komm.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ah, oh!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das war knapp!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und mein Haar wäre mit dem Pferd zusammengeprallt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da saß der Einbrecher drauf.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Den holen wir nicht mehr ein.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wenn er über die Felder reitet, dann, dann ist er weg, bevor wir auch nur den Schlüssel des Pickups aus dem Haus geholt haben.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Verdammt.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Was machen Sie denn hier draußen?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ashlyn und Brian. Ist etwas passiert?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, wir haben in eurem Schuppen einen Einbrecher gesehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wirklich?",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Und ihr habt euch nicht getäuscht?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Nein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Warum sollten wir uns täuschen? Wir haben mit eigenen Augen gesehen, wie jemand erst im Schuppen umhergeschlichen und dann mit seinem Pferd abgehauen ist, im Galopp.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber hier auf dem Hof gibt's doch gar nichts zu holen.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ja, und schon gar nicht in dem Schuppen.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Davon sollten wir uns aber besser persönlich überzeugen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das sehe ich auch so.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Kommt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So. Ich mache mal Licht.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Fällt euch was auf?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ähm, nee, sieht alles normal aus.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was sollte hier auch jemand?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Moment!",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Auah, das gibt's doch nicht!",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Was hast du denn, Ashlyn?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Meine Kopien vom Rätseltext. Ich hatte sie heute Abend hier auf dem Tisch liegen gelassen, und jetzt sind sie weg.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Wie jetzt weg? Was?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und, und, und was um alles in der Welt hat dich dazu veranlasst, den vertraulichen Rätseltext auf diesem Schuppentisch zu hinterlassen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na ja, ich, ich dachte, dass wir als Detektive so etwas wie eine geheime Zentrale bräuchten und dafür schien mir der Schuppen ideal zu sein.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Eine großartige Idee, Ashlyn. Aber wer hätte denn von dem Rätselbrief wissen können und dass er hier im Schuppen auf dem Tisch liegt?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Von den Kopien, die Ashlyn angefertigt hat.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sag mal, du hattest die erst drüben im Haus, im Büro, liegen gelassen, nicht wahr?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja. Neben dem Kopierer.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Es war ein Fehler, so leichtfertig mit dem Rätseltext umzugehen. Zuerst befand er sich in einem Büro, in dem mehrere Menschen frei ein und ausgehen können. Dann lag er ungeschützt in einem Schuppen herum, wohlgemerkt einem Schuppen, der nicht einmal abgeschlossen wird, einem Schuppen, der auch noch gegenüber dem Bürofenster liegt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Scheiße!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Toll. Richtig toll.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "So konnte man vom Haus aus sehen, wie du mit den Zetteln über den Hof gelaufen und im Schuppen verschwunden bist.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "So viel zum Thema geheime Zentrale, so ein Quatsch.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, aber wer hatte zu dem Zeitpunkt freien Zutritt zum Büro eurer Oma?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Gestern morgen waren da eine Menge Leute, Rosie's Sohn Walter, Sheriff Stone mit seinem Assistenten Jonathan und Mr. Smith, der Futterlieferant.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Ah ja.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber von denen kommt eigentlich so keiner richtig in Frage.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ein Einbrecher ist auf dem Hof gewesen, so viel steht fest. Dach der Wachhund hat nicht angeschlagen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das kann nur eins bedeuten.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Old Buck kannte beide, den Eindringling und sein Pferd.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

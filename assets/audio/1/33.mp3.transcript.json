@@ -1,0 +1,72 @@
+{
+  "script": [
+    {
+      "content": "Jetzt fehlt nur noch eine Kleinigkeit. ",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Und das wäre?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir müssen bloß nur herausfinden, was das Ganze bedeutet. ",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Die drei Fragezeichen zogen sich wieder in ihre Zentrale zurück, um in Ruhe nachdenken zu können.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Gleichzeitig bemühten sich auch Mr. und Mrs. Claudius, das Rätsel des versteckten Mädchenbildes zu lösen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Also, fassen wir noch einmal zusammen.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Nacht und die Toten halten ewig wach! Juhu! Und eine Puddellram!",
+      "role": "character:Mr. Claudius"
+    },
+    {
+      "content": "Ich glaube, das ist es.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das muss es sein, ein Friedhof.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber welcher?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ist Sherlock Holmes zu Hause? Was hat der englische Detektiv mit dem Mädchenbild zu tun?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Ist mir auch rätselhaft. Sherlock Holmes ist tot.",
+      "role": "character:Mr. Claudius"
+    },
+    {
+      "content": "Richtig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber wo wohnte diese Figur aus den Detektivromanen?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "In der Baker Street in London.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also müssen wir nach einem Friedhof suchen, der an der Baker Street liegt. Das ist für mich völlig klar.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nun zu Teil zwei der Botschaft.",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

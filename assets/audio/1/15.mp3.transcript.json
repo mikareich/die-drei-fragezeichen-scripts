@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "content": "W\nährend wir hier warten, könnten wir ruhig noch mal überlegen. Mir ist denn nämlich noch etwas aufgefallen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na, lass sie nicht lange bitten, Just.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also, was sagte Schneewittchen noch? Weiß wie Schnee, rot wie Blut, braun wie Zedernholz. Und das ist doch falsch! Im Märchen heißt es doch, weiß wie Schnee, rot wie Blut, schwarz wie Ebenholz.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Lasst doch die Wortklauberei, Just. Was macht denn das schon für einen Unterschied?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich sehe da auch nichts Besonderes.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Lucky nennt seinen Namen immer so: Lucius et Licinius et Luculus.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm, wieso sagt er mal , also und?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das ist ebenfalls ein Fehler, also sind es schon zwei Fehler.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und da kann ich doch nur kichern, wenn wir eine Klassenarbeit schreiben, habe ich immer mehr als zwei Fehler.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das stimmt zwar, aber in diesem Fall steht fest, dass die Papageien einen gebildeten Lehrer hatten. Ein Fehler könnte vorkommen, aber gleich zwei? Ja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na, es sind ja auch zwei Papageien.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nee, Kollegen, dahinter steckt Absicht. Du meinst, also, es ist ebenso mühsam einem Papagei etwas falsches beizubringen, wie etwas richtiges?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm, genau das will ich damit sagen. Jetzt haben wir uns gefragt, warum steht der dicke Mr. Claudius Papageien? Nun stehen wir vor einem neuen Rätsel: Warum zitieren Papageien ihre sonderbaren Sprüche falsch? Wieso kennen die Papageien überhaupt so einen Zeug?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Den meisten Leuten genügt es völlig, wenn ihr Papagei sagt Lori ist lieb oder …",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der Fall wird umso geheimnisvoller, je länger wir uns mit ihm befassen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "script": [
+    {
+      "content": "mit Chauffeur.",
+      "role": "character:Peter Pasetti"
+    },
+    {
+      "content": "Natürlich.",
+      "role": "character:Peter Pasetti"
+    },
+    {
+      "content": "Ich denke, wir sollten nach Hause fahren, Mr. Morton.",
+      "role": "character:Miss Waggoner"
+    },
+    {
+      "content": "Der Papagei ist von allein zurückgekommen.",
+      "role": "character:Miss Waggoner"
+    },
+    {
+      "content": "Sehr wohl, die Herrschaften.",
+      "role": "character:Andreas von der Meden"
+    },
+    {
+      "content": "Ach, der dämliche Papagei hätte ruhig noch ein wenig wegbleiben können.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Du, Peter?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, Just, was ist?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schau mal zu dem Haus rüber.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich glaube, irgendwas ist nicht in Ordnung.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich weiß nicht was?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Der Ursprung entzieht sich wirklich meiner Kenntnis.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Du meinst, irgendwas passt nicht ins Gesamtbild?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Du kriegst nur nicht heraus, was es ist.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, genau.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also, mir fällt nichts auf.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Soll ich halten, die Herrschaften?",
+      "role": "character:Andreas von der Meden"
+    },
+    {
+      "content": "Nein, nein, Mr. Morton, fahren Sie nur weiter.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, Morton, wir müssen zurück, sofort, schnell!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sehr wohl, die Herren, ganz nach Wunsch.",
+      "role": "character:Andreas von der Meden"
+    },
+    {
+      "content": "Na, hör mal, Just, was ist denn in dich gefahren? Warum gehen wir um?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Weil ich jetzt weiß, was da nicht stimmt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Zum Haus von Mr. Fentriss führt nämlich keine Telefonleitung.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na und?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann hat er eben kein Telefon.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mr. Fentriss hat vorhin ausdrücklich gesagt, dass Mr. Hitchcock ihm unseren Besuch per Telefon angekündigt hat.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Jetzt weiß ich, dass das gelogen war, und wenn das gelogen war, dann ist auch noch mehr faul.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Seltsam, nicht wahr?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich glaube, auch dieser Mann, der sich als Mr. Fentriss ausgegeben hat, ist Ausländer.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, könnte sein.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

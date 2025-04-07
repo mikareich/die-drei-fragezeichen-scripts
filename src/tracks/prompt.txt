@@ -1,0 +1,13 @@
+Your task is to determine the correct chronological order of the following audio files based on their sequence in the plot. These files belong to a Die Drei Fragezeichen audio play, and you will receive additional metadata to assist you.
+
+Each filename may contain helpful hints about its position, such as numbers (e.g., "1.mp3", "Track 1.mp3", "Die Drei Fragezeichen Folge 123 - 1.mp3"). However, be cautious—some numbers in the filenames represent the episode number (ranging from 1 to 231) rather than the track order. Do not rely solely on filename numbers; instead, use contextual clues and metadata to determine the correct sequence.
+
+Additionally, some files may not be part of the actual audio play. If a file does not belong to the episode, it should be excluded from the final ordered list.
+
+It is absolutely essential that your response follows this exact format:
+
+[filename]
+[filename]
+[filename]
+
+No additional text, explanations, or formatting should be included—just the ordered filenames in the format above, seperated by a new line.

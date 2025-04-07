@@ -1,0 +1,124 @@
+{
+  "script": [
+    {
+      "content": "Eine Leinwand kann man zusammenrollen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wo ist das Rohr?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich habe es dort hingeworfen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Leuchte mal!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da liegt es ja. Ja, nimm es!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie ist die Röhre verschlossen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Kappen, die man abschrauben kann.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So, wo es jetzt?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Leuchte mal rein, Bob!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Los doch, Bob, leuchte!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, so ist es gut.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wir haben es geschafft! Seht, da ist das Bild!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir haben es! Mensch, Kinder, wir haben es wirklich geschafft.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nicht so laut! Bist du verrückt? Zum Auto, schnell! Wir wissen ja, bestimmt bald, dass der Metallkasten leer ist und dann kommt er zurück.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Im Auto sind kann uns nichts mehr passieren.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Bleibt stehen!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hör doch! Bleibt stehen!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Schneller, Kollegen! Schneller, sonst holt uns noch ein!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich kann nicht so schnell!",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wir sind ja schon am Tor.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Morton! Morton, starten Sie!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Bleibt stehen!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ins Auto rein mit euch! Fahren Sie, Mr. Morton, schnell!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sehr wohl, die Herrschaften.",
+      "role": "character:Morton"
+    },
+    {
+      "content": "Wir haben es geschafft!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Jeanée holt uns nicht mehr ein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wohin die Herrschaften bitte?",
+      "role": "character:Morton"
+    },
+    {
+      "content": "Wir fahren zur Polizei. Dort geben wir das Bild ab.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mr. Claudius kann es sich dort abholen, nachdem er auch der Polizei bewiesen hat, dass es ihm gehört.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er wollte doch eine Belohnung zahlen, oder erinnere ich mich?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

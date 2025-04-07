@@ -1,0 +1,60 @@
+{
+  "script": [
+    {
+      "content": "mach doch mal die Tür zu.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Danke.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir sind am Ende. Wir sind keinen Schritt vorangekommen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir müssten den Wagen finden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Unmöglich. Wir kennen ja noch nicht mal die Zulassungsnummer.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nicht unmöglich. Wenn wir ein paar tausend Kindern in Kalifornien fragen, stoßen wir bestimmt auf einen, der den Wagen gesehen hat. Logisch.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Glänzende Idee, Bob.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Meinst du wirklich, Just?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Genial einfach und deshalb glänzend. Wir werden die jungen Kalifornien fragen, irgendwann ist der Sportwagen bestimmt aufgefallen. Und über den Wagen spielen wir auch Mister Claudius auf.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, du du sprichst von deiner Telefonlawine, Justus.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Natürlich, Peter, anders geht es nicht. Jeder von uns ruft zehn bis zwölf Freunde und Bekannte an und die sollen dann wiederum ihre Freunde befragen und so weiter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Peter, die genaue Beschreibung bitte.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Gerne, Just. Also zweitüriges Ranger Sport Coupe, schwarz, rote Polster, neustes Baujahr, in Kalifornien zugelassen. Und polizeiliches Kennzeichen endet auf 13.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "13. Das müsste genügen. Wir bringen die Lawine ins Rollen und am Ende haben wir den Sportwagen und den dicken Mr. Claudius, vergesst nicht ihn zu erwähnen, Primajus.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

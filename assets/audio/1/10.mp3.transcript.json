@@ -1,0 +1,84 @@
+{
+  "script": [
+    {
+      "content": "Miss Ihm war weg, dann hat er ihn zu mir geschickt.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Sie wohnt nicht weit von hier.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Sie hat ihm auch einen Papagei abgekauft.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Dann hatte dieser Mexikaner noch mehr Papageien?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mhm.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Er hatte noch einen schwarzen, ziemlich verwahrlost aussehenden Vogel. Keiner wollte ihn.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Und wie ist Luculus nun abhanden gekommen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er wurde gestohlen.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Oder habt ihr schon mal gehört, dass ein Papagei mit seinem Käfig davon geflogen ist?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Nein, natürlich nicht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was war mit diesem dicken Mann?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er tat so, als wolle er mit bei der Suche nach Luculus helfen.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Und er stellte allerlei Fragen.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Als ich etwas von dem schwarzen Vogel sagte, wurde er ganz aufgeregt. Er meinte, das müsste Blackbeard sein.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Er kannte den Namen des schwarzen Vogels?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Seltsam.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann hörte er ein Geräusch. Er blickte aus dem Fenster, warf sich auf mich und fesselte und knebelte mich. Dann lief er nach draußen. Kurz darauf kam er mit euch zurück.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ich verstehe das alles nicht.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Wir Detektive werden dafür sorgen, dass sich das bald ändert, Sir.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich ahne bereits, dass Justus nicht nur nach dem Papagei, sondern auch noch nach etwas anderem fahnden will. Warum wohl?",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

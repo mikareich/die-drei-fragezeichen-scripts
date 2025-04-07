@@ -1,0 +1,92 @@
+{
+  "script": [
+    {
+      "content": "Onkel Ramos, was macht der dicke Mann mit dir? Onkel Ramos!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Heraus damit, du alter Ganove!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Lass ihn, Onkel Ramos! Was die Irre krank geredet, nichts sie gar wäre.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Du weißt, an wen du die anderen Papageien verkauft hast. Bei Blackbeard müsstest du dich doch noch erinnern können. Du hattest ihn ja noch, als die anderen schon verkauft waren.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Lassen Sie ihn, die ist krank, er nicht sich kann wäre, lassen Sie ihn los!",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Also ich habe schon vier von den anderen gefunden und gekauft, und die übrigen bekomme ich auch noch, ja? Aber vor allem muss ich Blackbeard haben. Und du weißt, wo er ist, also rede endlich!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Lassen Sie ihn!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was wollt ihr denn hier? Haut ab! Ihr habt hier nichts verloren.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Los Peter, los Bob, wir packen ihn!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bleibt bloß, wo ihr seid, ihr drei. Seht ihr? Ich habe schon seinen Neffen, hier diesen mexikanischen Bengel, und wenn ihr euch nicht benehmt, dann werdet ihr schon sehen, was ich mit ihm mache!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich, ich lass mich!",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Verdammter!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "A!",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Carlos ist frei!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Los, auf den Weg!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Haltet ihn fest!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er will weglaufen! Festhalten!",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Er entwischt uns!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Verflixt! Haltet ihn!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Zu spät!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, lass ihn laufen, er ist schon beim Auto.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Geräusche eines Autos",
+      "role": "ambient"
+    }
+  ]
+}

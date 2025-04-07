@@ -1,0 +1,396 @@
+{
+  "script": [
+    {
+      "content": "Es war gerade 10 Uhr, doch auf Sunny Island waren schon fast alle Lichter gelöscht.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Als ich die drei Detektive vor dem Gebäude mit Elin trafen, sah die junge Pflegerin sehr besorgt aus.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Hallo.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Hi.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hi.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Äh, das ist übrigens Bob, unser dritter Detektiv.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hallo, hi.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ich sag es ganz ehrlich, Jungs, wohl ist mir nicht bei der Sache. Wenn ich dabei erwischt werde, wie ich unbefugt nachts Zutritt zur Residenz verschaffe, kann mich das meinen Job kosten.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ja, ja.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und dann noch einen Tag vor der Kommission, wo alle immer besonders nervös sind.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Moment, Kommission?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir haben regelmäßige Visiten von einer Kommission des Gesundheitsamtes. Da werden die hygienischen Zustände kontrolliert, die medizinische Versorgung, die Sicherheit und so weiter. Morgen früh um 10 Uhr ist es mal wieder soweit. Wahrscheinlich herrscht sogar in der Buchhaltung noch Betrieb, damit die ganzen Akten morgen auf Hochglanz sind. Dass ich ausgerechnet eine Nacht zuvor mit euch hier herumschleiche, das macht sich gar nicht gut.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ja, keine Sorge, Elin. Niemand wird uns sehen, versprochen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "In Puncto Buchhaltung, ich habe inzwischen übers Internet herausgefunden, dass Mrs. Longdale, Mrs. Da Silva und Mr. Swift alle drei in staatlichen Einrichtungen untergekommen sind und das, obwohl sie vorher wohlhabend genug waren, um sich Sunny Island leisten zu können.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Und?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Findest du das nicht ungewöhnlich?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Nein, Justus.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Nein. Wenn einem Bewohner das Geld ausgeht, muss die Heimleitung ihn leider woanders unterbringen. Das ist nun mal nicht anders möglich in einer privaten Seniorenresidenz. Manchmal reichen die Ersparnisse eben nicht.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ja, schon. Es muss doch mehr dahinter stecken. Sonst hätte Ben Peck sich doch nicht diese drei Namen notiert.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mag ja sein, dass Ben da mehr vermutet hat, aber die Verlegung eines Bewohners in eine staatliche Einrichtung ist ein absolut normaler Vorgang.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Dann hören wir mal, was Mr. Hooper dazu sagt, Elin.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie kommen wir ungesehen zu ihm?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ganz einfach über den Personaleingang. Der ist ab 22 Uhr nicht mehr besetzt.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Okay.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gibt es, gibt es Nachtschwestern, die uns in die Quere kommen könnten?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na und ob, aber die sind in der Regel in den Schwesternzimmern, wenn sie nicht von den Bewohnern rausgeklingelt werden.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Nachdem Elin die drei Detektive ungehindert durch den Personaleingang geschleust hatte, ging es durch ein schwach beleuchtetes Treppenhaus hinauf in den zweiten Stock.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Kurze Zeit später standen sie vor Mr. Hoopers Zimmertür.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Das wir geschafft.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann wollen wir mal.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mr. Hooper, hören Sie mich?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wachen Sie auf, Mr. Hooper.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er rührt sich nicht.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Hast du eine Idee, wie wir ihn wach bekommen, Elin?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich hatte befürchtet, dass das passieren könnte. Du weißt ja, Mr. Hooper hat nur noch selten wache Momente und",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Der Fernseher.",
+      "role": "ambient"
+    },
+    {
+      "content": "Er hat sich eingeschaltet. Von selbst?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie ist das möglich?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da, da, auf dem Bildschirm, ein bleicher Totenschädel.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann wollen wir doch mal schauen, ob du mich sehen kannst. Na, siehst du mich? Kannst du mich hören?",
+      "role": "Mr. Hooper"
+    },
+    {
+      "content": "Ah, da bist du. Ich sehe dich und du siehst mich. Sehr gut.",
+      "role": "Mr. Hooper"
+    },
+    {
+      "content": "Was zum Teufel?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Seht doch, seht da, aus dem Fenster.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ja, im Gebäude gegenüber sieht man ein graublaues Fackeln hinter den Fenstern.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ha, da ist wohl das gleiche passiert wie hier.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Jungs, was geht hier vor?",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ich weiß es nicht, aber das ist keine normale Fernsehübertragung. Da speist jemand das Bild einer Videokamera ein.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Elin, von wo aus werden die hausinternen Werbevideos und die Wetternachrichten auf die Bildschirme übertragen?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber was?",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Wo wird die ganze Videotechnik gesteuert? Schnell! Wir müssen den Kerl mit der Totenkopfmaske erwischen. Unten im Erdgeschoss, am Ende des Hauptflurs.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bringen uns hin, Beeilung!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Verstanden, los, kommt!",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Bewohner sind aufgewacht und klingeln nach der Nachtschwester, die darf uns nicht erwischen. Los, kommt hier lang.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Wir linke Tür ganz am Ende.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Dann, da ist Mrs. Penny.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Im Fernseher ein Totenschädel!",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Da flüchtet jemand aus dem Technikraum, los, hinterher!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Lauf nur, Jungs, lauf!",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich kümmere mich um Mrs. Penny.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Der, der Kerl flüchtet nach draußen, Beeilung, Kollegen!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er läuft zum Strand.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Was gibt's doch nicht, er ist mit einem Motorboot getürmt. Ach, so ein Mist.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kollegen, was liegt denn da am Sand?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was seht ihr euch das an?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Eine, eine Strumpfmaske mit einem aufgedruckten Totenkopf.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, der gleiche Schädel wie auf dem Fernsehbildschirm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Äh, was machen wir jetzt?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gehen wir zu Elin zurück, Kollegen. Hier können wir eh nichts mehr ausrichten.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da ist Elin. Sie versucht Mrs. Penny zu beruhigen.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ich wusste es die Eren. Ihr habt also eingesehen, dass auf dieser Insel seltsame Dinge vor sich gehen, sonst wärt ihr nicht mehr Zahl in der Nacht hier und ihr wolltet das nicht glauben.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Bitte. Guten Abend, Mrs. Penny. Auf jeden Fall glauben wir Ihnen jetzt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Habt ihr den Mann erwischt?",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Nein, aber wir haben das hier gefunden.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der wandelnde Tod, Mrs. Penny. Das ist er.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nur eine Maske, sehen Sie?",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Das war nicht der Tod. Dieser Totenkopf im Fernsehen hat nichts mit der Gestalt zu tun, die hier nachts umherwandelt.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Wie, wie meinen Sie das?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Diese Maske habe ich noch nie zuvor gesehen.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Aber, aber ich dachte, wie sieht denn diese andere Gestalt aus?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Groß und weiß, wie ein Geist und da! Hinten ist er!",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Oh, mein Himmel, was ist das denn? Der Tod!",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Kommt, Kollegen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Eine, eine weiße Gestalt mit einem Totenschädel.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich würde es wohl eher als Gummimaske bezeichnen, zweiter.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich bin deines Vaters Geist, verdammt, auf eine Zeit lang nachts zu wandern.",
+      "role": "Mr. Turner"
+    },
+    {
+      "content": "Dürfte ich Sie höflichst bitten, die Maske abzunehmen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie die Herrin befehlen.",
+      "role": "Mr. Turner"
+    },
+    {
+      "content": "Na, sowas, den Herrn kennen wir doch. Das ist Mr. Turner, ein ehemaliger Schauspieler. Heute weiß er schon mittags nicht mehr, was er zum Frühstück gegessen hat, aber an seine Hamlet-Texte scheint er sich noch immer sehr gut zu erinnern.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Verstehe. Und nachts schleicht er hier durch die Residenz und erweckt den Geist von Hamlets Vater zum Leben.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Niemand bekam davon etwas mit, außer Mrs. Penny, die ihm regelmäßig auf ihren nächtlichen Streifzügen begegnete, aber ihr glaubte natürlich niemand.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Na, das wird sich von nun an hier hoffentlich ändern.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Nennt mich, was für ein Instrument ihr wollt. Ihr könnt mich zwar verstimmen, aber nicht auf mir spielen.",
+      "role": "Mr. Turner"
+    },
+    {
+      "content": "Und was ist jetzt mit Mr. Hooper? Sollten wir den nicht noch",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, davon rate ich euch dringend ab. Da oben wird inzwischen der Teufel los sein und ich wollte euch eh schon bitten, von hier schnellstens zu verschwinden. Wenn euch die Heimleitung hier erwischt, dann kann mich das meine Stelle kosten.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Also schön, aber aufgeschoben ist nicht aufgehoben, Elin.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das ist mir schon klar. Ihr könnt euch auf mich verlassen, Jungs.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Dann kommt, Kollegen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

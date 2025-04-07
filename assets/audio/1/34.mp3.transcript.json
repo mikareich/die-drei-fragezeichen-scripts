@@ -1,0 +1,92 @@
+{
+  "script": [
+    {
+      "content": "Lucculus sagt: Lucius et Likinius et Lucculos.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das et muss eine Bedeutung haben.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Et heißt und, also plus.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Plus?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was schreibst du da, Justus?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja? Drei große L, wieso drei L?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die Anfangsbuchstaben: Lucius et Likinius et Lucculos. Kopf oder Zahl heißt es in der Botschaft.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Der Kopf ist der Anfang der Wörter. Also das L. Spell.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "John Silver wollte damit sagen, L ist eine Zahl.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Eine Zahl?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "L ist die römische Zahl 50.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "50 + 50 + 50?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "150.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Genau. Baker Street 150.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Da fällt mir ein: Südlich von Los Angeles gibt es einen Friedhof, der an einer Baker Street liegt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und der Rest der Botschaft? Was bedeutet der?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, Ortsangaben auf dem Friedhof. Wir müssen das an Ort und Stelle prüfen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Jetzt?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es ist schon dunkel.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir müssen los. Rufen wir Mr. Morton und den Rolls Royce.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nachts auf dem Friedhof. Mir schlottern jetzt schon die Knie.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich habe nur Angst davor, dass Mr. Eugene uns zuvorkommt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "script": [
+    {
+      "content": "Dann aber erschien ein kleiner Junge in abgerissenen Kleidern. Er hielt einen Esel an der Hand, der vor einen zweirädrigen Karren gespannt war.",
+      "role": "ambient"
+    },
+    {
+      "content": "Senor Justus!",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Ja, ich bin Justus Jonas und wer bist du?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich bin Carlos.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Das Auto, wo ist es? Kann ich sehen?",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Das Auto? Was für ein Auto?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus, du bist doch sonst so hell. Er meint den Rolls-Royce.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Ach ja, der Wagen ist in der Garage.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ein goldenes Auto. Das muss sein sehr schön. Kann ich sehen?",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Wie bist du in unserer Autosache hergekommen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sieh, Sie, Senor Justus. Gestern kam ein Freund zu meinen Haus. Er sagte, ein Senor Justus wünscht von Ranger Auto zu hören mit Nummer am Ende 31.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Und hier gibt es Belohnung?",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Aber sicher gibt es die. Hast du den Wagen gesehen? Wo ist er?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Oh ja, ich habe gesehen. Ich habe so viel Freude an Autos. Der Ranger ist ein herrliches Wagen. Ich weiß auch Nummer. Da raus damit. AK",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "4531. Rotes Ledersitze, Kratz-Anstoßstange.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Mann, das nenn ich Beobachtungsgabe. Wann hast du den Wagen gesehen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vor acht Tage.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Oh, das nützt gar nichts.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nützt nicht? Dann bekomme ich keine Belohnung?",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Vielleicht doch. Erzähle, wo bist du dem Auto begegnet?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "script": [
+    {
+      "content": "Klingel",
+      "role": "ambient"
+    },
+    {
+      "content": "Hustet",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der Schlüssel zu Opas Wohnung ist weg.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja. Ich weiß ganz genau, dass ich ihn wieder zurück ins Vogelhäuschen gelegt habe.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sie doch, die Haustür ist nur angelehnt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Einbrecher im Haus sind?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das werden wir gleich wissen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was wollen die von Opa? Bei ihm ist doch nichts zu holen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sehen wir leise nach.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hände hoch! Drückt euch nicht von der Stelle. Wer sind Sie?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Das ist Bob. Gib das Handy her, los doch!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich habe Ihre Pistole.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "So, und jetzt nicht bewegen, klar? Schön brav sein. Jetzt zeig mir mal deinen Ausweis, los!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Aber keine Tricks, ja? Her damit, los!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hier, Just, geh mal ran.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hallo Bob, gibt es Neuigkeiten? Wir sind gerade etwas beschäftigt. Ich gehe mal kurz mit dir an die Seite und fasst dich bitte kurz.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na ja, okay, ich verstehe. Also, Mr. Peck war gestern bei Harry Jacobson. Er hat ihm viel wirres Zeug erzählt, auf das ich Mr. Jacobson jedoch keinen Reim machen konnte. Doch dann hat Mr. Peck ihm von einer Pflegerin auf Sunny Island erzählt, der er vertraut. Jacobson soll sie aufsuchen, falls etwas Schlimmes passiert oder Mr. Peck spurlos verschwindet. Ihr Name ist Elen Djawadi. Elen mit einem Y in der Mitte.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Hier ist der Ausweis von unserer Einbrecherin, Justus. Ihr Name lautet Elen Djawadi.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Bitte?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es tut mir leid, Bob, aber ich muss dich schon wieder abwimmeln, wir melden uns später.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, okay, alles klar.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Peter, sei so galant und hilf unserer Verbündeten bitte wieder auf die Beine.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Äh, wie jetzt?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dein Opa hat Mr. Jacobson anvertraut, dass Mrs. Djawadi auf seiner Seite ist.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na, wenn das so ist, kommen Sie, Miss...",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Entschuldigung, wollte sie nicht...",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich bin ja heilfroh, dass alles nur ein großes Missverständnis war. Hätte ich gewusst, dass Mr. Peck einen Enkel hat, aber so habe ich euch für Einbrecher gehalten.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ja, wir wir dachten ja auch, dass Sie eine Einbrecherin sind, eine bewaffnete.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die Gaspistole trage ich bei mir, seit ich vor ein paar Jahren mal überfallen worden bin. Das heißt aber nicht, dass ich sie jemals benutzt hätte.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ja. Also, nachdem das nun geklärt ist, was tun Sie hier, Miss Djawadi?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sag doch bitte Elen zu mir.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ich arbeite als Pflegerin in der Seniorenresidenz, in der Mr. Peck wohnt auf Sunny Island, und dort habe ich Ben kennengelernt. Allerdings ist er seit gestern spurlos verschwunden.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Das wissen wir bereits, aber was hattest du in seinem Haus zu suchen, Elen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na ihn, Ben. Ich hatte Angst, ihm könnte etwas zugestoßen sein.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Er war so verwirrt in den letzten Tagen, dass ich mir Sorgen gemacht habe. Ich wusste, dass er noch ein Haus in Rocky Beach hat. Also beschloss ich, nachzusehen, ob er vielleicht hier ist.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ja, und wie bist du ins Haus gekommen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich habe natürlich erstmal geklingelt und geklopft, aber nachdem keiner aufmachte, habe ich mich gefragt, wo Ben wohl seinen Zweitschlüssel aufbewahrt. Na, und da bin ich im Vogelhäuschen schnell fündig geworden.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Hm, verstehe.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was ist los mit meinem Großvater, Elen? Erzähl uns bitte, was du weißt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er ist ein liebenswerter Kauz. Ich mochte ihn vom ersten Tag an und er mich auch, glaube ich. Aber er tat mir leid. Manchmal lassen die geistigen Fähigkeiten alter Menschen in kürzester Zeit nach und er schien ein solcher Fall zu sein. Er musste schnell ins betreute Wohnen verlegt werden.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Na ja, die Sache ist die, es gibt Indizien dafür, dass Bennington Pack aus einem völlig anderen Grund auf der Insel war. Er war möglicherweise einer Sache auf der Spur.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir vermuten, dass er in Schwierigkeiten geriet und daraufhin die Flucht ergriff.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Einer Sache? Was meinst du damit?",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Sagen dir die Namen Maria da Silva, James Swift und Martha Longindale etwas?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber ja, sie waren alle drei Bewohner von Sunny Island, aber jetzt wohnen sie in anderen Pflegeheimen.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Wohin sind sie denn gezogen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, das weiß ich nicht genau. Aber ich kann mal bei der Verwaltung nachfragen, wenn ihr wollt.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Wie seid ihr denn auf diese drei Namen gekommen?",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Mein Opa hatte sie notiert. Wir wissen nicht, wieso.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Elen, kennst du Neil Hooper?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Natürlich, Ben und Neil sind befreundet, stimmt's? Leider geht es ihm sehr schlecht. Er liegt seit einiger Zeit auf der Pflegestation.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ist das eigentlich normal, dass jemand so plötzlich auf der Pflegestation landet, meine ich?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was ist schon normal? Manchmal kann es halt sehr schnell gehen.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Wir haben ihn besucht, aber dann kam eine Schwester herein und hat uns verscheucht, weil wir keine Besuchsgenehmigung hatten. Ist das normal?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das ist eine Vorsichtsmaßnahme, zu der wir leider gezwungen sind.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Vorsichtsmaßnahmen? Aber warum denn?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Weil es zwielichtige Gestalten gibt, die die Wehrlosigkeit verwirrter Menschen schamlos ausnutzen, z.B. Staubsaugervertreter, die sich als Verwandte ausgeben und den alten Leuten etwas verkaufen, was sie überhaupt nicht brauchen, Peter. Und Staubsauger sind wohl noch die harmlose Variante.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Sag mal Elen, Mr. Peck hat einem Freund erzählt, dass er dir vertraut und man dich aufsuchen soll, falls etwas passiert.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich kann mir darauf leider keinen Reim machen. Ach, verflixt. Ich hatte so gehofft, dass du unsere Ermittlungen einen Schritt voranbringst.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Eure Ermittlungen? Das klingt ja so, als wärt ihr bei der Polizei.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Nicht ganz. Darf ich dir unsere Karte geben?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die drei Detektive. Wir übernehmen jeden Fall. Drei Fragezeichen. Erster Detektiv Justus Jonas, Zweiter Detektiv Peter Shaw, Recherchen und Archiv Bob Andrews.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Meint ihr das ernst?",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Absolut! Und wir sind davon überzeugt, dass auf Sunny Island etwas Unrechtes vor sich geht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich wüsste nicht, was das sein soll. Aber falls ihr wirklich recht habt, werde ich euch natürlich helfen. Bens Wohl liegt mir sehr am Herzen.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Vielleicht müssen wir schon bald auf dein Angebot zurückgreifen, Elen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hast du einen Plan?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Den habe ich in der Tat. Wir müssen noch einmal zu Mr. Hooper. Unser Besuch heute Mittag wurde ja leider wieder unterbrochen. Du könntest uns dabei helfen, ungesehen auf die Insel zu gelangen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber warum denn ungesehen? Geht doch morgen zur normalen Besuchszeit.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ungesehen und sobald wie möglich.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na schön, wenn du meinst. Ich könnte morgen versuchen, dich irgendwie an der Anmeldung vorbei in die Residenz zu schleusen.",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Ich dachte an einen früheren Zeitpunkt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Früher?",
+      "role": "character:Ellyn Djawadi"
+    },
+    {
+      "content": "Heute Nacht, aber vorher muss ich im Internet noch etwas recherchieren und Bob zurückrufen. Er sollte bei der nächtlichen Aktion unbedingt dabei sein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, und was ist mit mir?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die drei Detektive werden diese Aktion gemeinsam durchziehen, Zweiter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da bin ich ja beruhigt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

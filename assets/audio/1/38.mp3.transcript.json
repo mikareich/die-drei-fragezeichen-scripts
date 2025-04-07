@@ -1,0 +1,96 @@
+{
+  "script": [
+    {
+      "content": "So gefällt es mir, Freunde. Ihr seid brave Jungen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Wer sind Sie denn?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Mein Name ist Eugène. Her mit dem Kasten!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Nein!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Willst du wohl?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Lassen Sie ihn los, oder ich schlag sie mit diesem Eisenrohr!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Scheer dich zum Teufel! Ich habe den Kasten!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Halt! Haltet den Dieb, haltet ihn, lauft doch!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Der Kasten gehört uns! Halt!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Das Bild ist weg!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "So eine Gemeinheit! Wir waren so dicht vor dem Ziel.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und jetzt gucken wir doch noch in die Röhre.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie John Silver durch den Papagei Al Capone gesagt hat: Da guckst du in die Röhre, was?",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Das konnte er doch nicht wissen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir waren verrückt, ohne Polizei hierher zu gehen. Wir hätten zumindest Mr. Morton bitten müssen, uns zu begleiten.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Moment mal. Was hat Silver gemeint? Wieso bracht er Al Capone beizusagen, da guckst du in die Röhre?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Weil wir das Bild doch nicht haben, trotz aller Mühen. Weg damit!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mensch, Peter, uns hat er doch nicht gemeint, sondern Mr. Claudius.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach ja, stimmt ja.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sag mal, was hast du da eben eigentlich weggeworfen?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich? Ach, so ein Rohr. Es lag hier herum.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Du, damit hätte ich diesem Eugène am liebsten den Schädel eingeschlagen und sich den Kasten so klau und seine Gemeinheit.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ein Rohr? Eine Röhre? Kollegen, schnell, sucht das Rohr! Ich gehe jede Wette ein, dass da ein Bild drin ist.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    }
+  ]
+}

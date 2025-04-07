@@ -1,0 +1,608 @@
+{
+  "script": [
+    {
+      "content": "Justus erinnerte sich an das Lesezeichen, dass sie in Ben Pecks Buch über Demenzerkrankungen gefunden hatten.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Neil, Haus 3, 2.14 hatte darauf gestanden.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Über die verschlungenen Wege des parkartigen Grundstücks gingen sie zu Haus 3 und betraten das Gebäude.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Sie fuhren ungehindert mit dem Lift in den zweiten Stock hinauf.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Geräusche von Fahrstuhl",
+      "role": "ambient"
+    },
+    {
+      "content": "Ein langer, verlassener Korridor führte zu Zimmer 2.14.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Oh Mann.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier ist es ja schon am Tag unheimlich.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie ausgestorben.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier ist es. Zimmer 2.14.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich ich klopf mal, ja?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber leise.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Klopfen",
+      "role": "ambient"
+    },
+    {
+      "content": "Nichts.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Komm, wir gehen wir rein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Geräusche von Tür",
+      "role": "ambient"
+    },
+    {
+      "content": "Ich habe mir allerdings alles anders vorgestellt als dieser Loge.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ich möchte das Schloss sehr modern haben.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Wir leben in diesem Jahrhundert",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Du",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da liegt mein Mann im Bett.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ja, ich habe z.B.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ich erkenne ihn wieder.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Er guckt Fernsehen.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Guten Tag, Mr. Hooper",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich bin Peter Shaw, der Enkel von Ben Peck.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir haben uns schon einmal gesehen, erinnern Sie sich?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich füge mich ihren Wünschen.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Er hat die Augen auf, aber er reagiert nicht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir sind auf der Suche nach meinem Opa.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der scheint in Schwierigkeiten zu stecken.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich weiß nicht, ob Sie mich verstehen, aber aber wenn Sie etwas wissen und sich irgendwie bemerkbar machen können.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Zieht er dich an, Zweiter.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Peter?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mr. Hooper",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sei vorsichtig.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Vertraue niemanden, Niemanden hier.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Was macht ihr denn hier?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Gar nichts, Schwester, wir",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sind das ihre Enkel, Mr. Hooper?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Wir",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir haben nur versucht, mit Mr. Hooper zu reden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mr. Hooper?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Dann seid ihr gar nicht mit ihm verwandt?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Nein, nein, nein, nicht direkt, aber",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nicht Angehörige von Pflegepatienten brauchen eine Besuchsgenehmigung. Was?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Habt ihr die?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Nein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Dann raus mit euch! Raus raus raus raus raus.",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Ach, also, also schön.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Gehen wir Peter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Geräusche von Tür zu machen",
+      "role": "ambient"
+    },
+    {
+      "content": "Das gibt es doch nicht. Seit wann braucht man eine Genehmigung, um jemanden zu besuchen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kommt das auch sehr merkwürdig vor.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hast du mitbekommen, was Mr. Hooper gesagt hat, kurz bevor diese Schwester reinkam?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und ob?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vertraue niemanden hier.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Just, hier stimmt doch irgendwas nicht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da, die Schwester kommt aus dem Zimmer.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Geräusche von Schritten",
+      "role": "ambient"
+    },
+    {
+      "content": "Sie geht ins Büro.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Weißt du, wir können noch mal zurück zu Mr. Hooper?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Besser nicht. Durch die Scheibe hat sie den gesamten Flur im Blick.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da. Jetzt telefoniert sie.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, hier Schwester Beatrice, Sie hatten mich gebeten, ihn sofort Bescheid zu sagen, falls ein Besucher bei Mr. Hooper auftaucht, ja?",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Genau das ist gerade passiert. Zwei Jungen waren bei ihm, ein dicker und ein sportlicher.",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Ach, das weiß ich nicht genau, aber ich kann mir nicht vorstellen, dass sie mit Mr. Hooper gesprochen haben. Der Ärmste ist ja nur noch selten richtig wach.",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "In Ordnung, ich werde sein Zimmer im Auge behalten. Sie können sich auf mich verlassen.",
+      "role": "character:Schwester Beatrice"
+    },
+    {
+      "content": "Geräusche von Fahrstuhl",
+      "role": "ambient"
+    },
+    {
+      "content": "Da kommt der Fahrstuhl. Wir blasen zum Rückzug.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Geräusche von Fahrstuhl",
+      "role": "ambient"
+    },
+    {
+      "content": "Tja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir haben einen Fall zweiter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Den hatten wir auch schon vorher.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber jetzt wissen wir, dass es wirklich ein Geheimnis hinter diesen Mauern gibt, dass darauf wartet, von uns gelüftet zu werden und dass wir vorsichtig sein müssen. Mr. Hoopers Warnung war mehr als eindeutig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Etwas leiser, Justus. Da kommt ein Mann. Bestimmt ein Bewohner dieser Residenz.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh, nachts ich mal 'ne Stunde, wo ich den schwäflichen qualvollen Flammen mich übergeben muss.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hamlet?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie bitte?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das war ein Zitat aus Hamlet. Nicht so wichtig. Viel wichtiger ist die Frage, mit wem Schwester Beatrice vorhin telefoniert hat.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das ist Bob. Ich schalte auf Lautsprecher, dann kannst du mithören, ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hi Bob, was gibt's Neues?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, einiges. Zuerst einmal die gute Nachricht. Peter, dein Opa hat die Tankstelle in Ventura höchstwahrscheinlich nicht überfallen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wie jetzt? Kannst du das bitte etwas genauer erklären?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nun ja, also ich konnte den Tankwart dazu bewegen, mir die komplette Aufzeichnung dieses angeblichen Überfalls vorzuspielen und wie es aussieht, kam dein Opa in den Tankstellenshop, um sich irgendwas zu kaufen und dann kam plötzlich ein weiterer Kunde rein, den die Kamera leider nicht erfasst hat. Dein Opa, der der kriegt einen heftigen Schrecken und zieht, während er sich dem Typen zuwendet, geistesgegenwärtig einen Revolver aus der Tasche und bedroht ihn damit.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aha.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, und während dieser Bewegung sieht es so aus, als würde dein Opa den Tankwart mit der Waffe bedrohen, so dass dieser völlig geschockt in die Kasse greift und ihm unaufgefordert das darin befindliche Geld aushändigt.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das gibt es doch nicht. Und und dann?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also laut Aussage des Tankwarts ist dein Opa dann mit dem Geld aus dem Shop gestürmt und mit irgendeinem Wagen davon gefahren, während der andere Mann ebenfalls nach draußen lief und dein Opa in einem roten Mercedes folgte.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Also, dann wollte sich Opa mit der Waffe nur gegen diesen Mann verteidigen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aber, aber warum hat er dann trotzdem das Geld an sich genommen und wieso hatte er überhaupt eine Waffe?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Tja, wenn ich das wüsste.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Bob, gibt es eine Personenbeschreibung zu diesem anderen Mann?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, also keine besonders gute, der Mann ist groß, aber da er eine Kappe und eine Sonnenbrille trug, konnte der Tankwart nicht mal was zur Haarfarbe oder zum ungefähren Alter sagen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aber immerhin wissen wir, dass er ja einen roten Mercedes fährt.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ausgezeichnete Arbeit, Bob.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hast du auch schon mit Harry Jacobson, dem Freund von Mr. Peck sprechen können?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, das habe ich, Just. So, und nun haltet euch fest.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Mr. Peck hat ihn gestern besucht und ihm anvertraut, dass er in großer Gefahr sei, den falschen Leuten zu nahe gekommen wäre und erstmal irgendwo unerkannt unterkommen müsse.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Bitte?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber bei Mr. Jacobson wollte er ja nicht bleiben, das wäre ihm zu unsicher, aber dann hat Mr. Peck ihn noch von einer",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Was fliegt, was kommt diese Mrs. Penny? Was will die denn jetzt?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich muss mit euch reden.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Bob, ich muss auflegen, wir sprechen später weiter, ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, alles klar, okay.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Habt ihr nicht verstanden? Ich muss dringend mit euch sprechen!",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "So, worüber denn?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Über Ben Peck! Ihr seid doch die Enkel von ihm, richtig?",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Das habe ich vorhin gelauscht.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Ich, ich bin sein Enkel. Sie kennen meinen Opa?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er war nicht lange hier, aber er ist mir gleich aufgefallen. Ein Schnüffler war er und dann ist er verschwunden, wie so viele andere. Ich glaube, dass hat was mit dem Tod zu tun, aber mir glaubt ja keiner.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Mit dem, mit dem Tod?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sie meinen, dass diese verschwundenen Leute gestorben sind?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, nicht gestorben, nur verschwunden. Der Tod wandelt nachts auf Sunny Island umher. Ich habe ihn schon ein paar mal gesehen, aber niemand glaubt mir.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Sie, sie meinen der Tod ist eine Art Person?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber ich bin die Einzige, die ihn sieht, weil alle anderen um diese Zeit in ihren Betten liegen. Ja nicht, weil ich verrückt bin. Ich laufe nachts herum, wenn ich nicht schlafen kann. Laufen ist gut für mich, sagt Dr. Burke, wegen der Gelenke.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Und und und, und dabei haben sie den Tod gesehen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schon viermal.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Und wie sah der aus?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Entsetzlich. Sein Gesicht ist ein Grauen und er spricht in Rätseln.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Und er nimmt Leute mit?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, er nimmt sie nicht mit, sie verschwinden einfach. Eines Tages sind sie nicht mehr da.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Was sagt denn die Heimleitung dazu?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die erfindet Ausreden. Jedenfalls ist Peck der Letzte, der verschwunden ist.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Und vor ihm, wer ist da verschwunden?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach je, die Namen, die Namen, Maria, Maria Silvester, glaube ich, hieß sie.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Meinen Sie vielleicht Maria da Silva?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ja genau. Maria da Silva, das war es.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Und und und und sagt ihnen zufällig auch der Name James Swift etwas?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, der ist auch verschwunden.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Martha Longingdale?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ihr wisst davon?",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Das sind all die Namen von Opas Lesezeichen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und Matilda Jonas?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, richtig. Matilda Jonas. Mr. Peck hat versucht, das Verschwinden dieser Leute aufzudecken, stimmt's? Und das ist ihm zum Verhängnis geworden.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Mag sein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ihr glaubt mir nicht.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Doch doch, doch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, ihr glaubt mir nicht, aber es ist die Wahrheit! Der Tod geht um auf Sunny Island.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Ich hoffe, du findest deinen Opa. Guten Tag.",
+      "role": "character:Mrs. Penny"
+    },
+    {
+      "content": "Guten Tag.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh Mann.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was ist hier eigentlich los?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Schwer zu sagen. Ich war fast versucht, ihr Glauben zu schenken, aber als sie dann den Matilda Test nicht bestand.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Keine Ahnung.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir könnten uns natürlich an der Rezeption nach diesen drei weiteren verschwundenen Personen erkundigen, aber wir versuchen besser von zu Hause aus etwas über sie zu erfahren. Ich möchte keine schlafenden Hunde wecken.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, und ich würde gern noch mal bei Opa vorbeischauen. Vermutlich hat er sich ja inzwischen bei Mr. Castro gemeldet.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "In Ordnung, wir brechen gleich auf.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Musik",
+      "role": "ambient"
+    }
+  ]
+}

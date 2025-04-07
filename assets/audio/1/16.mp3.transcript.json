@@ -1,0 +1,100 @@
+{
+  "script": [
+    {
+      "content": "Der Lehrer der Papageien hat einen Plan verfolgt und Mr. Claudius kennt diesen Plan, deshalb ist er so scharf auf die Vögel.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mensch, just!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Vielleicht gibt es außer Lucky und Schneewittchen noch mehr Papageien mit solchen Sprüchen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Denkt doch an Blackbeard und erinnert euch, dass Claudius ganz aufgeregt war, als er von dem schwarzen Vogel gehört hat.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Halt mir rein, sie.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Telefon!",
+      "role": "ambient"
+    },
+    {
+      "content": "Just, nimm ab!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ja, Justus Jonas am Apparat?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, das stimmt. Ich habe um Auskunft über den Wagen gebeten.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was? Ihn gesehen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mann.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schnell!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hatte die Nummer 113 am Ende?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wirklich nicht?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm, nein, dann ist es nicht. Vielen Dank.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "War leider nichts.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Noch ein Anruf.",
+      "role": "ambient"
+    },
+    {
+      "content": "Ja, Justus Jonas?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, es geht um den Wagen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die Telefonlabine rollte.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Pausenlos klingelte das Telefon, doch immer ging es um andere Autos.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Von dem richtigen Ranger sprach niemand. Das änderte sich auch am nächsten Tag nicht.",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

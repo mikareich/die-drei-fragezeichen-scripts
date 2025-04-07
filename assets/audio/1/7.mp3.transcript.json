@@ -1,0 +1,72 @@
+{
+  "script": [
+    {
+      "content": "Vielleicht Engländer. Er wusste jedenfalls nicht, dass bei uns in Kalifornien die Telefonleitung oberirdisch verlegt sind, sodass man von außen sehen kann, ob jemand Telefon hat oder nicht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da, aus der Ausfahrt kommt ein Sportwagen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Vorsicht, Mr. Morton!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ah! Oh, wir sind gerade noch mal in ihm vorbeigekommen.",
+      "role": "ambient"
+    },
+    {
+      "content": "Das war der angebliche Mr. Fentriss.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So, da wären wir. Das Haus von Mr. Fentriss.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sag mal Peter, ist dir an diesem Sportwagen etwas aufgefallen? Ich meine",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Außer dass da ein dicker Mann am Steuer war.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es war ein zweitüriges Sportcoupe Marke Ranger, ein Wagen aus England.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Neuestes Baujahr, nach dem Nummernschild war er hier aus der Gegend. Die Nummer habe ich nur zum Teil, sie endete auf 13.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Dann haben sie sich die Nummer gemerkt, Mr. Morton?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Tut mir leid, junger Mann, ich musste auf die Straße achten. Ich weiß nur, dass der Ranger rote Polster hatte.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Na, das ist doch schon was. Komm jetzt Peter, wir wollen mal sehen, ob der echte Mr. Fentriss im Haus ist.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Glaubst du, dass wir den Ranger wiederfinden?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "In Kalifornien gibt es Millionen von Autos.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich weiß noch nicht, wie wir den Ranger aufspüren. Mir fällt schon noch was ein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hilfe! Hilfe!",
+      "role": "ambient"
+    }
+  ]
+}

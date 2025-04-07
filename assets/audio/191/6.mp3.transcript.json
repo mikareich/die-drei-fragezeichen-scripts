@@ -1,0 +1,324 @@
+{
+  "script": [
+    {
+      "content": "Am nächsten Morgen mussten Ashlyn und Brian mit ihrer Großmutter nach Sorrow fahren, um ihr bei den Großeinkäufen zu helfen.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Die drei Detektive setzten unterdessen ihren Plan in die Tat um und machten sich auf den Weg in die Bibliothek von Nothing.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Als sie am späten Nachmittag zum Hof zurückkehrten, zog das angekündigte Unwetter auf.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Die ersten Regentropfen wandelten sich schnell zu einem heftigen Guss.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Am Himmel zuckte ein greller Blitz, trotzdem kam Bobs Großtante über den Hof gelaufen, in Regenzeug und Gummistiefeln.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Gut, dass ihr da seid. Rosie, was ist denn passiert?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und Bucks ist verschwunden!",
+      "role": "Rosie Wrenwick"
+    },
+    {
+      "content": "Ja, als ich mit Ashlyn und Brian vom Einkaufen zurückkam, war er nicht mehr in seiner Hütte.",
+      "role": "Rosie Wrenwick"
+    },
+    {
+      "content": "Vielleicht vielleicht hat er sich woanders verkrochen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, nein, ich kenne Bucks seit er ein Welpe war. Über die Jahre habe ich all seine Verstecke entdeckt. Ich weiß, wo er hingeht, wenn er etwas Verbotenes gemacht hat und wo er Unterschlupf sucht, wenn er Angst hat. Und er ist verschwunden!",
+      "role": "Rosie Wrenwick"
+    },
+    {
+      "content": "Rosie, jetzt jetzt mach dir keine Sorgen. Wir wir werden ihn suchen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber nicht bei dem Sturm. Das ist viel zu gefährlich. Können wir erstmal rein ins Haus?",
+      "role": "Rosie Wrenwick"
+    },
+    {
+      "content": "In Ordnung. Komm.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, gut.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hey, da seid ihr ja. Ich bin mit Brian in meinem Zimmer. Kommt ihr zu uns rauf?",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Ja. Ja, machen wir.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich werde mich ins Büro setzen und ein paar Abrechnungen machen. Ich muss mich ablenken.",
+      "role": "Rosie Wrenwick"
+    },
+    {
+      "content": "Ist das ein Unwetter! Der Sturm wird immer schlimmer. Wir könnten nicht mal in unsere Zentrale.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das ist doch nicht nötig.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Stimmt. Wir können auch hier mit unseren neuen Informationen an dem Rätsel weiterarbeiten.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das Rätsel erkläre ich hiermit für abgeschlossen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wieso, Erster?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich habe heute in der Bibliothek meine eigenen Recherchen angestellt.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber das war doch",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Zunächst bin ich einer Eingebung gefolgt und habe ein Datum überprüft.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was denn für ein Datum?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Greenhow hat das Tagebuch angeblich im Jahr 1865 geschrieben.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie ich jedoch herausgefunden habe, wurde das Periodensystem der Elemente erst im Jahr 1869 erfunden.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie konnte Greenhow dann auf das Symbol Au verweisen, für Aurum?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, Gold wurde doch auch damals schon Aurum genannt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Stimmt.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Und wir wissen gar nicht, ob er das überhaupt gemeint hat, vielleicht ist das ein ganz anderer Hinweis.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, genau, da stimme ich Brian zu.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Was ich aber definitiv weiß, ist die Tatsache, dass Priscilla Sicktree, die Kellnerin aus dem Eiscafé, früher das Kinderprogramm für das Sommerfest gemacht hat.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was hat denn das mit dem Schatz zu tun?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Eine ganze Menge Zweiter. Ich habe mich mit Mrs. Charlie, der Bibliothekarin, unterhalten. Sie war sehr auskunftsfreudig.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Auf diese Weise habe ich erfahren, dass es bis vor zwei Jahren neben Angeboten wie Ponyreiten und Dosenwerfen auch immer eine Abenteuerschatzsuche gab. Priscilla Sicktree hat sich ein Rätsel ausgedacht, den Kindern eine spannende Geschichte erzählt und sie dann auf dem Gelände einer alten Farm auf die Suche geschickt.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aha.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Vor zwei Jahren hat niemand geringeres als Ashlyn die Schatzsuche gewonnen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, das waren aber Schokoladentaler, kein echtes Gold.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Seltsam nur, dass die Schatzsuche damals das Gold der Siedler hieß.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es ging um die erfundene Geschichte eines Mannes namens Thomas Greenhow, der ein Rätsel hinterlassen hatte.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Moment mal.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also, das klingt jetzt nicht mehr nach einem Zufall.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es ist auch kein Zufall. Der genauso wenig wie die Tatsache, dass wir nach unserer Ankunft in Nothing ausgerechnet im Eiscafé auf Brian und Ashlyn warten sollten. Dort wurden wir dann gezielt von Priscilla Sicktree angesprochen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber aber aber ihre Vorhersagen sind wirklich eingetroffen, denk nur mal an den Knall, das Blut und und und den dunklen Schatten am Schuppen.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Niemand von uns hat mit eigenen Augen gesehen, wie sich Ashlyn im Hotel verletzt hat, vermutlich hat sie uns nur mit roter Farbe getäuscht. Und von dem Gewitter wusste Priscilla durch den Wetterdienst. Die ganzen Vorhersagen waren nur Teil eines Spiels.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir wollten euch doch nur eine Freude machen.",
+      "role": "Priscilla Sicktree"
+    },
+    {
+      "content": "Was?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "weil hier wirklich nie etwas passiert.",
+      "role": "Brian"
+    },
+    {
+      "content": "Als Rosie uns von euren Abenteuern als Detektive erzählt hat, da wollten wir das auch mal erleben.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Oh.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wie wir",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es gibt also gar keinen Schatz?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Jedenfalls keinen echten. Wir haben eine tolle Truhe besorgt und die mit Fruchtgummimünzen gefüllt.",
+      "role": "Brian"
+    },
+    {
+      "content": "Auf die Idee sind wir gekommen, als wir beim Aufräumen im Schuppen das alte Buch gefunden haben.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Ja.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Es muss nass geworden sein und war kaum noch lesbar.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Wie schön, ganz toll. Da hattet ihr ja jede Menge Spaß.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hm. Na kommen, wir doch auch.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aber wo ist denn dieser falsche Schatz versteckt?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die Höhle heißt Black Smoke Cavern und liegt beim Steinbruch.",
+      "role": "Brian"
+    },
+    {
+      "content": "Genau.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Die wollten wir euch sowieso zeigen.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Hm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Man darf sie betreten, nur die hinteren Gänge sind gesperrt. Es gibt da ein Loch in der Höhlendecke, das wie ein Kamin funktioniert. Deshalb wurde die Black Smoke Cavern früher auch als Feuerstelle benutzt.",
+      "role": "Brian"
+    },
+    {
+      "content": "Die Kiste liegt in einer Nische im Felsenkamin.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Na prima. Wenn das Unwetter morgen nachgelassen hat, dann",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "dann könnten wir da ja hingehen, oder?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Dann holen wir uns den Schatz und und dann essen wir ihn auf.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ohne mich.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich hoffe, ihr zwei steckt nicht auch noch hinter Bucks Verschwinden.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Eure Großmutter macht sich nämlich ernsthafte Sorgen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So etwas würden wir nie tun.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Dafür habt ihr einen Einbruch nachgespielt? Lasst mich raten: Euer Cousin Jonathan ist nachts hier geritten und hat die Kopien eingesteckt, deshalb hat der Hund auch nicht gebellt?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das stimmt nicht. Ihr müsst uns das glauben, mit dem Einbruch haben wir nichts zu tun.",
+      "role": "Ashlyn"
+    }
+  ]
+}

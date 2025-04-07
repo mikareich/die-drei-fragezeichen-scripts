@@ -1,0 +1,88 @@
+{
+  "script": [
+    {
+      "content": "Hallo, sagen Sie doch ihren Namen, antworten Sie doch!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ach, aufgelegt zu spät.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Schönes Wagen, wunderschönes Wagen.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Alles, man hört die Tickern von Uhr.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Es ist wie Traum.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Wie geht es an der nächsten Abbiegung weiter, Carlos?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Nach rechts, da, da in dem Haus wohnen wir.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Der Weg dorthin ist zu schlecht, Mrs. Morton, wir gehen das letzte Stück zu Fuß.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Einverstanden, ich halte.",
+      "role": "character:Morton"
+    },
+    {
+      "content": "Kommt, wir steigen aus.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Der Schlüssel.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Mein Onkel Ramos wird sich freuen. Als er kam von Mexiko, er hatte kein Geld. Hier ist einzige Platz, an dem er bleiben kann. Miete ist 5$.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "5$.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ich habe verdient 5$. Ich kann bezahlen Miete.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Da steht ein Auto bei der Hütte. Hat Onkel Ramos ein Auto?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ein Auto? Natürlich nicht.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Das gefällt mir nicht. Weißt du, wem das Auto gehört?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "No, ich nicht weiß.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Hört doch mal, da schreien sich doch welche an.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Diese Stimme, sie kommt mir bekannt vor.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Das ist doch Mr. Claudius. Schnell!",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    }
+  ]
+}

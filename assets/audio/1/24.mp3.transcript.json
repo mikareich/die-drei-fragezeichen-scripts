@@ -1,0 +1,48 @@
+{
+  "script": [
+    {
+      "content": "Wir haben lange gewartet.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Woche für Woche. Dann hatten wir kein Geld mehr. Wir mussten verkaufen, um die Beerdigung von Senior Silver zu bezahlen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Ja, und dann ist der Dicke doch noch gekommen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Also, ich weiß jetzt überhaupt nicht mehr, um was es geht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich möchte erst noch einmal alles überdenken, bevor ich dir eine Antwort gebe.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Morgen müssen wir jedenfalls damit beginnen, die Fakten einer neuerlichen Prüfung zu unterziehen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Offen gestanden, Kollegen, dieser Fall weist mittlerweile Aspekte auf, den ich ziemlich ratlos gegenber stehe.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ziemlich ratlos ist gut. Ich bin total durcheinander. Aber kannst du dich nicht mal normal ausdrücken, nur so zur Abwechslung.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Na schön, Peter, ich will es mal versuchen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also, dies ist wirklich ein spezialgelagerter Sonderfall.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus, Bob und Peter saßen in der Zentrale und berieten.",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

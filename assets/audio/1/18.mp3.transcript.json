@@ -1,0 +1,104 @@
+{
+  "script": [
+    {
+      "content": "Dicke Fahrräder kam zu meinem Onkel Ramos, wollte kaufen Papageien.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Papageien kaufen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann hat also dein Onkel Ramos, Lukullus und Schneewittchen verkauft.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Mann, ist das ein Ding!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und doch die anderen, alle Papageien mit sonderbares Namen.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Was waren das für Namen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, da war Sherlock Holmes, Robin Hood, Captain Kid und Al Capone.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Der schreibt es auf Klegen. Das waren sechs mit Lucky und Schneewittchen. Sieben Papageien mit Blackbeard, welcher spricht so gut.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Alle Papageien mit gelbe Köpfe, nur nicht Blackbeard. Der ist schwarz.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Und Mr. Claudius wollte die Papageien alle kaufen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh ja, er wollte bezahlen 1000 Dollar, aber mein Onkel Ramos hat nicht mehr. Señor Claudius war sehr zornig.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Dann wissen wir jetzt, dass sieben Papageien zu dem rätselhaften Fall gehören. Wenn wir ihn lösen wollen, müssen wir alle finden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kannst du uns sonst noch etwas sagen, Carlos?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Oh ja, wo Señor Claudius wohnt.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Mensch, das gibt's doch gar nicht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ihr, diese Karte er gegeben uns.",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Verflixst ausgerechnet jetzt!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Gehst du ran, Justus?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Klar, ich komm nicht wieder.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, Justus Jonas.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die Frage ist an einem Ort abgestellt, wo ihn niemand entdecken kann.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Wie bitte?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Verspricht denn da?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hallo!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er wird sehr leicht wütend, und es ist gefährlich ihm dann zu begegnen. Lebensgefährlich.",
+      "role": "character:Unknown"
+    }
+  ]
+}

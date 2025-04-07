@@ -1,0 +1,112 @@
+{
+  "script": [
+    {
+      "content": "Scheint sich alles wieder beruhigt zu haben.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir sehen mal nach.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "zu diesem Haus sieht mich aber gar nichts hin. Es sieht aus, als hätte es lauter verschlossene Räume, die man besser nicht betritt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ein ausgezeichneter Vergleich.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Denkt daran, dass wir ihn an Bob weitergeben, wenn wir wieder in der Zentrale sind.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wieso?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Weil Bob für die Aktenführung verantwortlich ist.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach so.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Komm, wir schleichen uns näher ran.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber vorsichtig.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, die Bäume und Büsche geben noch eine gute Deckung ab.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nicht so laut.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Peter, ja, Justus, was ist?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hinter dir, ein Mann, er hat eine!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da hab ich euch. Und nun mal ganz schnell ins Haus mit euch.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Wollen noch mal sehen, was ihr im Schilde führt.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Aber Sir, Sie brauchen uns doch nicht mit der Pistole",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "das ist doch wohl meine Sache.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Also ab mit euch ins Haus und lasst euch ja nicht einfallen, wegzulaufen. Ihr würdet es bereuen. Verstanden?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Nicht weglaufen, Peter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir wollen Mr. Fentriss doch überzeugen, dass wir in einer ganz legalen Angelegenheit hier sind.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich könnte gar nicht rennen. Mir zittern die Knie, als, als ob ich eben erst laufen gelernt hätte.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Warte Tür auf. Vergesst nicht, dass ich schieße, wenn ihr Dummheiten macht.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Gut so. Und jetzt einmal setzen.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Sehr schön.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    }
+  ]
+}

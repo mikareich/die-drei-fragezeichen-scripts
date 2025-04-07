@@ -1,0 +1,92 @@
+{
+  "script": [
+    {
+      "content": "Weil der Papagei so seltsam gebildet spricht.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Errare humanum est.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Aber ein rechter Dedektiv riskiert es auch mal zu irren. Er setzt seinen Ehrgeiz daran, die Wahrheit ans Licht zu bringen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Justus und Peter verließen Mr. Fentriss.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Sie wollten in den Rolls-Royce steigen, doch da sahen sie eine Dame, die offenbar etwas suchte.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Schätzchen!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Und da hat jemand ein Problem!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hilfe!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Komm Peter, vielleicht können wir helfen, okay?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir kommen!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Entschuldigen Sie, Miss. Haben Sie etwas verloren?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Oh ja. Schneewittchen ist weg! Habt ihr sie nicht gesehen?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Nein, Madam. Ist Schneewittchen ein Papagei?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber aber woher weißt du das?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Wir sind Detektive. Hier unsere Karte. Dass Sie einen Papagei suchen, habe ich daraus geschlossen, dass Sie dort einen Papageienkäfig abgestellt haben und dass Sie mit Sonnenblumenkernen locken.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja. Papageien lieben Sonnenblumenkerne.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Haben Sie Schneewittchen vor einiger Zeit von einem mexikanischen Hausierer gekauft, Madam?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, das habe ich.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Wie ist Ihnen denn Schneewittchen abhanden gekommen, Mrs. Claudius?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, meinen Namen wisst ihr auch?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Ihr müsst ja mal wirklich gute Detektive sein.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

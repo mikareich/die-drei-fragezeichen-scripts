@@ -1,0 +1,56 @@
+{
+  "script": [
+    {
+      "content": "Hol den Schatz ans Licht, ein Schloss wär dich nicht.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Nun ja. Schwierig genug war es ja bis hierher. Wer das Rätsel so weit gelöst hat und schließlich den Schatz ans Licht bringt, dessen Eifer wären am Ende auch Schloss und Riegel nicht.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "So ist wohl dieser Hinweis aufzufassen. Oder?",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Sollte etwa gar kein Schloss zu knacken sein?",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Aber was für Steine sind gemeint? Hier stehen ja überall Steine. Im Spruch heißt es, jenseits der Gebeine. Es kann also kein Grabstein gemeint sein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, verflucht, dieser Nebel wird ja immer schlimmer.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hey, da ist eine Mauer und da liegt ein Haufen Steinbrocken, wo ein Stück eingestürzt und nicht wieder dicht gemauert ist. Das sind sie, die Steine jenseits der Gebeine.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vor allem sind es die einzigen dieser Art im Sichtweite. Los, hier sehen nach.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mann, ist das unheimlich.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wir räumen die Steine zur Seite, los.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Du auch, Bob.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hey, Kollegen, hier ist ein Metallkasten. Wir haben es.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Da ist jemand!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

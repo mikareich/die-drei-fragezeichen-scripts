@@ -1,0 +1,56 @@
+{
+  "script": [
+    {
+      "content": "Da ist er ja und er spricht. Also ich verstehe zwar nicht, was er mit seinen Worten meint, aber er spricht. Nur seht euch doch mal die anderen Papageien an, das sind trübe Tassen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Vielleicht können wir mal zusammenfassen, welche Sprüche wir bis jetzt haben.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Gute Idee, aber bitte schön setzt euch doch. Ja, bitte schön.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Danke. Danke.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Also, da ist einmal Schneewittchen. Weiß wie Schnee, rot wie Blut, braun wie Zedernholz.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ist Sherlock Holmes zu Hause?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also, damit kann er nur das Mädchenbild gemeint haben, weiß wie Schnee ist es Gesicht, rot wie Blut sind die Lippen und braun wie Zedernholz ist das aber was soll Sherlock Holmes dabei?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das finden wir noch heraus. Weiter im Text. Lucullus sagt: Lucius, Licius, Lucullus. Kopf oder Zahl, raum.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, stimmt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und Blackbeard, was sagt er?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich bin Blackbeard der Pirat. Mein Schatz vergrub ich in finsterer Nacht, wo die Toten halten ewig wacht.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Jaha, und der Puddel raus.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Haben sie das gehört? Ich hab noch jeden reingelegt.",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

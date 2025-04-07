@@ -1,0 +1,80 @@
+{
+  "script": [
+    {
+      "content": "Na, ist die Urkunde in Ordnung, Just?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, sie ist in Ordnung.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich glaube, wir können Mr. und Mrs. Claudius vertrauen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Bestimmt. Ja?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Du hilfst mir und ganz schnell, ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schön.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir sehen uns dann in einer Stunde in unsere Wohnung. Einverstanden?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich darf im Namen meiner Kollegen sprechen, Mrs. Claudius. Wir sind einverstanden. Die drei Fragezeichen sind daran interessiert, dass der Fall Super Papagei möglichst bald aufgeklärt wird.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die drei Fragezeichen hielten Wort.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Eine Stunde später erschienen sie in der Wohnung, die Mr. und Mrs. Claudius gemietet hatten.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Hallo! Komm mal rein, da seid ihr endlich. Freue mich sehr, dass ihr da seid.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Danke, Mr. Claudius. Tag, Jungs.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Tag, guten Tag, Mrs. Claudius.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Blackbeard habt ihr auch dabei?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Äh, ist gut.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Warum ist Ihnen Blackbeard eigentlich so wichtig, Mr. Claudius?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Tja, Blackbeard. Warum ist er wichtig? ",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich, ich, ich weiß das nur, wüsste Silbe hat es mir geschrieben. Das ist alles, was ich weiß.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich hab doch jeden reingelegt, ja!",
+      "role": "character:Unknown"
+    }
+  ]
+}

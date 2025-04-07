@@ -1,0 +1,368 @@
+{
+  "script": [
+    {
+      "content": "78 $ für diesen Mumpitz-Kollegen! Ich geh jede Wette ein, dass dieser Trichter nicht mehr taugt, als jeder andere Trichter. Ich schalt mal ab.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Davon hast du ja noch gar nichts erzählt, Bob. Das ist doch völlig unmöglich und entbehrt jeder Logik. Das ist aber noch keine Erklärung dafür, wie es Mrs. Franklin an...",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Irrtum zweiter. Es sieht eben nicht danach aus, als wäre er nur mal kurz weg. Ich habe deinen Opa als einen Menschen kennengelernt, der sich nicht gerade durch große Ordnungsliebe auszeichnet.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wie wie macht sie das nur? Keine Experin als Star in einer Home Shopping Show.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ist das für sie nun Auf oder eher ein Abstieg?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja und Justus. Du könntest deine Tante morgen mal ausquetschen, ob die Geschichte mit ihrer Freundin wirklich stimmt, ja? Wenn sich ihre Aussage bewahrheiten sollte, dann gäbe es für dieses Phänomen nur eine mögliche Erklärung.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Peter Shaw?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Äh, nein, sein sein Enkel.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Zurzeit nicht, nein, sie sind auf Reisen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich fürchte, ich verstehe kein Wort von.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Justus und ich haben die Nachrichten ja auch gesehen. Bei dem Mann, der auf den Bildern der Überwachungs",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Kamera zu sehen war, handelte es sich zweifelsfrei um deinen Opa, Ben Peck.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "die privaten Details ihrer Anrufer kommt, anstatt zu lästern. Ist schon unheimlich, Justus, dass Clarissa, der Freundin deiner Tante, präzise sagen konnte, wo ihr verstorbener Mann, den kurz seines Leafs notiert hat.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, Matildas Freundin Emily ist in der Sendung zu Astraler durchgestellt worden.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, deine Tante hat es mir selbst erzählt.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Eben.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, vielleicht wird Clarissa deshalb von diesem Irren bedroht.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": "Das hier ist nichts.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ah, du meinst das Schild dort, Bob?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Willkommen in nichts. Nichts ist besser.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Ein sehr einfallsreicher Spruch. Genauso einfallsreich, wie der Name der Stadt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Der Begriff Stadt ist wohl stark übertrieben. Wenn ich richtig informiert bin, hat Nathing gerade mal 2500 Einwohner.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der Name stammt übrigens noch aus der Zeit der ersten Siedler. Als die im 19. Jahrhundert mit Planwagen durch den mittleren Westen der USA zogen, fanden sie hier nämlich nichts vor.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Ja, nichts außer weiten Ebenen, Felsen und Geröll.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Spannend. Wo sollen wir denn jetzt auf deine Verwandten warten, Bob?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, da vorne in dem, in dem Eiscafé mit dem, mit dem passenden Namen Nirgendwo.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Gut, na, da kommt Kollegen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": "Wir stellen mal unser Gepäck ab hier, ja?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ähm, wollen wir uns hier hinsetzen?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Tja, gut.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Herzlich willkommen im Nirgendwo.",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Hallo. Hi.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hallo. Nirgendwo ist das Eis besser. Was kann ich euch bringen?",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Äh ja, ich hätte ganz gerne Erdbeershake.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah ja, ja, das hört sich gut an, den nehme ich auch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich ebenfalls mit extra Sahne.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Kommt sofort.",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Das Schicksal hat euch hergebracht.",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Äh, das Schicksal? Wie meinen Sie das?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die geheimnisvollen Pläne des Universums. Die Mächte, die Vergangenheit, Gegenwart und Zukunft, die sich zu einem Netz verweben und niemals innehalten.",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Ihr kommt aus der sonnigen Ferne, vom großen Meer. Ihr sucht die Gefahr. Doch hier wird die Gefahr euch finden.",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Welche Gefahr?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ihr folgt einem Pfad, der vorherbestimmt ist. Doch die Sterne warnen euch. Ein Knall, der die Stille teilt. Blutstropfen auf weißem Stein. Eine Botschaft aus der Vergangenheit und alte Worte, die Gefahren mit sich bringen. Ein Schatten kommt. Er heftet sich an eure Fersen und wenn der Donner zum dritten Mal gräult, dann...",
+      "role": "character:Unbekannt"
+    },
+    {
+      "content": "Priscilla, was ist denn nur mit der kaputten Kaffeemaschine?",
+      "role": "character:Hank"
+    },
+    {
+      "content": "Ich kümmere mich gleich darum, Hank.",
+      "role": "character:Priscilla Sicktree"
+    },
+    {
+      "content": "Gut. Der Sheriff kann ja nicht ewig auf seinen Kaffee warten.",
+      "role": "character:Hank"
+    },
+    {
+      "content": "Hier sind eure Shakes, Jungs. Entschuldigen Sie mich kurz.",
+      "role": "character:Priscilla Sicktree"
+    },
+    {
+      "content": "Danke.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sieht gut aus.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Kollegen, ein Knall, Blut, eine Botschaft und Schicksal?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was hat die Kellnerin nur damit gemeint?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, das wird einfach so dahingeredet haben, zweiter. Oder es macht ihr Spaß, Touristen zu erschrecken. Immerhin wusste sie, dass wir vom Meer kommen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Peter, wie die Leute hier, sind auch wir sonnengebräunt, aber die Dame hat uns noch nie gesehen, und wir haben Gepäck dabei. Daraus hat sie beschlossen, dass wir Fremde sind, und zwar Fremde aus einem anderen Staat der USA.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": "Seht mal da, da kommt ein gelber Pickup, Freunde.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das sind sie bestimmt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": "Hey, das müssen sie sein, Ashley. Hallo, ihr seid Bob, Justus und Peter, richtig?",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Ja, genau, genauso ist es.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hi, ich bin Brian, der Enkel von deiner Großtante Rosie.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Hi.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich habe dich gleich vom Foto wiedererkannt, Bob.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Hallo.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Hallo, ihr beiden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was darf ich euch denn bringen?",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Eistee wie üblich?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie üblich, Mrs. Sicktree.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Kommt sofort.",
+      "role": "character:Priscilla Sicktree"
+    },
+    {
+      "content": " ",
+      "role": "ambient"
+    },
+    {
+      "content": "Kennt ihr die Frau, ne, Ashley?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Klar, Priscilla ist hier im Ort eine Art Berühmtheit. Sie ist schon eine halbe Ewigkeit das Herz der Eisdiele.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Und außerdem kann sie",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Sie kann Dinge sehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Dinge sehen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Stürme, Unfälle und solche Sachen.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die Bauern schwören auf ihre Voraussagen, selbst Oma Rosie richtet sich danach. Sie würde nie den Mais pflanzen, bevor Priscilla nicht ihr okay gegeben hat.",
+      "role": "character:Brian"
+    },
+    {
+      "content": "Das ist purer Aberglaube.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na ja, vielleicht. Ja, hoffen wir mal, dass Justus wieder einmal recht hat.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    }
+  ]
+}

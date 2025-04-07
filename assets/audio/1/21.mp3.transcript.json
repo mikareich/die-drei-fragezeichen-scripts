@@ -1,0 +1,92 @@
+{
+  "script": [
+    {
+      "content": "Schade.",
+      "role": "character:Peter Pasetti, Hitchcock, Erzähler"
+    },
+    {
+      "content": "Wenn Morton hier gewesen wäre, hätten wir ihn gehabt.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Er ist wütend und Wut entspringt aus Angst. Jetzt hat er Angst vor uns.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, das verschafft uns einen eindeutigen Vorsprung, Kollegen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was redest du da, Just?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der soll Angst vor uns haben?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bitte helft mir, Onkel Ramos braucht Wasser.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gern, ich lauf zum Brunnen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Schon gut, es geht schon.",
+      "role": "character:Onkel Ramos"
+    },
+    {
+      "content": "Warum hast du nicht ihm gesagt, wo Blackbeard ist?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Weil ich es nicht mehr weiß. Ich habe ihn verkauft für 5 Dollar an eine Señora, aber ich weiß nicht mehr wo.",
+      "role": "character:Onkel Ramos"
+    },
+    {
+      "content": "Blackbeard scheint ungeheuer wichtig zu sein.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So, hier ist das Wasser.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Danke, ich danke euch.",
+      "role": "character:Onkel Ramos"
+    },
+    {
+      "content": "Da draußen ist eine Dame mit einem Karton.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Oh, Señora, kommen Sie herein!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wo ist Ramos, dieser Gauner?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Mein Onkel ist krank, was wollen Sie?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mein Geld zurück. Dein Onkel hat mich belogen. Er behauptet, dieser Vogel sei wertvoll, aber mein Schwiegersohn sagt, er ist nur ein Star.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Blackbeard?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier, nimm und gib mir gefälligst die 5 Dollar wieder, und zwar sofort, sonst gehe ich zur Polizei.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Gut, also, hier, du hast 5 Dollar.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

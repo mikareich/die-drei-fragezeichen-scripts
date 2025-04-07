@@ -1,0 +1,60 @@
+{
+  "script": [
+    {
+      "content": "Und da hast du den dämlichen Vogel! Adios!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Sowas, ein Star, ein billiger Star!",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Carlos, bitte öffne den Karton!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sofort!",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "So! Ah!",
+      "role": "character:Carlos"
+    },
+    {
+      "content": "Oh, das ist aber kein gewöhnlicher Star. Das ist ein Müna, eine besondere Starenart, die in den Tropen vorkommt. Gewissermaßen ein Superstar, oder auch ein Superpapagei.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Münas können nämlich noch viel besser sprechen als Papageien. Sie sind sehr wertvoll, wenn",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich bin Blackbeard, der Pirat. Mein Schatz verrobt ich in finsterer Nacht. Wo die Toten halten ewig Wacht. Juhu! Und eine Buddel Rum!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Blackbeard, wenn das Mr. Claudius wüsste.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Blackbeard im schönsten Doppelsinn, ein Star unter den Papageien, scheint in dem mysteriösen Fall wirklich die Rolle eines Superpapageis zu spielen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Worin wohl seine Überlegenheit bestehen mag? Menschliche Intelligenz dürfte er nicht besitzen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Und ob er tatsächlich besser spricht als sein anderer Papagei oder mehr?",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Vorerst steht nur fest, dass auch das Seeräuberlied aus Stevensons Schatzinsel von seinem Sprachlehrer im Wortlaut etwas abgewandelt wurde.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Carlos, woher hat dein Onkel die Papageien eigentlich?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

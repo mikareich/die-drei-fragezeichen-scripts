@@ -1,0 +1,72 @@
+{
+  "script": [
+    {
+      "content": "Was nun mal aus mit der Sprache?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Was wollten Sie hier?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Wir wollten Ihnen einen Geschäftsbesuch abstatten, Mr. Fentriss.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So, so, ähm, Geschäftsbesuch bei, natürlich bei wir.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Und dazu schleicht ihr euch von Baum zu Baum wie Indianer auf dem Kriegspfad.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Wir hörten jemanden um Hilfe schreien. Deshalb haben wir uns hinter den Bäumen versteckt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Einen Hilferuf, wollten ihr gehört haben.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Es war so, Sir.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir wurden von Alfred Hitchcock, dem berühmten Regisseur, hier geschickt. Er sagte, sie vermissen ihren Papagei und die Polizei wolle ihnen bei der Suche nicht helfen. Wir sind Detektive und bereit, sie bei der Wiederbeschaffung ihres gefiederten Hausgenossen zu unterstützen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, hier. Unsere Karte.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Die drei Fragezeichen. Wir übernehmen jedenfalls.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Erster Detektiv Justus Jonas.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Zweiter Detektiv Peter Shaw.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Dritter Detektiv verantwortlich für Recherchen und Archiv Bob Andrews.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich bin Justus Jonas und das ist mein Kollege Peter Shaw.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und was bedeuten die drei Fragezeichen? Bezweifelt ihr eure eigenen Fähigkeiten, hä?",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Das Fragezeichen ist ein Symbol für das Unbekannte, für unbeantwortete Fragen, ungelöste Rätsel.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

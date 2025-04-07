@@ -1,0 +1,56 @@
+{
+  "script": [
+    {
+      "content": "Das leitet sich von Lukullus ab. Lukullus war nämlich",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Ein berühmter römischer Feldherr und Schlemmer",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Und der Papagei ist ein Komödiant dazu.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Ich brachte ihn bei, Sklave zu spielen, Sklave hinter Gitterstäben und der schreit das Biest eben mal ab und zu um Hilfe. Das gehört einfach dazu.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Dürfen wir ihn einmal sehen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, das geht nun wieder leider nicht. Tut mir sehr leid, der schläft jetzt unter einem Tuch.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Na ja, dann gibt es ja nichts mehr zu ermitteln. Es freut mich, dass ihr Papa 2 wieder da ist, Mr. Fentriss.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also, ich danke euch. Karte weiß ich mal hier für alle Fälle natürlich und auf Wiedersehen, es hat mich sehr gefreut. Ja und nun ab.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Abfahren. Auf Wiedersehen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Justus und Peter waren enttäuscht.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Alles hatte so vielversprechend begonnen. Ein einsames Haus, ein Hilferuf, ein nicht sehr vertrauenserweckend aussehender Mann mit Pistole und jetzt war alles schon wieder vorbei.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Justus und Peter verließen das Haus und den Garten. Sie gingen zu einem Rolls-Royce, der goldene Beschläge hatte und fuhren mit ihm davon.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Justus hatte die Annehmlichkeiten dieses Wagens schätzen gelernt. Er wurde ihnen von einem ehemaligen Klienten der drei Fragezeichen bei Bedarf kostenlos zur Verfügung gestellt.",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

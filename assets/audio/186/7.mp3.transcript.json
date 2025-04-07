@@ -1,0 +1,476 @@
+{
+  "script": [
+    {
+      "content": "statt wie geplant in die Zentrale, fuhren die drei Detektive direkt zu Peter nach Hause.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Sie hatten Peters Sturmfreie Bude noch gar nicht genutzt und Mister und Mrs. Shaw würden bereits in einigen Tagen aus Europa zurückkehren.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Die Stimmung war gedrückt.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Wir haben auf ganzer Linie versagt und nichts herausgefunden.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Am liebsten würde ich meine Eltern anrufen und ihnen alles erzählen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was hast du denn, Zweiter?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da war was an der Haustür.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ich bin mir ganz sicher.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wirklich?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Kommt mit auf den Flur.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hört ihr das?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Warte, die ich hab mich...",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Himmel, hast du mich erschreckt.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Opa!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mr. Peck!",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was hattet ihr denn in drei Teufels Namen mitten in der Nacht im Sunny Island Center zu tun?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Spioniert ihr mir etwa nach?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ich, ja, natürlich spionieren wir dir nach.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wollen Sie nicht erstmal reinkommen, Mr. Peck?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Worauf du dich verlassen kannst, Justus.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Los, kommen Sie rein.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir gehen besser in mein Zimmer, Opa.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da sind die Rollos vor den Fenstern.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sicher, sicher.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ich werde nämlich verfolgt, von dem Fahrer des roten Mercedes, das wissen wir.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Was wir nicht wissen, wer ist dieser Mann, und in was für eine Geschichte sind sie da hineingeraten?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich muss mich erstmal setzen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Möchtest du etwas trinken, Opa?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, nein, später vielleicht.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Tja, wo soll ich anfangen?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Halt, halt, halt, halt, bevor du irgendwas erzählst, will ich eins wissen, geht es dir wirklich gut?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was macht deine Gesundheit?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Große Güte, Peter, du klingst ja schon wie Castro.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Was ist mit deinem Blutdruck und das Herz?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mir geht es großartig, wenn ich mal davon absehe, dass ich auf der Flucht bin, aber das hält ja auch irgendwie jung.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Na, beim Seniorenheim haben sie gesagt, du wärst, na ja...",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich wäre ein verwirrter alter Trottel.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ach je, Peter, das habe ich denen doch nur vorgespielt.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ja, das Buch über Demenzerkrankungen haben sie also nur gelesen, um die Rolle überzeugender spielen zu können?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Tja, woher weißt du, was ich für Bücher lese?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Tja, wir waren in deinem Haus, Opa. Wir haben uns Sorgen gemacht, weil das Sunny Island Center angerufen hat und wissen wollte, wo du bist. Wir wussten ja nicht mal, dass du da eingezogen bist, also haben wir ermittelt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich hätte es mir denken können, aber diese Leute sind gefährlich, Peter. Ich wollte euch da nicht mit reinziehen, niemanden.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Vielleicht sollten Sie uns alles von Anfang an erzählen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, in Ordnung.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Mein alter Freund Nil Huber lebte der Senioren Residenz auf Sunny Island.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ich gehe ihn regelmäßig besuchen, alles war bestens, bis er mir eines Tages ein Geheimnis anvertraute.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Von der Insel verschwinden Leute.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ja.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nicht einfach so.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Nicht spurlos. Sie werden in andere Pflegeheime verlegt. Drei von ihnen kannte Nil persönlich, er hatte sie im betreuten Wohnen kennengelernt, aber dann wurden sie auf die Pflegestation verlegt. Nil besuchte sie dort auch weiterhin, auch noch als sie schon gar nicht mehr erkannten.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Aha.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann waren sie plötzlich weg, weil sie Sunny Island nicht mehr bezahlen konnten, das ist die offizielle Begründung, Geld, aber ich vermute, das ist nur die halbe Wahrheit.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Richtig.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nil wusste nämlich, dass Martha, Maria und James eigentlich genug Geld hatten, um den Rest ihres Lebens auf der Insel zu verbringen, aber die Leitung der Residenz behauptete, das Geld sei alle. Nil glaubte, dass sich jemand die Vollmachten über ihre Konten erschlichen hatte, um dann alles Geld abzuheben.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ach.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber wer erteilt freiwillig Vollmachten über seine Konten?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das macht man doch nur, wenn man jemanden absolut vertraut. Ich vermute mal, dass Martha, James und Maria mitbekamen, wie sich ihr geistiger Zustand verschlechterte. Sie hatten Angst davor, dass sie irgendwann nicht mehr in der Lage sein würden, die richtigen Entscheidungen zu treffen, z.B. bei Geldgeschäften.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So ist es.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Sie hatten keine Familienangehörigen, die das hätten übernehmen können.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Aha.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber dann kam jemand, der sagte: Keine Sorge, Mrs. Da Silva, wenn es so weit ist, werde ich mich um ihre Angelegenheiten kümmern. Vertrauen Sie mir und unterschreiben Sie einfach diese Vollmacht, dann müssen Sie sich nicht mehr Sorgen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ach, ja, aber spätestens in dem Moment, wenn es heißt, es tut uns leid, Mrs. Da Silva, aber ihr Geld ist leider alle, wir müssen sie in ein staatlich geführtes Heim verlegen. Spätestens da müsste eine Mrs. Da Silva doch misstrauisch werden und sagen, das kann überhaupt nicht sein, ich weiß genau, dass ich noch 100.000 $ auf meinem Konto hab.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Genau.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ja, Bob, wenn sie es noch weiß, aber verlegt wurde sie erst, als ihre Demenz so weit fortgeschritten war, dass sie nicht einmal mehr den Namen ihrer Schwester kannte, von den Summen auf ihrem Konto ganz zu schweigen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Was für was für eine Riesensauerei.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das dachte auch Nil.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Er wollte rauskriegen, wer dahinter steckt. Zu dem Zeitpunkt hat er mich eingeweiht. Drei Wochen später lag er plötzlich auf der Pflegestation, nicht mehr ansprechbar.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Und ich werde das Schwein erwischen, dass ihm das angetan hat.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Moment mal, Sie meinen, sein Gesundheitszustand hat sich nicht auf natürliche Weise verschlechtert?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nein, er ist der Wahrheit zu nahe gekommen und dann wurde er ruhig gestellt, mit Medikamenten.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Gibt's ja nicht.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Haben Sie dafür Beweise?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Beweise? Mir reicht mein gesunder Menschenverstand.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Aha.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also hast du versucht das Verbrechen aufzudecken und bist selber auf Sunny Island eingezogen?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Richtig. Ich habe mich als reicher ehemaliger Geschäftsmann ausgegeben, um den Übeltäter anzulocken, aha, klar, aber nichts passierte, niemand versuchte sich mein Vertrauen zu erschleichen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "So spielten Sie dann den Demenzpatienten und ließen sich ins betreute Wohnen verlegen?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber immer noch kam niemand auf mich zu und wollte eine Vollmacht von mir. Also nahm ich es selbst in die Hand und fing an, herumzuschnüffeln, doch dabei wurde ich erwischt. Als ich in alten Akten herumwühlte, gestern Nachmittag stand der Kerl in meinem Zimmer und wollte mich mit einer Spritze ausschalten. Aber ich konnte ihn austricksen und bin abgehauen, seitdem bin ich auf der Flucht.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Vor wem?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na, Doktor Berg natürlich.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Dr. Berg, ja, wer denn sonst? Alle vertrauen ihm, er ist schließlich der Leiter der Residenz.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Dr. Berg.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So ein Ding.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und und Dr. Berg hat dich auch in die Tankstelle verfolgt?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Woher wisst ihr von der Tankstelle?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Es war in den Nachrichten, Opa.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "In den Nachrichten?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ja.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber ich habe doch gar nichts getan.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Was kann ich denn dafür, wenn dieser Idiot plötzlich die Kasse aufreißt und mir sein Geld vor die Füße schmeißt?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Soweit ich informiert bin, haben Sie es auch an sich genommen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Kann sein, ich glaube, das liegt noch im Handschuhfach. Ich war ziemlich im Stress und die Waffe war eine Attrappe.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Die habe ich mir besorgt für den Fall, dass Berg mich bedroht.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Das ist ja eine völlig verrückte Geschichte.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und warum haben Sie Ihrem Freund Harry Jacobson Elines Namen genannt?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sie sagten, mir, falls etwas schiefliefe, soll er sich an Eline wenden, aber Eline konnte uns nicht das geringste sagen. Ich hatte ihr einen Hinweis gegeben. Die Namen der drei verschwundenen Personen, sie ist die einzige, der ich zugetraut habe, das Rätsel zu lösen, falls ich erwischt werde.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Und was hat es mit dieser Totenkopfstrumpfmaske auf sich, Mr. Peck? Und weshalb waren Sie damit vorhin in der Residenz auf dem Fernseher zu sehen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wie jetzt?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Jetzt, Justus, du denkst...",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich habe Ihre Stimme aus dem Fernseher sofort erkannt, Mr. Peck.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das war alles ein Test, ob die drahtlose Bild- und Tonübertragung von meiner Kamera auch funktioniert, wenn ich nicht im Technikraum sitze.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ach so.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber wie konntest du mich sehen, Justus?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Alle konnten Sie sehen, Mr. Peck, Ihr Bild wurde auf jeden einzelnen Bildschirm der Residenz übertragen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Donner und Doria.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Auf jeden Bildschirm?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Da habe ich im Technikraum wohl ein paar falsche Knöpfe gedrückt.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Für den Test sollte eigentlich nur der Bildschirm in der Cafeteria anspringen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Sie haben also mit sich selbst gesprochen. Habe ich das?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, kann sein.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Aber Himmel, wenn ich überall zu sehen war, dann habe ich ja allen Bewohnern einen riesen Schrecken eingejagt, allerdings, deshalb hat ja eine Oma so laut geschrien.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich bin dann sofort aus dem Technikraum geflohen und mit einem geliehenen Motorboot abgehauen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Moment, Moment, Moment, ich verstehe es leider immer noch nicht. Was sollte das alles?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Morgen, wenn die Kommission des Gesundheitsamtes Sunny Island besucht, werde ich Dr. Berg hochgehen lassen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ich denke, ich spreche im Interesse aller Anwesenden, wenn ich sage, jetzt wäre der ideale Zeitpunkt, uns in ihren genialen Plan einzuweihen, Mr. Peck.",
+      "role": "Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

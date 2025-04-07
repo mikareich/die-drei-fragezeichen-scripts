@@ -1,0 +1,68 @@
+{
+  "script": [
+    {
+      "content": "Als Peter 100 Schritte zurückgelegt hatte, gab es nichts Auffälliges zu sehen.",
+      "role": "Hitchcock, Erzähler"
+    },
+    {
+      "content": "Also wiederholten die Jungen den Versuch.",
+      "role": "Hitchcock, Erzähler"
+    },
+    {
+      "content": "Peter nahm größere Schritte als zuvor.",
+      "role": "Hitchcock, Erzähler"
+    },
+    {
+      "content": "96, 97, 98, 99, 100.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dort! Drei alte Grabsteine.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Darauf steht das Jose Rosewood, Patience Rosewood und Tom Rosewood am selben Tag im Jahre 1888 an Gelbfieber gestorben sind. Das Familienwappen zeigt eine Rose.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Drei Rosen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber wie weisen sie uns die 13?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Die Reihe entlang, in der die Steine aufgestellt sind. Vielleicht weist sie auf irgendetwas Markantes. Und machen wir um Himmels Willen schnell, der Nebel wird ja immer dichter.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da ist ein Grabstein am Ende des Weges.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, was steht drauf?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier ruhen 13 namenlose Reisende, erschlagen von Indianern, 17. Juni 1876.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Die 13.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, drei Rosen haben uns wirklich zu den 13 gebracht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Schnell Justus, wie hieß der Schluss des Rätsels?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Teil 6 lautet: Schau unter die Steine jenseits der Gebeine.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    }
+  ]
+}

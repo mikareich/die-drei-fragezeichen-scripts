@@ -1,0 +1,64 @@
+{
+  "script": [
+    {
+      "content": "Ja, wir müssen auch eine Belohnung aussetzen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das ist richtig, Peter, aber was können wir bieten? Unsere Barschaft ist nicht der Rede wert.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hä? Wie wär's mit einer Fahrt im Rolls-Royce?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja! Sowas macht jedem Auto begeisterten jungen Spaß.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er könnte über Autotelefon mit seinen Freunden sprechen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das wäre wirklich nicht schlecht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann sind wir uns ja einig.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, vielleicht bringen wir auch noch ein paar Dollar zusammen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Freunde, bringt die Lawine ins Rollen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Gut, Just. Lass mich mal ans Telefon.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was meinst du, Just? Wie viele jungen werden wir mit der Lawine erreichen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Lass uns mal rechnen, Bob. Also, wenn jeder von uns fünf Jungen anspricht, sind das 15. Wenn jeder dieser 15 wiederum fünf andere anruft, haben wir 75. 5 x 75 gibt 375. Mann, und das mal fünf ergibt 1875. Boah, und das mal fünf. Oh, hör auf. Ich kann mir schon vorstellen, dass wir damit die Telefone in ganz Kalifornien blockieren.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus' Telefonlawine funktionierte. Zumindest insofern, als kurz darauf tausende von Telefonanschlüssen in Kalifornien blockiert waren.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Die drei Fragezeichen warteten in der Zentrale auf einen Rückruf.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Kicher",
+      "role": "ambient"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "script": [
+    {
+      "content": "Das war Al Capone. Also was glaube ich, dass es Al Capone war.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Jetzt spricht der plötzlich auch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich hab doch jeden reingelegt. Da guckst du in die Röhre, was?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Das war Blackbeard. Wieso spricht er was Al Capone sagt?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sollte er",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sollte er was Justus?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Äh, sprich doch aus. Was meinst du?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Warten Sie mal Mr. Claudius. Blackbeard.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Was sagt Robin Hood?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Robin Hood?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ich bin Robin Hood. Ich nahm den Bogen, meinen Besten. Mein Pfeil flog hundert Schritt gen Westen.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Also, das ist ja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Schreibt es auf. Ja, schreibt es auf. Ja, los, mach schon. Du kennst meine Methoden, Witzer. Drei Hosen und die 13.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Das war Sherlock Holmes Satz.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Blackbeard. Jetzt Captain Kid.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Captain Kid?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich bin Captain Kid. Schau unter die Steine, Jansatz der Gebeine, hol den Schatz ans Licht. Ein Schloss wird sich",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ich hab doch jeden reingelegt. Da guckst du in die Röhre, was?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Da haben wir es. Die volle Botschaft.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, mir war doch schon länger so, als hätte Blackbeard dauernd andere Sprüche drauf. Ich habe nur nicht darauf geachtet.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So. Wir haben alle Sprüche, Kinder.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

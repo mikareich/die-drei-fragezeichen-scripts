@@ -1,0 +1,80 @@
+{
+  "script": [
+    {
+      "content": "da aber erfuhren wir, dass es noch mehr gibt zwischen dem, offenbaren in Zusammenhang besteht.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Genau.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also das ist nicht wahr.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Im Gegenteil, das ist die volle Wahrheit.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Siehst du, du bist mal wieder viel zu aufgeregt gewesen. Statt ruhig und besonnen vorzugehen, hast du dich benommen wie ein amerikanischer Gangster.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Könnte sein.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Irrtum.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das könnte nicht nur so sein, es ist so.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Tut mir leid, dass ich, also, wenn ich mich aufrege, dann kann ich mich eben einfach nicht mehr herrschen.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Wort. Begreifst du jetzt? Das sind drei fixe Jungen, die völlig in Ordnung sind. Keiner ist gegen dich. Du solltest dich entschuldigen. Mr. Fentriss und Miss Waggoner gegenüber haben sie sich ungesetzlich verhalten.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Also, ich werde sie dafür entschädigen. Tut mir wirklich leid, aber ich muss die Papageien unbedingt haben. John Silver hat mir ein Bild gestohlen, dass wenigstens 100.000 $ wert ist.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "100.000?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Ja, und nur die Papageien können mir helfen, es wiederzubeschaffen.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Sie können beweisen, dass ihnen das Bild gehört?",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Das kann ich.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Sämtliche Kunsthändler wissen es, deshalb konnte Silver es auch nicht verkaufen. Mit diesem verrückten Papageien, da wollte er nur mich ärgern.",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ein Bild, also.",
+      "role": "character:Mrs. Claudius"
+    },
+    {
+      "content": "Silver hat zu Ramos gesagt, in dem Metallkasten habe ich ein Stück vom Ende des Regenbogens, mit einer Schüssel Gold darunter.",
+      "role": "character:Hitchcock, Erzähler"
+    }
+  ]
+}

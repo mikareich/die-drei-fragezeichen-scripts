@@ -1,0 +1,52 @@
+{
+  "script": [
+    {
+      "content": "Hilfe!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hilfe!",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hey Peter, jemand ruft um Hilfe.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich hab's gehört. War das nun ein Mann oder eine Frau?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hm, vielleicht keins von beiden.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Keins von beiden? Wie meinst du das, Just?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Vielleicht ein Kind. Oder ob es Mr. Malcolm Fentriss war, dann wär's doch ein Mann gewesen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich weiß nicht.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Oh Mensch, Just, wir ziehen los, um einen verschwundenen Papagei zu suchen, und bevor wir noch im Haus sind, schreit jemand um Hilfe.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hm, ich hoffe nur, dass dies nicht schon wieder ein komplizierter Fall wird.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Im Gegenteil, es fängt doch recht aussichtsreich an.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": " ",
+      "role": "\\ambient\\"
+    }
+  ]
+}

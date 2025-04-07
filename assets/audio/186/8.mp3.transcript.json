@@ -1,0 +1,292 @@
+{
+  "script": [
+    {
+      "content": "Als am nächsten Morgen die Mitarbeiter des Gesundheitsamtes die Seniorenresidenz betraten, lief auf allen Bildschirmen die Wettervorhersage.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Ein weiterer sonniger Tag auf Sunny Island.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Mr. Peck und Justus hatten im Technikraum unbemerkt alle Vorkehrungen getroffen.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Anschließend gingen sie in Dr. Bergs Büro.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Von dort aus rief Mr. Peck den Leiter der Seniorenresidenz auf seinem Handy an.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Telefonklingeln",
+      "role": "ambient"
+    },
+    {
+      "content": "Ja.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ja, richtig, Dr. Berg. Hier spricht Bennington Peck, der Mann, den Sie so dringend suchen.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Was zum Teufel?",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Ich weiß, Sie sind fürchterlich beschäftigt, Doktörchen, aber wenn Sie Ihren allerwertesten nicht sofort hierher in ihr Büro bewegen, komme ich zu Ihnen runter und erzähle der versammelten Kommission, was ich über Sie und Ihre Machenschaften weiß.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Verstanden.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Ausgezeichnet, Mr. Peck. Ich bin ganz sicher, dass er herkommen wird. Also los, Justus, schnell in den Schrank mit dir.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Türen schließen",
+      "role": "ambient"
+    },
+    {
+      "content": "Na, dann wollen wir doch mal sehen, wie lange du auf dich warten lässt, Doktörchen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Musik",
+      "role": "ambient"
+    },
+    {
+      "content": "Ah, Dr. Berg, wie schön, dass Sie es einrichten konnten.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Mr. Peck? Sie sind also wieder da.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "So ist es. Sie dachten wohl, ich hätte mich endgültig aus dem Staub gemacht, nachdem Sie mich gestern Nacht nicht erwischt haben. Den Gefallen tue ich Ihnen aber nicht.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Erwischt?",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Wissen Sie, was Sie sagen? Ich war lediglich um ihre Gesundheit besorgt.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Papperlapapp, ich lasse Sie auffliegen, Berg.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Auffliegen?",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Jawohl, ich weiß alles über ihre Machenschaften. Sie haben mehrere Bewohner dieser Insel um ihr Vermögen gebracht und sie dann in staatliche Einrichtungen abgeschoben. Martha Longinde, James Swift, Maria da Silva. Alle drei wurden von heute auf morgen verlegt, weil sie plötzlich pleite waren.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Es ist klar, dass Sie das wirklich glauben, Mr. Peck, aber es gibt keine Verschwörung.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Ich kann es aber beweisen, Doktörchen! Sie haben die Bankunterlagen gefälscht. Ich war im Kellerarchiv und habe sie mir angesehen. Ich gehe jetzt zur Kommission und erzähle denen alles, was ich weiß.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "In Ordnung, ich begleite Sie und dann werden wir gemeinsam sehen, wie wir die Situation auflösen.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Nein, nein, nein, nein, nein, was soll das? Nehmen Sie die Spritze weg.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Geräusche",
+      "role": "ambient"
+    },
+    {
+      "content": "So, das wäre erledigt.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Tür öffnet sich",
+      "role": "ambient"
+    },
+    {
+      "content": "Ja. Na, du gehst schon ran.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, endlich. Hör zu. Peck ist aufgetaucht. Er sagte, er hätte Beweise, dass die Bankunterlagen gefälscht sind.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, wenn ich es doch sage, aber ich konnte ihn in Ruhe stellen. Von ihm geht keine Gefahr mehr aus. Wir sollten die Unterlagen trotzdem vorsichtshalber verschwinden lassen. Übernimm du das. Ich muss zur Kommission zurück.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Dieser verdammte Narr.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Was zum Teufel?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was hast du in meinem Schrank zu suchen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nichts. Ich habe sie belauscht und beobachtet.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Es war nicht so wie",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Niemand wird dir glauben.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich fürchte, das schätzen Sie falsch ein. Alle werden mir glauben. Sicherlich hat man Ihnen heute früh von den seltsamen Vorfällen berichtet, die sich letzte Nacht auf der Insel zugetragen haben. Wissen Sie, was das zu bedeuten hatte?",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Ich höre.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das war ein Testlauf. Sehen Sie dem Skelett in der Ecke doch einmal genau ins linke Auge und sagen: \"Hallo\" zu Ihrem Publikum.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Du blöffst.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "In vielen Fällen schon, Dr. Berg, doch dieses Mal konnte Mr. Peck, der geniale Hobbyerfinder, Ihnen eine todsichere Falle stellen. In dem Moment, als Sie ihr Büro betraten, habe ich per SMS-Signal die Kamera aktiviert, die alles live auf sämtliche Bildschirme in ihrer Residenz übertragen hat.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Und aus diesem Grund sind Sie hiermit verhaftet, Dr. Berg.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Aber Inspektor Kotta, auf Sie ist doch stets Verlass.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Ich muss Sie wohl nicht extra über Ihre Rechte aufklären, oder? Goodwin, legen Sie diesem sauberen Herrn Handschellen an.",
+      "role": "Inspektor Cotta"
+    },
+    {
+      "content": "Kommen Sie.",
+      "role": "Inspektor Cotta"
+    },
+    {
+      "content": "Wo ist der Patient? Ich habe hier ein Medikament, das ihm schnell wieder auf die Beine helfen wird.",
+      "role": "Schwester Beatrice"
+    },
+    {
+      "content": "Danke, Schwester Bierschuss.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Bob und Peter, wen habt ihr denn da mitgebracht?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Lasst mich endlich los! Es tut mir weh.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Ist das nicht eine Überraschung?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Als wir per Bildschirmübertragung mithörten, wie Dr. Berg per Telefon seinem Komplizen den Auftrag erteilte, im Keller sofort die Unterlagen zu beseitigen, da sind Peter und ich runtergestiefelt und haben uns auf die Lauer gelegt.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und wer kam kurz darauf, um das belastende Beweismaterial zur Seite zu schaffen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Unsere geschätzte Elyn Djawadi.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Opa Pecks einzige Vertrauensperson in diesem Saftladen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie konntest du nur so niederträchtig sein, Elyn?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Niederträchtig? Da hast du doch keine Ahnung.",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Wovon muss ich denn eine Ahnung haben, um das hier zu verstehen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Weißt du, was ich hier als Pflegerin verdiene?",
+      "role": "Ellyn Djawadi"
+    },
+    {
+      "content": "Aha, und deshalb hast du geholfen, alte Leute zu bestehlen, die ihr Leben lang dafür gespart haben, dass sich im Alter jemand um sie kümmert, weil es sonst keiner tut?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hey!",
+      "role": "Schwester Beatrice"
+    },
+    {
+      "content": "Schwester Beatrice. Sie hier?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bleiben Sie liegen, Mr. Peck. Ganz ruhig, ich bitte Sie, einen Moment noch.",
+      "role": "Schwester Beatrice"
+    },
+    {
+      "content": "Ach, reden Sie keinen Unsinn, Schwester, ich fühle mich großartig. Die Spritze war super. Es ist ein bisschen wie schweben, ein bisschen so wie damals in Woodstock.",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Haben Sie noch mehr davon?",
+      "role": "Ben Peck"
+    },
+    {
+      "content": "Opa, du bist der Hammer. Einen besseren Großvater kann man sich wirklich nicht wünschen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und wie ich sehe, habt ihr den Rest des Falles hervorragend zu einem glücklichen Ende gebracht.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Tja, da steht wohl eine riesige Party an, oder wie seht ihr das?",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Party.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

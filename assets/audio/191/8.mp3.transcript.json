@@ -1,0 +1,328 @@
+{
+  "script": [
+    {
+      "content": "Ja, was gibt's denn?",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ja, also, Sheriff, die Jungs hier haben nur eine Frage, aber vielleicht können wir das...",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich meine, vielleicht können wir es auch später regeln. Ja, ich bitte darum, bin eh schon spät dran.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Gut. Männer, Frau geht es nicht gut. Sie hat sich jetzt hingelegt und...",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ich muss ins Büro.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Äh, wir brauchen nicht lange, Sheriff. Sie haben gerade geduscht und sich umgezogen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie bitte?",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Na, die Manschettenknöpfe Ihres Hemdes sind noch offen. Außerdem tragen Sie eine Hose ohne Dreckspritzer. Die hatten Sie also heute noch nicht bei einem Außeneinsatz an.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, und außerdem sind Ihre Haare feucht, obwohl es seit Stunden nicht mehr geregnet hat.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Warum auch nicht?",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ich habe gerade meine dreckigen Sachen gegen frische ausgetauscht.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Sie geben also zu, dass ihre Bekleidung dreckig war?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah, was soll diese Fragerei? Ich bin seit dem Unwetter praktisch im Dauereinsatz.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Sie waren beruflich unterwegs?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, du schlaue Meyer, bevor ich mich um meine Frau gekümmert habe. Der geht es gesundheitlich nämlich sehr schlecht.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Das tut mir aufrichtig leid, Sir.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wie aber kommt es dann, dass der Schlamm an den Rädern ihres Wagens trocken ist? Und wenn ich einen Blick durch die Heckklappe werfe, sollten Sie mal dringend Ihren Wagen aussaugen. Alte Hunde neigen dazu, viele Haare zu verlieren.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Alte Hunde? Was denn für Hunde?",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Sie haben doch gar keinen Hund mehr, Sheriff.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nun ja, also...",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Sie haben Old Buck gestern mit diesem Wagen zum Motel gebracht. Heute sind Sie erneut dort gewesen, allerdings mit dem Pferd. Darauf lässt diese Satteldecke da schließen, die Spuren von frischem Schweiß aufweist. Sie haben sie extra zum Trocknen nach draußen gehängt.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ein Pferd ist hier draußen deutlich unauffälliger, als ihr Sheriff-Wagen, den jeder schon von Weitem erkennt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, außerdem konnten sie anschließend mit dem Pferd bequem bis zur Höhle reiten.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Höhle?",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Das brauchen Sie gar nicht zu leugnen, Sir. Das Betreten der Black Smoke Cavern ist schließlich keine Straftat. Genauso wenig wie die Suche nach einem Schatz. Was wir Ihnen hingegen vorwerfen, ist die Entführung eines Hundes, sowie der nächtliche Einbruch auf der Farm von Rosie Wrenwick.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das sind Unterstellungen!",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Die Summe der Indizien spricht für sich.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Tut sie nicht. Ich habe neulich einen streunenden Hund eingefangen. Daher das Fell im Auto.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Und die Reifen des Autos sind trocken, weil ich tatsächlich mit dem Pferd unterwegs war. Allerdings war ich nicht bei einer Höhle, sondern bei den Weiden. Ich musste einen Hinweis auf entlaufene Rinder überprüfen.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ach, die entlaufenen Rinder, die hatten wir doch schon mal. Ständig scheinen hier irgendwelche Tiere unterwegs zu sein.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "So, ich muss jetzt los.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Und wir sprechen uns später, Jonathan.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, in Ordnung, Sheriff.",
+      "role": "character:Jonathan"
+    },
+    {
+      "content": "Nein, nein, Jonathan, es ist nicht in Ordnung. Sheriff Stone war heute auf Schatzsuche. Er hat in Roses Büro das Green Hauretz entdecktt und ist auf das Spielchen reingefallen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus, Justus, du hast wirklich eine blühende Fantasie.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Sie haben uns hinterher spioniert. Doch dann befürchteten sie, dass wir den Schatz vor ihnen finden könnten. Sie erzählten uns etwas von entlaufenen Bullen, die in der Gegend unterwegs seien. Ja, schließlich wollten sie selbst in Ruhe am Broken Nose Jump nach dem Schatz suchen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Was für ein ausgemachter Blödsinn!",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ach, wirklich? In derselben Nacht sind sie in Roses Schuppen eingebrochen, um das Rätsel zu entwenden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, und Old Buck hat sie nicht gestellt, da er sie seit Jahren kennt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So, und warum soll er durch den Hund dann noch zusätzlich entführen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es diente als Ablenkung. Wir sollten uns mit der Suche nach Buck beschäftigen, weil sie selbst nicht schnell genug mit dem Rätsel vorankamen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Und bemerkenswert ist dabei, dass sie vor dem Ritt zur Höhle noch den Hund versorgt und überprüft haben, ob er die Nacht im Motel gut überstanden hat.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, das spricht für Sie. Auch ist Ihr Motiv, dass ich hinter allem vermute, durchaus nachvollziehbar. Die Sheriffstation in Nothing wird geschlossen, für Sie sieht es schlecht aus. Sie haben immerhin nur noch ein paar Jahre bis zur Pensionierung und bekleiden einen höheren Posten, schwer unter diesen Bedingungen eine passende Stelle zu finden.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, und hinzu kommt die Tatsache, dass es Ihrer Frau nicht gut geht, wie sie mehrmals angedeutet haben. Also, suchten Sie Händeringend nach einer Möglichkeit in Nothing zu bleiben. Das Gold hätte ihre Probleme gelöst, es hätte sie finanziell völlig unabhängig gemacht.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Es reicht, Bob. Es gibt keine Beweise für diese Theorie.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Aha. Und was ist das hier?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das lag in ihrer Mülltonne, Sheriff.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Unsere Schatzkiste!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich wette, am Schloss befinden sich ihre Fingerabdrücke.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ah, das lässt sich leicht feststellen. Und wenn wir schon dabei sind, können wir auch gleich die Haare aus dem Auto analysieren. Ich wette, sie stimmen mit denen von Old Buck überein.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Hey, hey, macht, macht bitte keine große Sache daraus.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Sir, dann sind Sie tatsächlich bei meiner Großmutter eingebrochen?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Es war doch alles nur wegen meiner Frau. Ich wollte so sehr, dass Holly in Nothing bleiben kann.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ja, das ist verständlich, aber ich muss die Sache melden und einen Bericht verfassen. Das ist meine Pflicht.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Denk bitte an Holly.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Ja, wir gehen jetzt. Ich will in Ruhe nachdenken und mich mit Oma Rosie besprechen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ihr, ihr drei seid richtig gute Detektive, Jungs. Ich bin manchmal noch nicht gut genug.",
+      "role": "character:Sheriff Stone"
+    },
+    {
+      "content": "Und bei dir Ashlyn möchte ich mich aufrichtig entschuldigen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, ist schon gut, Justus. Schwamm drüber.",
+      "role": "character:Ashlyn"
+    },
+    {
+      "content": "Zwei Tage nach dem dramatischen Ende der Schatzsuche fuhren Ashlyn und Brian mit den drei Detektiven nach Nothing ins Eiscafé und löffelten jeder einen Becher namens Berg des Schicksals.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Lecker.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Schade, dass ihr schon wieder abfahrt.",
+      "role": "character:Priscilla Sicktree"
+    },
+    {
+      "content": "Ja, also, ich fand die Zeit auf Roses Farm eigentlich ganz schön.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Und letztendlich habt ihr ja dafür gesorgt, dass es noch richtig kriminell zuging.",
+      "role": "character:Priscilla Sicktree"
+    },
+    {
+      "content": "Also, ich hoffe, der Sheriff weiß es zu schätzen, dass er sich nicht vor Gericht verantworten muss.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Jonathan ist die Entscheidung nicht gerade leicht gefallen, aber Grandma hat ihn schließlich überzeugt. Sie ist zwar stinksauer auf den Sheriff, aber sie will nicht, dass seine Frau unter der Sache leiden muss. Außerdem ist ja auch niemand zu Schaden gekommen.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Ja, zumindest nicht mit Absicht.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Die Stones bleiben übrigens hier. Sheriff Stone wird seinen Beruf aufgeben müssen, aber er kann in Sorro für einen Wachdienst arbeiten. Dort bekommt er zwar weniger Geld, aber seine Frau muss Nothing nicht verlassen.",
+      "role": "character:Erzähler"
+    },
+    {
+      "content": "Das ist doch gut, immerhin etwas.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ach, die Herrschaften, ist alles zu eurer Zufriedenheit?",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Äh, vielen Dank, Madam. Sie haben sich bei unserer Ankunft mit ihren Vorhersagen geradezu selbst übertroffen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, das kann man laut sagen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Danke.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Unsere Schatzsuche hat euch hoffentlich einen spannenden Urlaub bereitet.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Sie hatte einen hohen Unterhaltungsfaktor, wenn gleich der in manchen Aspekten etwas zu reißerisch ausfiel.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber wir müssen jetzt zahlen, unsere Heimat ruft, leider.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich wünsche euch eine gute Reise.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Danke.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Am Meer werden euch neue Abenteuer und Gefahren begegnen. Drei Satzzeichen bestimmen nach wie vor euer Schicksal und ihr werdet dem Verbrechen ins Auge blicken.",
+      "role": "character:Rosie Wrenwick"
+    },
+    {
+      "content": "Da kann man ja Angst kriegen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Diese Vorhersage trifft ganz bestimmt zu, Madam, daher müssen wir auch schnellstens aufbrechen. Die Verbrecher in Rocky Beach hatten lange genug schon Zeit.",
+      "role": "character:Erzähler"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "script": [
+    {
+      "content": "Doch der dicke Mr. Claudius verspätete sich. ",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Ramos verkaufte die Papageien, um, wie wir jetzt auch wissen, das Begräbnis von Silver bezahlen zu können.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Claudius kam zu spät und wurde in seiner Enttäuschung furchtbar wütend. ",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Und die Steine!",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Ich habe noch",
+      "role": "character:Mr. Claudius, Kunsthändler"
+    },
+    {
+      "content": "Klare Darstellung, Kollegen. Ich glaube, ich kann dazu auch noch etwas sagen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Silver muss ein belesener Mann gewesen sein. Das verraten die Namen, mit denen er sich umgab: John Silver, Robin Hood, Lucullus, Schneewittchen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Klingt logisch.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das er sich nach einem Seeräuber nannte, lässt auch vermuten, dass sein Schatz aus einem Diebstahl stammt. Ja, deshalb konnte ihn auch nicht verkaufen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was mag in dem Kasten gewesen sein?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ein Buch vielleicht?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Das wäre möglich. Erinnere dich jedoch, wie Silver den Schatz beschrieben hat. Ein Stück vom Ende des Regenbogens mit einer Schüssel Gold darunter. Nach einem Buch hört sich das wohl nicht an.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Sind denn die Sprüche der Papageien Teile des Rätsels? Was meint ihr?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich glaube ja.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wenn wir alles zusammenfügen, wissen wir, wo der Schatz versteckt ist. Moment.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aber das gibt's doch gar nicht. Wir kommen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was ist los, Justus?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, das ratet ihr nie.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wir wollen ja auch gar nicht raten, also was ist los?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

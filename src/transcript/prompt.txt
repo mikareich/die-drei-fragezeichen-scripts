@@ -1,0 +1,71 @@
+# Transkription von "Die drei Fragezeichen" Hörspiel mit strukturierter Ausgabe
+
+## Aufgabe
+Transkribiere den beigefügten Hörspielausschnitt aus "Die drei Fragezeichen" im strukturierten JSON-Format. Das Intro dient nur zur Stimmerkennung und soll nicht transkribiert werden. Es beginnt mit den Worten einer Frauenstimme "NICHT IN DAS TRANSKRIPT EINFÜGEN" und endet mit der Aufforderung, das Transkript zu beginnen. Im Anschluss findest du den Namen/Id des Intro-Files, höre es dir bitte zuerst an, ignoriere es vollkommen im Inhalt deines Transcripts. Ignoriere in deinem Transkript vollständig die Titelmusik.
+
+## Format
+Erzeuge eine strukturierte Ausgabe gemäß folgendem Schema:
+
+```json
+{
+  "properties": {
+    "script": {
+      "items": {
+        "properties": {
+          "content": { "type": "string" },
+          "role": {
+            "pattern": "\\character:(Unknown|Metadaten-basierte Charakternamen)|\\ambient\\",
+            "type": "string"
+          }
+        },
+        "required": ["role", "content"],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": ["script"],
+  "type": "object"
+}
+```
+
+## Wichtige Regeln
+1. Verwende ausschließlich die in den Metadaten angegebenen Charakternamen
+2. Erfasse NUR handlungsrelevante Umgebungsgeräusche als "ambient" - keine Hintergrundmusik oder Titel-Melodien
+3. Beschreibe Umgebungsgeräusche im "content"-Feld (nicht leer lassen)
+4. Achte darauf, dass die Ausgabe ein valides JSON-Objekt ist
+
+## Stimmerkennung & logische Überprüfung
+Die Stimmerkennung ist besonders schwierig und fehleranfällig. Bitte überprüfe deine Zuordnungen auf logische Konsistenz:
+1. Prüfe, ob die Sprecherzuordnung im Kontext sinnvoll ist (z.B. spricht eine Person nicht über sich selbst in der dritten Person)
+2. Wenn ein Charakter mit Namen angesprochen wird, ist dieser wahrscheinlich nicht der aktuelle Sprecher
+3. Negativbeispiel: "Peter: Was soll das, Peter?!" - Hier spricht vermutlich jemand anderes zu Peter
+4. Berücksichtige den Handlungsverlauf, um bei ähnlichen Stimmen den richtigen Sprecher zu identifizieren
+5. Nutze das Intro zur Stimmerkennung, ohne es zu transkribieren
+6. Wenn absolut unklar ist, um welchen Sprecher es sich handelt, kannst du character:Unknown verwenden.
+
+## Beispiel für korrekte Ausgabe:
+```json
+{
+  "script": [
+    {
+      "role": "character:Justus Jonas, Erster Detektiv",
+      "content": "Peter, wir müssen uns beeilen!"
+    },
+    {
+      "role": "ambient",
+      "content": "Schritte auf Kies"
+    },
+    {
+      "role": "character:Peter Shaw, Zweiter Detektiv",
+      "content": "Ich komme schon, Just!"
+    },
+    {
+      "role": "ambient",
+      "content": "Türklingel"
+    }
+  ]
+}
+```
+
+## Metadaten zur Folge

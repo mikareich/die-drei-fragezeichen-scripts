@@ -1,0 +1,96 @@
+{
+  "script": [
+    {
+      "content": "Da war es wieder. Jemand hätte um Hilfe gerufen.",
+      "role": "character:Hitchcock, Erzähler"
+    },
+    {
+      "content": "Ja, schnell!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mr. Fentriss!",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hallo, Mr. Fentriss, sind Sie hier?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Helf mir.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Hier bin ich.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Dort, hinter dem Blumenständer. Er ist gefesselt!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Alles in Ordnung, Mr. Fentriss, gleich sind Sie frei. Ich schneide die Fesseln durch.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So, jetzt",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Endlich. Ich hätte es nicht mehr länger ertragen.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Vielen Dank, ihr beiden.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ich werde die Polizei verständigen.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, nein, nicht nötig. Ich habe auch gar kein Telefon.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Wir könnten vom Wagen aus anrufen. Wir haben Autotelefon.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nein, nein, lasst nur.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Wer seid ihr?",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Mr. Hitchcock hat uns geschickt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das war nett von Alfred.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ach, sollten wir nicht doch die Polizei holen?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir drei Detektive stehen Ihnen natürlich zur Verfügung, wenn es darum geht, den Papagei wiederzufinden.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Doch man hat Sie wohl gefallen und gefesselt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Übernehmt den Fall, Jungs. Ich glaube, ich kann euch vertrauen. Bei der Polizei war ich schon. Man glaubt mir doch nicht so recht. Man scheint zu befürchten, dass ich als Schriftsteller nur ein wenig Reklame rummel will, was natürlich nicht stimmt.",
+      "role": "character:Mr. Fentriss, Schriftsteller"
+    },
+    {
+      "content": "Ach, ich verstehe.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    }
+  ]
+}

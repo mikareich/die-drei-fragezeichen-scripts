@@ -1,0 +1,476 @@
+{
+  "script": [
+    {
+      "content": "am nächsten Morgen hatte sich das Unwetter wieder gelegt.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Justus blieb im Haus.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Er fühlte sich noch immer von Ashlyn und Bryans Spiel in seiner Detektivehre gekränkt.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Peter und Bob machten sich derweil draußen auf dem Hof ganz andere Gedanken.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Du Bob, hm?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wenn Buck entführt wurde, ja, dann kann deine Großtante lange nach ihm suchen.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, aber warum sollte hier jemand einen Hund stehlen? Noch dazu einen so alten?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na ja, was, was würdest du tun, wenn du mit einem Rätsel nach einem Schatz suchst und weißt, dass eine Reihe anderer Menschen ebenfalls auf der Suche sind?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, keine Ahnung. So schnell wie möglich suchen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oder, die anderen aufhalten. Z.B. indem man sie mit der Suche nach einem Hund beschäftigt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach, meinst du wirklich?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Na ja, so abwegig ist das gar nicht.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wenn ich einen riesigen Hund entführen würde, ja, den in der Gegend bestimmt jeder kennt, dann würde ich nicht mit ihm im Auto durch Nothing fahren, sondern ihn möglichst gleich hier draußen verstecken.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, das stimmt.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Dann, dann kommt dann eigentlich nur das Motel in Frage. Es liegt in der Nähe und keiner käme auf die Idee den Hund dort zu suchen, weil weil das Gelände eingezäunt ist.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, stimmt.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aber wir könnten ja kurz hinfahren und nachsehen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wenn Buck dort ist, dann wissen wir, dass ihn tatsächlich jemand entführt hat.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, und wenn nicht, dann, dann sind wir kein Stück weiter.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber, aber den Versuch ist es wert.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Großtante Rosie sagen wir besser nichts, okay?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und Justus können wir ja einfach eine SMS schicken. Dann, dann weiß er, wo wir sind.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, hört sich gut an.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gut.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Der erste Detektiv stand in Rosie Renwicks Küche und wusch Geschirr ab, als das Telefon klingelte.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Hier bei Renwick. Justus Jonas am Apparat?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Cattle Pro Plus, Ronald Smith hier. Kann ich bitte Mrs. Renwick sprechen?",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Sie sind der Futtermittelvertreter, nicht wahr?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So ist es.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Mrs. Renwick ist gerade aufgrund der Unwetterschäden indisponiert. Kann sie sich im Laufe des Tages bei Ihnen melden?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah, ich habe nur eine kurze Rückfrage zu ihrer Bestellung. Mrs. Renwick kann mich bis 18:30 Uhr im Büro erreichen.",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Ich werde es ausrichten.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hier bei Renwick, Justus Jonas am Apparat?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus, bist du das?",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Ashlyn, was ist los?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich bin bei der Höhle.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Was?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ich hab' Black Smoke Cavern. Hier treibt sich jemand herum. Ein Reiter mit Sonnenbrille und schwarzem Cowboyhut.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Sicher, und der ist so echt wie der Schatz von Thomas Greenhaw.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Jetzt bindet er sein Pferd an einen Baum. Das ist bestimmt der Einbrecher, der da unten Schatz sucht.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Der Mann geht ins Tal hoch, direkt in meine Richtung.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Was ist denn für eine mich?",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Komm bitte schnell!",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Ashlyn, es reicht. Du kannst das Spiel mit deinem Bruder weiterspielen oder es auch ganz sein lassen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ach, auch das noch.",
+      "role": "Ambient"
+    },
+    {
+      "content": "Häh?",
+      "role": "Ambient"
+    },
+    {
+      "content": "Das ist Bob.",
+      "role": "Ambient"
+    },
+    {
+      "content": "Was ist, Dritter?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus, Justus, du wirst es kaum glauben, aber Peter hatte Recht. Jemand hat Buck mitgenommen und versteckt. Er war hier im Motel eingesperrt.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Und das könnte dieselbe Person gewesen sein, die auch im Schuppen eingebrochen ist.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das waren bestimmt Brian und Ashlyn.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Meinst du wirklich, dass die beiden so weit gehen würden? Sie wissen doch, wie sehr Rosie an dem Hund hängt.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Hm, nun dann, dann lässt das nur den Schluss zu, dass noch jemand außer uns auf die Schatzsuche hereingefallen ist. Ashlyn ist bereits bei der Höhle und sie hat jemanden gesehen, einen Reiter mit dunkler Sonnenbrille.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Verdammt! Wenn da draußen tatsächlich jemand nach dem Schatz sucht, dann, dann ist Ashlyn in größer Gefahr.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, was ist, wenn der, wenn wenn der Unbekannte bewaffnet ist?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Pass auf, wir machen uns mit Buck sofort auf den Weg zur Black Smoke Cavern. Du hörst von uns, Ende erster.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Auf dem Weg zum Steinbruch trabte der Bernhardiner Old Buck gemächlich neben den Rädern von Peter und Bob durch die Pfützen.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Schneller, Buck! Na komm!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Komm!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wo müssen wir jetzt lang?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ich denk, ich denk, dass die Höhle dort drüben liegen muss. Außerdem",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was hast du denn, Buck?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Na, hier steigen wir ab, ja? Peter, Peter, sieh doch mal! Dort oben auf dem, auf dem kleinen Felsplateau.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Das, das ist Ashlyn.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was, was macht sie denn da? Ist die lebensmüde?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Vermutlich ist sie, ist sie vor dem Reiter in einen der gesperrten Höhlengänge geflüchtet und ja, und dann da oben beim, beim Steinbruch rausgekommen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber, aber da oben geht es nicht weiter und zurück kann sie auch nicht. Das muss ein Erdrutsch gewesen sein. Ein Teil der Felsplatte ist verschüttet. Der Weg zurück zum Höhleneingang ist mit Geröll versperrt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Komm!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Feuer! Das sieht aber gar nicht gut aus.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Warte mal, da kommt ein Reiter aus der Höhle.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und direkt auf uns zu, zur Seite, Peter!",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ein Cowboy. Ein Cowboy mit einem schwarzen Hut und dunkler Sonnenbrille. Der hatte eine Kiste unterm Arm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja. Los jetzt, wir müssen Ashlyn helfen. Wir müssen in die Höhle. Vielleicht können wir ihr irgendwie über das, über das abgerutschte Geröll helfen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber nach diesem Unwetter kann der Boden überall einbrechen und der Felsen, auf dem sie steht, der befindet sich genau über dem See.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Trotzdem, wenn sie da abstürzt, Bob, dann, dann fällt sie mindestens 50 Meter in die Tiefe.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich weiß!",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ashlyn!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ashlyn!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hilfe! Oh, so helft mir doch. Ich will hier weg.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Ashlyn, Ashlyn, warte, warte. Bleib, bleib ganz ruhig, Ashlyn. Pass auf, wir holen dich da runter, versprochen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Oh, beeilt euch! Der Boden gibt schon nach. Hier sind überall Risse!",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Wir bekommen einen Blick ab.",
+      "role": "Ambient"
+    },
+    {
+      "content": "Das sind Justus und Brian.",
+      "role": "Ambient"
+    },
+    {
+      "content": "Ja, aber, hier ist der andere Mann.",
+      "role": "Ambient"
+    },
+    {
+      "content": "Ah, Justus! Bob! Brian, passt auf! Ashlyn ist da oben auf dem Plateau!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was?",
+      "role": "Ambient"
+    },
+    {
+      "content": "Ja, und das, das kann jeden Augenblick abrutschen.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Oh mein Gott!",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Hey, hey, Buck, bei Fuß! Komm zurück!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein! Oh, Buck ist in die Höhle gelaufen. Er will zu Ashlyn.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, aber, aber wenn er zu ihr auf das Plateau springt, dann, dann wird der Boden unter dem Gewicht nachgeben und beide werden",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Du hast recht!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nein, da oben ist er schon. Da, nein!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Buck! Buck, tu es nicht!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er springt!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sie stürzen ab!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ashlyn!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ashlyn!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sie taucht nicht mehr auf, wir wir müssen sie da rausholen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich mach das.",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Jonathan ist ein guter Taucher. Hoffentlich ist es nicht zu spät.",
+      "role": "Ambient"
+    },
+    {
+      "content": "Da sind sie. Brian! O your cousin zieht sie an Land. Und da, da ist auch Buck!",
+      "role": "Ambient"
+    },
+    {
+      "content": "Komm her!",
+      "role": "Ambient"
+    },
+    {
+      "content": "Ashlyn, Ashlyn, bist du okay?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Alles bestens.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Ich wollte doch nur den Schatz für euch bergen. Aber dieser Cowboy ist mir zuvorgekommen und da habe ich mich da drin verlaufen und bin plötzlich da oben rausgekommen.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Na komm, wir bringen dich besser zu einem Arzt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "War nicht nötig, Jonathan. Ich bin völlig okay.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Atme mal ganz, ganz tief durch, ja?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Was ist denn mit dem, mit dem geflohenen Cowboy?",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Soll er mit den geklauten Fruchtgummis glücklich werden, wer immer er auch ist. Ich habe da so eine Vermutung.",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Mr. Smith von der Futtermittelfirma kann es nicht sein, er hat nämlich ein Alibi. Vorhin hat er aus seinem Büro bei eurer Großmutter angerufen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Häh?",
+      "role": "Ashlyn"
+    },
+    {
+      "content": "Demnach gibt es nur noch eine Person, die für die Tat in Frage kommt. Und zu der solltest du uns jetzt umgehend hinfahren, Jonathan.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Aber wir",
+      "role": "Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Gut.",
+      "role": "Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

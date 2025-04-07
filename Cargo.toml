@@ -1,0 +1,20 @@
+[package]
+name = "die-drei-fragezeichen-scripts"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aws-config = { version = "1.5.17", features = ["behavior-version-latest"] }
+aws-sdk-s3 = "1.77.0"
+dotenv = "0.15.0"
+futures = "0.3.31"
+infer = "0.19.0"
+reqwest = "0.12.12"
+serde = { version = "1.0.218", features = ["derive"] }
+serde_json = "1.0.139"
+tokio = { version = "1.43.0", features = ["full"] }
+uuid = { version = "1.15.1", features = ["v4"] }
+openssl = { version = "0.10", features = ["vendored"] }
+
+[target.x86_64-unknown-linux-musl]
+linker = "x86_64-linux-musl-gcc"

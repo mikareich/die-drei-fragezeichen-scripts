@@ -1,0 +1,84 @@
+{
+  "script": [
+    {
+      "content": "Tatsächlich, hier ist es. Baker Street 150.",
+      "role": "Hitchcock, Erzähler"
+    },
+    {
+      "content": "Ich halte an.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Bitte warten Sie auf uns, auch wenn es etwas länger dauert.",
+      "role": "Hitchcock, Erzähler"
+    },
+    {
+      "content": "Verirren Sie sich nicht. Es ist nicht nur dunkel, es wird neblig.",
+      "role": "Hitchcock, Erzähler"
+    },
+    {
+      "content": "Wir passen schon auf. Bis später.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Peter, mach mal die Taschenlampe an. Man kann ja gar nichts sehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, so ist es besser.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Da ist der Friedhof.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kommt, wir gehen durch das Tor.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Es könnte einen Tropfen Öl gebrauchen.",
+      "role": "ambient"
+    },
+    {
+      "content": "Wohin jetzt?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich nahm den Bogen, meinen besten, meinen Pfeil Flug 100 Schritt gehen Westen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah, der Eingang hier liegt auf der Nordseite des Friedhofs. Also gehen wir 100 Schritt nach Westen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "100 Männerschritte wohlgemerkt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Peter, mach du es, du hast die längsten Beine.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Na, dann los.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "1, 2, 3, 4, mach längere Schritte, wie ein Erwachsener.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "5, 6, 7, 8, 9",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Der erste Versuch scheiterte.",
+      "role": "Hitchcock, Erzähler"
+    }
+  ]
+}

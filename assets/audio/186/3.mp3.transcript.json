@@ -1,0 +1,376 @@
+{
+  "script": [
+    {
+      "content": "Die Seniorenresidenz Sunny Island befand sich auf der gleichnamigen kleinen Insel, die durch eine lange Brücke mit dem Festland verbunden war.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Hinter dem Empfangstresen saß eine Frau an einem Computer.",
+      "role": "Erzähler"
+    },
+    {
+      "content": "Moment.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "So. Guten Tag, was kann ich für euch tun?",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Ich bin Peter Shaw. Haben Sie mich heute Morgen angerufen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Es geht um Ben Peck.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, natürlich. Mr. Bennington Peck...",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Hast du mit deinem Großvater gesprochen?",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Nein. Ich weiß nicht, wo er ist.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber ich bin nach wie vor sicher, dass das eine Verwechslung sein muss. Mein... Mein Opa wohnt hier nicht.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "So, so. Moment.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Wir haben hier ein Foto in unserer Datei. Warte mal. Ich drehe den Monitor mal ein bisschen.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "So. Um diesen Bewohner handelt es sich.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Nun?",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Ja, das ist er.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sind Sie sicher, dass dieser Mann hier auch tatsächlich wohnt?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, ich habe ihn ja täglich gesehen.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Aber das ist nicht möglich.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Was ist denn mit deinen Eltern? Mit denen sollte ich wohl besser mal telefonieren.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Das geht nicht. Jedenfalls nicht jetzt. Sie sind in Europa, da ist es jetzt schon Nacht. Sie können sie heute Abend erreichen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, dann ist meine Schicht längst zu Ende.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Also schön. Mr. Peck zog vor drei Wochen hier ein, drüben in Haus eins. Es war von Anfang an nicht ganz na ja, leicht mit ihm.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Nicht ganz leicht?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, er war ein, also er ist ein reizender alter Herr, aber schon bald recht na ja, verwirrt.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Was?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, manchmal lief er hier herum und fragte mich nach dem Weg zu seinem Apartment, weil er ihn vergessen hatte. Einmal stand er sogar im Schlafanzug vor mir und wollte wissen, warum er sich auf einer Insel befindet. Also deshalb entschieden wir schon nach zehn Tagen, dass er besser ins betreute Wohnen wechseln sollte.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Wie bitte? Betreutes Wohnen?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja. Mr. Peck hat Schwierigkeiten, sich selbst zu versorgen. Aber vielleicht solltest du besser mit dem Leiter der Residenz sprechen, Dr. Burke.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Ja, gut.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er ist gerade auf Visite in Haus drei, aber müsste bald fertig sein.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Mrs. Penny, wie schön, Sie so, na ja, energiegeladen zu sehen, aber mein Name ist Martinez, nicht Pomeroy. Erinnern Sie sich? Mrs. Pomeroy arbeitet hier schon seit einigen Monaten nicht mehr.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Das haben sie letztes Mal schon behauptet, Mrs. Pomeroy. Außerdem lenken Sie vom Thema ab. Der Tod geht um und es interessiert sie anscheinend gar nicht.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Was sollen wir denn Ihrer Meinung nach unternehmen, Mrs. Penny?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also das müssen Sie nun wirklich selber wissen.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Ach, Jungs, da kommt Dr. Burke. Einen Moment, Mrs. Penny, ja?",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Dr. Burke, die Jungs sind wegen Bennington Peck gekommen.",
+      "role": "Mrs. Penny"
+    },
+    {
+      "content": "Guten Tag.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Ich bin der Leiter dieser Residenz. Angenehm, Peter Shaw. Ich bin der Enkel von Mr. Peck und das ist mein Freund Justus Jonas.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Guten Tag.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ah ja, guten Tag. Na, dann kommt mal mit in mein Büro, gern.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "So. Ja, dann setzt euch doch.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Danke.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hatten denn deine Eltern keine Zeit herzukommen, Peter?",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Nein, nein, sie sind auf Reisen. Sie haben mich geschickt wegen wegen der Sache.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Weißt du denn, wo dein Großvater sich zurzeit aufhält?",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Nein, leider nicht. Ich wusste nicht einmal, dass er hier wohnt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Also ehrlich gesagt, begreife ich das alles nicht, Dr. Burke.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Mein Großvater soll sich nicht mehr allein versorgen können und ist deshalb hier gelandet?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er war doch noch topfit!",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ich gebe zu, dass sein Krankheitsverlauf sehr rasant zu sein scheint.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Moment, Moment. Wollen Sie damit sagen, dass das alles kein Irrtum ist?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Mein Opa ist wirklich krank?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich verstehe, die Symptome sind eindeutig.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Peter, dein Großvater leidet an Demenz.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Was? Ich sehe, dass ich dich mit dieser Information überfordere. Entschuldige, ich sollte das alles mit deinen Eltern besprechen. Die Routine, verstehst du? Ich habe nicht darüber nachgedacht.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Es ist jetzt erst einmal wichtig, dass Mr. Peck wieder auftaucht.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Na, hast du vielleicht wenigstens eine Idee, wo er sich aufhalten könnte?",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nein, ich wusste ja bis vor wenigen Stunden nicht einmal, dass er nicht mehr zu Hause wohnt.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Aber wir werden ihn schon finden. Daran haben wir gewisse Erfahrung.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Im Auffinden von Mr. Peck?",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Im Auffinden von verschwundenen Personen allgemein. Wir haben ein kleines, aber erfolgreiches Detektivunternehmen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "So, so.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Eines noch. Ich muss euch warnen. Mr. Peck neigt zu Aggressionen und er leidet unter Verfolgungswahn. Wir haben ihn hier als recht aufbrausende Natur erlebt.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Das kann ich mir wiederum vorstellen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wenn ihr ihn findet, er wird da sich vermutlich sträuben, hierher zurückzukehren. Er hatte ja einen Grund abzuhauen. Vermutlich ist dieser Grund irgendeine abwegige Verschwörungstheorie, in die er sich hineingesteigert hat. Wie wild die Geschichten auch euch möglicherweise erzählt auch sein mögen, lasst euch davon nicht irren.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Gut. Wir werden das im Hinterkopf behalten. Vielen Dank, dass Sie uns aufgeklärt haben, Dr. Burke. Wir melden uns bei Ihnen.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also, dann...",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, also, wenn es Schwierigkeiten geben sollte, könnt ihr mich jederzeit anrufen. Hier ist meine Karte.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Ach, danke, ja. Auf Wiedersehen, Dr. Burke.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, Wiedersehen.",
+      "role": "Doktor Burke"
+    },
+    {
+      "content": "Hm.",
+      "role": "ambient"
+    },
+    {
+      "content": "Komm, zweiter. Setzen wir uns einen Moment auf diese Bank da.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "ambient"
+    },
+    {
+      "content": "Demenz.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das erklärt auch das Buch auf seinem Nachtschrank.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er hat gemerkt, dass mit ihm etwas nicht stimmt und sich informiert.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und dann ist er heimlich hier",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "eingezogen, weil er meiner Mutter nicht die Wahrheit sagen wollte. Danach verlor er den Verstand, haute ab und überfiel eine Tankstelle.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Nur mal langsam, Peter.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und wer soll überhaupt dieses Pflegeheim bezahlen? Kannst du dir vorstellen, wie teuer der Schuppen hier ist? Mit Privatstrand und allem? Er hat doch gar nicht so viel Geld.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ich muss jetzt jedenfalls sofort meine Eltern anrufen. Sie wissen doch noch gar nicht, was überhaupt los ist.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, auch nicht.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Wie meinst du das?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Diese ganze Geschichte ist doch haarsträubend unlogisch und mehr als rätselhaft. Niemand wird von heute auf morgen dement. Das ist ein schleichender Prozess.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Du tust ja gerade so, als wär nichts.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Er hat eine Tankstelle ausgeraubt. Nichts würde ich das nicht nennen, aber es ist vielleicht nicht das, wonach es aussieht.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Justus, bitte, sprich klar und deutlich mit mir. Ich kann dein Geschwafel heute nicht ertragen.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Gut, klar und deutlich. Ich glaube nur die Hälfte der Geschichte. Zu vieles passt hier nicht zusammen. Ich möchte behaupten, dass in 99 % aller Fälle der betroffene Demenzpatient erst einmal leugnen würde, was mit ihm geschieht, um sich dann gegen den Umzug in ein Altenheim zu sträuben. Dein Großvater aber ist nicht nur freiwillig hierher gezogen, er hat auch niemandem davon erzählt, nicht einmal seinen Nachbarn Mr. Castro, obwohl er die ihn für seine Zwecke eingespannt hat, damit das Geheimnis nicht aufliegt.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Hm.",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Du meinst, es ist vielleicht alles nicht so schlimm, wie es aussieht?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Hm. Zumindest ist es anders, als es aussieht. Irgendetwas geht hier vor und wir werden herausfinden, was es ist.",
+      "role": "Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und wie?",
+      "role": "Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Indem wir jemanden aufsuchen, den dein Großvater kannte und den er regelmäßig hier auf Sunny Island besucht hat. Sein ehemaliger Nachbarn, Mr. Hooper.",
+      "role": "Justus Jonas, Erster Detektiv"
+    }
+  ]
+}

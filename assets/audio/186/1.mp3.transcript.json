@@ -1,0 +1,212 @@
+{
+  "script": [
+    {
+      "content": "78 Dollar für diesen Mumpitz Kollegen? Ich gehe jede Wette ein, dass dieser Trichter nicht mehr taugt als jede andere Trichter. Ich schalte mal ab. ",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Davon hast du ja noch gar nichts erzählt, Bob. Das ist doch völlig unmöglich und entbehrt jeder Logik. Das ist aber noch keine Erklärung dafür, wie es Mrs. Franklin. ",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Irrtum zweiter. Es sieht eben nicht danach aus, als wäre er nur mal kurz weg. Ich habe deinen Opa als einen Menschen kennengelernt, der sich nicht gerade durch große Ordnungsliebe auszeichnet. ",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Wie wie macht sie das nur? Deine Ex-Therapeutin als Star in einer Home-Shopping-Show. ",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ist das für sie nun Auf- oder eher ein Abstieg? Ja, und Justus, du könntest deine Tante morgen mal ausquetschen, ob die Geschichte mit ihrer Freundin wirklich stimmt, ja? Wenn sich ihre Aussage bewahrheiten sollte, dann gäbe es für dieses Phänomen nur eine mögliche Erklärung. Peter Shaw? Äh, nein, seinen sein Enkel.  Zurzeit nicht. Nein, Sie sind auf Reisen. Ich für ich fürchte, ich verstehe kein Wort von. ",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Justus und ich haben die Nachrichten ja auch gesehen. Bei dem Mann, der auf den Bildern der Überwachungs-Kamera zu sehen war, handelte es sich zweifelsfrei um deinen Opa, Ben Peck. Die privaten Details ihrer Anrufer kommt, anstatt zu lästern. Hilft schon unheimlich, dass Clarissa, der Freundin deiner Tante, präzise sagen konnte, wo ihr verstorbener Mann, den Kurz seines Safes notiert hat. Ja, Mathildas Freundin Emily ist in der Sendung zu Astraler durchgestellt worden. Ja, deine Tante hat es mir selbst erzählt. Eben. Ja, vielleicht wird Clarissa deshalb von diesem Irren bedroht. ",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Türklingel",
+      "role": "ambient"
+    },
+    {
+      "content": "Peter Shaw? Zum Morgen, Mr. Shaw, hier spricht Sandra Martinez vom Sunny Island Retirement Center in Oxnard. Es sind sie der Schwiegersohn von Mr. Bennington Peck?",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Äh, nein, sein sein Enkel. ",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach so, werden dann deine Eltern zu sprechen?",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Äh zur Zeit nicht, nein, Sie sind auf Reisen. ",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und die Sache ist die, dein Großvater ist seit gestern verschwunden und wir sind sehr besorgt, dass ihm etwas zugestoßen sein könnte.",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Ich ich fürchte, ich verstehe kein Wort von",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wo rufen Sie an?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Vom Sunny Island Retirement Center.",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Das klingt ja wie ein Altenheim.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Wir bevorzugen den Begriff Senioren Residenz.",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Aha, ja und was genau hat mein Großvater mit ihrer Senioren Residenz zu tun?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, er wohnt hier.",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Das muss eine Verwechslung sein. Mein Großvater wohnt in seinem eigenen Haus in Rocky Beach.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Sehr merkwürdig. Aber vielleicht könnte dein Großvater sich trotzdem bei uns melden, damit wir die Angelegenheit klären können. ",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Ja, dafür kann ich ja sorgen. Und danke für die Info.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, schönen Tag noch.",
+      "role": "character:Sandra"
+    },
+    {
+      "content": "Ja, schönen Tag.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Verstehe ich alles nicht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, ist Ben Peck. Wenn diese blöde Maschine nicht schon wieder kaputt ist, könnten sie jetzt deine Nachricht",
+      "role": "character:Unknown"
+    },
+    {
+      "content": "Hallo Opa, hier ist Peter. Eben hat eine Frau aus einem Altenheim angerufen. Sie meinte, du würdest da wohnen und seist jetzt verschwunden. Du sollst da mal anrufen. Also, ich habe es alles nicht so richtig verstanden. Weißt du, worum es geht? Ruf mich doch mal zurück, ja?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Merkwürdig. ",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "In den späten Nachmittagsstunden bedrohte der Mann einen Kunden und den Tankwart mit einer Waffe und zwang diesen die Kasse zu leeren. Danach konnte der Täter unerkannt fliehen. Das Bildmaterial der Überwachungskamera ist der einzige Hinweis, den die Polizei von Ventura derzeit hat.",
+      "role": "character:TV-Nachrichtensprecher"
+    },
+    {
+      "content": "Aber das gibt es doch nicht.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das kann doch nicht wahr sein.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Also, ich kann auch keinen Reim machen, Peter. Justus und ich haben die Nachrichten ja auch gesehen.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Ja, bei dem Mann, der auf den Bildern der Überwachungskamera zu sehen war, handelte es sich zweifelsfrei um deinen Opa, Ben Peck.",
+      "role": "character:Bob Andrews, Recherchen und Archiv"
+    },
+    {
+      "content": "Aber das kann nicht sein, Leute!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Warum warum sollte mein Opa eine Tankstelle überfallen? Er hatte eine Waffe in der Hand. Opa besitzt überhaupt keine Waffe. Also, wann hast du ihn zum letzten Mal gesehen, Zweiter?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Vor drei Wochen vielleicht. Er war zum Abendessen bei uns.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Und ist dir da etwas Ungewöhnliches an ihm aufgefallen?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Überhaupt nichts.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ja, streng genommen, müsstest du zur Polizei gehen.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Was? Ja!",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Ach auf gar keinen Fall, mein Opa ist kein Verbrecher. Es es muss eine Verwechslung sein.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Eine Verwechslung vielleicht, aber wahrscheinlich kein Zufall. Du sagtest doch, dass die Frau am Telefon meinte, er sei angeblich aus einem Altenheim verschwunden.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Ja, aber in dem er gar nicht wohnt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Eben und dann überfällt er eine Tankstelle. Diese beiden Vorfälle sind so außergewöhnlich, dass ich an einen Zusammenhang glauben muss.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Und was für einen Zusammenhang soll das sein?",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Das ist mir leider völlig schleierhaft. Na ja, vielleicht vielleicht hat dein dein dein Opa einen Doppelgänger.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Kollegen, am besten fahren wir zu ihm. Du warst noch nicht bei ihm zu Hause, Zweiter, oder?",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Nein, nein, nein, ich habe ihn nur angerufen, aber er scheint nicht da zu sein. Meine Eltern habe ich auch noch nicht verständigt.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Dann fahren wir jetzt hin und sehen nach.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Einverstanden.",
+      "role": "character:Peter Shaw, Zweiter Detektiv"
+    },
+    {
+      "content": "Kommt, das ist eine gute Idee.",
+      "role": "character:Justus Jonas, Erster Detektiv"
+    },
+    {
+      "content": "Autotür",
+      "role": "ambient"
+    }
+  ]
+}
